@@ -1,0 +1,23 @@
+.state-spotify-ctn {
+  padding: 40px 20px;
+  height: 470px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: -40px;
+}
+
+@media (min-width: 744px) {
+  .state-spotify-ctn {
+    height: 370px;
+    margin-bottom: -60px;
+  }
+}
+
+@media (min-width: 992px) {
+  .state-spotify-ctn {
+    height: 370px;
+    padding: 40px;
+  }
+}
