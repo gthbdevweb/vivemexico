@@ -1,73 +1,72 @@
 .slider-ctn {
-    padding: 42px 15px;
+  padding: 42px 15px;
+}
+.slider-card-ctn {
+  border-radius: 0;
+  border: none;
+  background-color: #eee;
+}
+.heading-slider-card-ctn-img {
+  padding: 40px;
+}
+.heading-slider-card-ctn-img > a {
+  text-decoration: none;
+  color: #000;
+}
+.heading-slider-card-img {
+  border-radius: 0;
+}
+.heading-card-img {
+  width: 100%;
+  aspect-ratio: 1/1;
+}
+.heading-slider-text-title {
+  margin-top: 32px;
+  font-size: 28px;
+  text-align: center;
+}
+.heading-slider-text-desc {
+  margin-top: 15px;
+  font-size: 14px;
+  text-align: center;
+}
+@media (max-width: 767px) {
+  .carousel-inner-js .carousel-item-js > div {
+    display: none;
   }
-  .slider-card-ctn {
-    border-radius: 0;
-    border: none;
-    background-color: #eee;
+  .carousel-inner-js .carousel-item-js > div:first-child {
+    display: block;
+    gap: 5px;
+  }
+}
+.carousel-inner-js .carousel-item-js.active,
+.carousel-inner-js .carousel-item-next,
+.carousel-inner .carousel-item-prev {
+  display: flex;
+}
+@media (min-width: 768px) {
+  .slider-ctn {
+    padding: 72px 52px;
   }
   .heading-slider-card-ctn-img {
-    padding: 40px;
-  }
-  .heading-slider-card-ctn-img > a {
-    text-decoration: none;
-    color: #000;
-  }
-  .heading-slider-card-img {
-    border-radius: 0;
-  }
-  .heading-card-img {
-    width: 100%;
-    aspect-ratio: 1/1;
+    padding: 60px;
   }
   .heading-slider-text-title {
-    margin-top: 32px;
-    font-size: 28px;
-    text-align: center;
+    margin-top: 56px;
   }
   .heading-slider-text-desc {
-    margin-top: 15px;
-    font-size: 14px;
-    text-align: center;
+    font-size: 16px;
   }
-  @media (max-width: 767px) {
-    .carousel-inner-js .carousel-item-js > div {
-      display: none;
-    }
-    .carousel-inner-js .carousel-item-js > div:first-child {
-      display: block;
-      gap: 5px;
-    }
+  .carousel-inner-js .carousel-item-end.active,
+  .carousel-inner-js .carousel-item-next {
+    transform: translateX(25%);
   }
-  .carousel-inner-js .carousel-item-js.active,
-  .carousel-inner-js .carousel-item-next,
-  .carousel-inner .carousel-item-prev {
-    display: flex;
+  .carousel-inner-js .carousel-item-start.active, 
+  .carousel-inner-js .carousel-item-prev {
+    transform: translateX(-25%);
   }
-  /* medium and up screens */
-  @media (min-width: 768px) {
-    .slider-ctn {
-      padding: 72px 52px;
-    }
-    .heading-slider-card-ctn-img {
-      padding: 60px;
-    }
-    .heading-slider-text-title {
-      margin-top: 56px;
-    }
-    .heading-slider-text-desc {
-      font-size: 16px;
-    }
-    .carousel-inner-js .carousel-item-end.active,
-    .carousel-inner-js .carousel-item-next {
-      transform: translateX(25%);
-    }
-    .carousel-inner-js .carousel-item-start.active, 
-    .carousel-inner-js .carousel-item-prev {
-      transform: translateX(-25%);
-    }
-  }
-  .carousel-inner-js .carousel-item-end,
-  .carousel-inner-js .carousel-item-start { 
-    transform: translateX(0);
-  }
+}
+.carousel-inner-js .carousel-item-end,
+.carousel-inner-js .carousel-item-start { 
+  transform: translateX(0);
+}

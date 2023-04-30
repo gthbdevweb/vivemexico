@@ -3,8 +3,8 @@ import './style.css';
 
 const HeaderVideos = () => {
   return (
-    <section class="videos-title-ctn">
-      <h1 class="videos-title-text-title">Headline</h1>
+    <section className="videos-title-ctn">
+      <h1 className="videos-title-text-title">Headline</h1>
     </section>
   )
 };

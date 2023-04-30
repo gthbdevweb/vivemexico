@@ -1,0 +1,31 @@
+{
+    "carousel": [
+        {
+            "url": "slide1.webp",
+            "id": "slide1"
+        },
+        {
+            "url": "slide2.jpg",
+            "id": "slide2"
+        }, 
+        {
+            "url": "slide1.webp",
+            "id": "slide3"
+        }, 
+        {
+            "url": "slide2.jpg",
+            "id": "slide4"
+        }
+    ],
+    "content": {
+        "title": "Título",
+        "subtitle": "Subtítulo",
+        "desciption": "Lorem ipsum dolor sit amet consectetur."
+    },
+    "actions": {
+        "button": {
+            "text" : "Vámos allá",
+            "dir": "/"
+        }
+    }
+}

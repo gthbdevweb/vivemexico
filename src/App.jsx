@@ -28,6 +28,8 @@ function App() {
           <Route path='/calendario' element={<Calendar />} />
           <Route path='/eventos' element={<Events />} />
           <Route path='/pueblos' element={<Towns />} />
+          <Route path='/vivemexico' element={<Home />} />
+          <Route path='*' element={<Home />} />
         </Routes>
       </Layout>
     </BrowserRouter>

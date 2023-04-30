@@ -1,0 +1,46 @@
+{
+    "trends": [
+        {
+            "id": 0,
+            "title": "Tendencia Uno",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo ducimus totam corporis.",
+            "urlImg": "slide1.webp",
+            "dir": "/trends"
+        },
+        {
+            "id": 1,
+            "title": "Tendencia Dos",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo ducimus totam corporis.",
+            "urlImg": "slide2.jpg",
+            "dir": "/trends"
+        },
+        {
+            "id": 2,
+            "title": "Tendencia Tres",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo ducimus totam corporis.",
+            "urlImg": "slide1.webp",
+            "dir": "/trends"
+        },
+        {
+            "id": 3,
+            "title": "Tendencia Cuatro",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo ducimus totam corporis.",
+            "urlImg": "slide2.jpg",
+            "dir": "/trends"
+        },
+        {
+            "id": 4,
+            "title": "Tendencia Cinco",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo ducimus totam corporis.",
+            "urlImg": "slide1.webp",
+            "dir": "/trends"
+        },
+        {
+            "id": 5,
+            "title": "Tendencia Seis",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo ducimus totam corporis.",
+            "urlImg": "slide2.jpg",
+            "dir": "/trends"
+        }
+    ]
+}

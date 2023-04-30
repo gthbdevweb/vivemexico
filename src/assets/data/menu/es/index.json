@@ -1,0 +1,57 @@
+{
+    "header": {
+        "title": "Título",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing."
+    },
+    "menu": [
+        {
+            "name": "Estados",
+            "dir": "/estados",
+            "urlImg": "slide1.webp",
+            "description": "Descubre Estados",
+            "hover": "Vámos a Estados!"
+        },
+        {
+            "name": "Pueblos Mágicos",
+            "dir": "/pueblos",
+            "urlImg": "slide2.jpg",
+            "description": "Descubre Pueblos Mágicos",
+            "hover": "Vámos a Pueblos Mágicos!"
+        },
+        {
+            "name": "Eventos Internacionales",
+            "dir": "/eventos",
+            "urlImg": "slide1.webp",
+            "description": "Descubre Eventos Internacionales",
+            "hover": "Vámos a Eventos Internacionales!"
+        },
+        {
+            "name": "Calendario",
+            "dir": "/calendario",
+            "urlImg": "slide2.jpg",
+            "description": "Descubre Calendario",
+            "hover": "Vámos a Calendario!"
+        },
+        {
+            "name": "Materiales Promocionales",
+            "dir": "/materiales",
+            "urlImg": "slide1.webp",
+            "description": "Descubre Materiales Promocionales",
+            "hover": "Vámos a Materiales Promocionales!"
+        },
+        {
+            "name": "Blog",
+            "dir": "/blog",
+            "urlImg": "slide2.jpg",
+            "description": "Descubre Blog",
+            "hover": "Vámos a Blog!"
+        },
+        {
+            "name": "Vídeos",
+            "dir": "/videos",
+            "urlImg": "slide1.webp",
+            "description": "Descubre Vídeos",
+            "hover": "Vámos a Vídeos!"
+        }
+    ]
+}

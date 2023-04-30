@@ -1,9 +1,16 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect, useContext } from 'react';
+import { LazyLoadImage } from 'react-lazy-load-image-component';
+import { Context } from '../../Context';
 import Logo from '../../assets/img/logos/logo.png';
 import { Link } from 'react-router-dom';
+import dataEs from '../../assets/data/menu/es/index.json';
+import dataEn from '../../assets/data/menu/en/index.json';
 import './style.css';
 
 const Header = () => {
+  const { isLanguage, selectedLanguage } = useContext(Context);
+  const [language, setLanguage] = useState({});
+
   const [isChecked, setIscheked] = useState(false);
   const classNavWraper = isChecked ? "nav-wrapper nav-show" : "nav-wrapper";
   
@@ -15,27 +22,51 @@ const Header = () => {
     setIscheked(false);
   };
 
+  const changeLanguage = (e) => {
+    selectedLanguage(e.target.value);
+  }; 
+
+  useEffect(() => (
+    isLanguage === 'MX' ? setLanguage(dataEs)
+    : isLanguage === 'USA' ? setLanguage(dataEn)
+    : setLanguage(dataEs)
+  ), [isLanguage]);
+
+  const menuOptions = () => (
+    language?.menu?.map((item, index) => (
+      <li key={index}>
+        <Link 
+          key={index}
+          to={item.dir}
+          onClick={changeState}
+        >
+          {item.name}
+        </Link>
+      </li>
+    ))
+  );
+
   return (
     <>
       <header className="header-ctn">
-      <Link to='/' className="header-a" onClick={changeState}>
-        <img src={Logo} alt="visitmexico-logo" className="header-logo" />
-      </Link>
+        <Link to='/' className="header-a" onClick={changeState}>
+          <LazyLoadImage src={Logo} alt="visitmexico-logo" className="header-logo" />
+        </Link>
       </header>
       <div className="header-back"></div>
+      <label className='header-select' htmlFor="selectLanguage">
+        <select name="selectedFruit" className="header-select-input" onChange={(e) => changeLanguage(e)} id="selectLanguage">
+          <option value="MX">🇲🇽ES</option>
+          <option value="USA">🇺🇸EN</option>
+        </select>
+      </label>
       <nav className="nav-ctn" id="nav-ctn">
         <input type="checkbox" id="nav-active" onChange={changeChecked }/>
         <label htmlFor="nav-active" className="nav-menu-btn"><span></span></label>
       </nav>
       <div className={classNavWraper}  id="nav-wrapper">
         <ul className="nav-menu-options">
-          <li><Link to='/estados' onClick={changeState}>Estados</Link></li>
-          <li><Link to='/pueblos' onClick={changeState}>Pueblos Mágicos</Link></li>
-          <li><Link to='/eventos' onClick={changeState}>Eventos Internacionales</Link></li>
-          <li><Link to='/calendario' onClick={changeState}>Calendario</Link></li>
-          <li><Link to='/materiales' onClick={changeState}>Materiales  Promocionales</Link></li>
-          <li><Link to='/blog' onClick={changeState}>Blog</Link></li>
-          <li><Link to='/videos' onClick={changeState}>Videos</Link></li>
+          {menuOptions()}
         </ul>
         <ul className="nav-menu-blog">
           <li><a href="#">Tianguis Turístico México 2023</a></li>
@@ -76,7 +107,7 @@ const Header = () => {
           </li>
         </ul>
         <div className="navbar-menu-video">
-          <iframe width="100%" height="100%" src="https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1" title="Conoce las Ciudades Mexicanas Patrimonio Mundial. Visit México." frameBorder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+          <iframe loading='lazy' width="100%" height="100%" src="https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1" title="Conoce las Ciudades Mexicanas Patrimonio Mundial. Visit México." frameBorder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
         </div>
       </div>
     </>

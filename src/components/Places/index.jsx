@@ -1,86 +1,45 @@
-import React from 'react';
-import Place1 from '../../assets/img/places/slide1.webp';
-import Place2 from '../../assets/img/places/slide2.jpg';
+import React, { useState, useEffect, useContext} from 'react';
+import { Context } from '../../Context';
+import { Link } from 'react-router-dom';
+import { LazyLoadImage } from 'react-lazy-load-image-component';
+import dataEs from '../../assets/data/menu/es/index.json';
+import dataEn from '../../assets/data/menu/en/index.json';
 import './style.css';
 
 const Places = () => {
+  const { isLanguage } = useContext(Context);
+  const [language, setLanguage] = useState({});
+
+  useEffect(() => (
+    isLanguage === 'MX' ? setLanguage(dataEs)
+    : isLanguage === 'USA' ? setLanguage(dataEn)
+    : setLanguage(dataEs)
+  ), [isLanguage]);
+
+  const placesContent = () => (
+    language?.menu?.map((item, index) => (
+      <div className="places-card" key={index} >
+        <Link to={item.dir} className="places-card-link">
+          <LazyLoadImage 
+            className="places-card-img"
+            src={require(`../../assets/img/places/${item.urlImg}`)} 
+            alt={item.name}
+          />
+          <p className="places-card-text">{item.description}</p>
+          <div className="places-card-hover">
+            <p className="places-card-hover-text">{item.hover}</p>
+          </div>
+        </Link>
+      </div>
+    ))
+  );
+
   return (
-    <section class="places-ctn sliceLeft">
-      <h2 class="places-text-title">HEADLINE</h2>
-      <p class="pĺaces-text-desciption">Lorem, ipsum dolor sit amet consectetur adipisicing.</p>
-      <div class="places-cards-ctn">
-        <div class="places-card">
-          <a href="#" class="places-card-link">
-            <img class="places-card-img" src={Place1} alt="image1" />
-            <p class="places-card-text">Lorem, ipsum dolor.</p>
-            <div class="places-card-hover">
-              <p class="places-card-hover-text">Lorem, ipsum dolor.</p>
-            </div>
-          </a>
-        </div>
-        <div class="places-card">
-          <a href="#" class="places-card-link">
-            <img class="places-card-img" src={Place2} alt="image1" />
-            <p class="places-card-text">Lorem, ipsum dolor.</p>
-            <div class="places-card-hover">
-              <p class="places-card-hover-text">Lorem, ipsum dolor.</p>
-            </div>
-          </a>
-        </div>
-        <div class="places-card">
-          <a href="#" class="places-card-link">
-            <img class="places-card-img" src={Place1} alt="image1" />
-            <p class="places-card-text">Lorem, ipsum dolor.</p>
-            <div class="places-card-hover">
-              <p class="places-card-hover-text">Lorem, ipsum dolor.</p>
-            </div>
-          </a>
-        </div>
-        <div class="places-card">
-          <a href="#" class="places-card-link">
-            <img class="places-card-img" src={Place2} alt="image1" />
-            <p class="places-card-text">Lorem, ipsum dolor.</p>
-            <div class="places-card-hover">
-              <p class="places-card-hover-text">Lorem, ipsum dolor.</p>
-            </div>
-          </a>
-        </div>
-        <div class="places-card">
-          <a href="#" class="places-card-link">
-            <img class="places-card-img" src={Place1} alt="image1" />
-            <p class="places-card-text">Lorem, ipsum dolor.</p>
-            <div class="places-card-hover">
-              <p class="places-card-hover-text">Lorem, ipsum dolor.</p>
-            </div>
-          </a>
-        </div>
-        <div class="places-card">
-          <a href="#" class="places-card-link">
-            <img class="places-card-img" src={Place2} alt="image1" />
-            <p class="places-card-text">Lorem, ipsum dolor.</p>
-            <div class="places-card-hover">
-              <p class="places-card-hover-text">Lorem, ipsum dolor.</p>
-            </div>
-          </a>
-        </div>
-        <div class="places-card">
-          <a href="#" class="places-card-link">
-            <img class="places-card-img" src={Place1} alt="image1" />
-            <p class="places-card-text">Lorem, ipsum dolor.</p>
-            <div class="places-card-hover">
-              <p class="places-card-hover-text">Lorem, ipsum dolor.</p>
-            </div>
-          </a>
-        </div>
-        <div class="places-card">
-          <a href="#" class="places-card-link">
-            <img class="places-card-img" src={Place2} alt="image1" />
-            <p class="places-card-text">Lorem, ipsum dolor.</p>
-            <div class="places-card-hover">
-              <p class="places-card-hover-text">Lorem, ipsum dolor.</p>
-            </div>
-          </a>
-        </div>
+    <section className="places-ctn sliceLeft">
+      <h2 className="places-text-title">{language?.header?.title}</h2>
+      <p className="pĺaces-text-desciption">{language?.header?.description}</p>
+      <div className="places-cards-ctn">
+        {placesContent()}
       </div>
     </section>
   )

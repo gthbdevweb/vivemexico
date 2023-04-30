@@ -3,8 +3,8 @@ import './style.css';
 
 const Footer = () => {
   return (
-    <footer class="footer-ctn">
-      <p class="footer-text-desc">Copyright</p>
+    <footer className="footer-ctn">
+      <p className="footer-text-desc">Copyright</p>
     </footer>
   )
 };

@@ -1,0 +1,11 @@
+{
+    "title": "Título",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed id cupiditate aperiam, porro distinctio atque voluptates aliquid perferendis fugiat harum? Velit quod optio nulla architecto repellat quisquam exercitationem libero incidunt delectus qui eius et saepe, harum eligendi numquam aliquam! Blanditiis.",
+    "urlImg": "slide2.jpg",
+    "actions": {
+        "button": {
+            "text": "Lorem ipsum dolor sit.",
+            "dir": ""
+        }
+    }
+}

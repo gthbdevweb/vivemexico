@@ -1,0 +1,57 @@
+{
+    "header": {
+        "title": "Title",
+        "description": "Velit quod optio nulla architecto repellat quisquam libero ."
+    },
+    "menu": [
+        {
+            "name": "States",
+            "dir": "/estados",
+            "urlImg": "slide2.jpg",
+            "description": "Discover Estados",
+            "hover": "Let's to States!"
+        },
+        {
+            "name": "Magic Towns",
+            "dir": "/pueblos",
+            "urlImg": "slide1.webp",
+            "description": "Discover Magic Townss",
+            "hover": "Let's to Magic Towns!"
+        },
+        {
+            "name": "International Events",
+            "dir": "/eventos",
+            "urlImg": "slide2.jpg",
+            "description": "Discover International Events",
+            "hover": "Let's to International Events!"
+        },
+        {
+            "name": "Calendar",
+            "dir": "/calendario",
+            "urlImg": "slide1.webp",
+            "description": "Discover Calendar",
+            "hover": "Let's to Calendar!"
+        },
+        {
+            "name": "Promotonial Materials",
+            "dir": "/materiales",
+            "urlImg": "slide2.jpg",
+            "description": "Discover Promotonial Materials",
+            "hover": "Let's to Promotonial Materials!"
+        },
+        {
+            "name": "Blog",
+            "dir": "/blog",
+            "urlImg": "slide1.webp",
+            "description": "Discover Blog",
+            "hover": "Let's to Blog!"
+        },
+        {
+            "name": "Videos",
+            "dir": "/videos",
+            "urlImg": "slide2.jpg",
+            "description": "Discover Videos",
+            "hover": "Let's to Videos!"
+        }
+    ]
+}

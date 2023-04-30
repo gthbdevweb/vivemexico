@@ -1,19 +1,35 @@
-import React from 'react';
-import Description1 from '../../assets/img/description/slide2.jpg';
+import React, { useEffect, useState, useContext } from 'react';
+import { LazyLoadImage } from 'react-lazy-load-image-component';
+import { Context } from '../../Context';
+import dataEs from '../../assets/data/description/es/index.json';
+import dataEn from '../../assets/data/description/en/index.json';
 import './style.css';
 
 const Description = () => {
+  const { isLanguage } = useContext(Context);
+  const [language, setLanguage] = useState({});
+
+  useEffect(() => (
+    isLanguage === 'MX' ? setLanguage(dataEs)
+    : isLanguage === 'USA' ? setLanguage(dataEn)
+    : setLanguage(dataEs)
+  ), [isLanguage]);
+
   return (
-    <section class="description-ctn">
-      <div class="description-ctn-text">
-        <h2 class="description-text-title">HEADLINE</h2>
-        <p class="description-text-desc">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed id cupiditate aperiam, porro distinctio atque voluptates aliquid perferendis fugiat harum? Velit quod optio nulla architecto repellat quisquam exercitationem libero incidunt delectus qui eius et saepe, harum eligendi numquam aliquam! Blanditiis.</p>
-        <div class="description-ctn-badge">
-          <p class="description-badge-text">Lorem ipsum dolor sit.</p>
+    <section className="description-ctn">
+      <div className="description-ctn-text">
+        <h2 className="description-text-title">{language?.title}</h2>
+        <p className="description-text-desc">{language?.description}</p>
+        <div className="description-ctn-badge">
+          <p className="description-badge-text">{language?.actions?.button?.text}</p>
         </div>
       </div>
-      <div class="description-ctn-img">
-        <img class="description-img" src={Description1} alt="image2" />
+      <div className="description-ctn-img">
+        <LazyLoadImage
+          className="description-img"
+          src={require(`../../assets/img/description/slide2.jpg`)} 
+          alt={language?.title}
+        />
       </div>
     </section>
   )

@@ -3,8 +3,8 @@ import './style.css';
 
 const HeaderBlog = () => {
   return (
-    <section class="blog-title-ctn">
-      <h1 class="blog-title-text-title">Headline</h1>
+    <section className="blog-title-ctn">
+      <h1 className="blog-title-text-title">Headline</h1>
     </section>
   )
 };

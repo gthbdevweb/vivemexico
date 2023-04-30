@@ -4,21 +4,21 @@ import './style.css';
 
 const HeaderCalendar = () => {
   return (
-    <section class="calendar-header-ctn">
-      <div class="calendar-header-text-ctn">
-        <h1 class="calendar-header-text-title">Headline</h1>
-        <h3 class="calendar-header-text-subtitle">Subheading</h3>
+    <section className="calendar-header-ctn">
+      <div className="calendar-header-text-ctn">
+        <h1 className="calendar-header-text-title">Headline</h1>
+        <h3 className="calendar-header-text-subtitle">Subheading</h3>
       </div>
-      <div class="calendar-header-calendar-ctn">
-        <div class="calendar-header-calendar-img-ctn">
-          <img class="calendar-header-calendar-img" src={Calendar1} alt="img" />
+      <div className="calendar-header-calendar-ctn">
+        <div className="calendar-header-calendar-img-ctn">
+          <img className="calendar-header-calendar-img" src={Calendar1} alt="img" />
         </div>
-        <div class="calendar-header-calendar">
+        <div className="calendar-header-calendar">
           <div id="calendar"></div>
         </div>
       </div>
-      <div class="calendar-header-text-desc-ctn">
-        <p class="calendar-header-text-desc">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et, repellat magni at eos sint ut fuga nemo, quaerat maxime id, numquam illo natus tempore corporis hic perspiciatis voluptatibus ipsa similique suscipit dolore sunt non architecto. Nisi cum ducimus ut incidunt ratione iure, in harum ex repellat!</p>
+      <div className="calendar-header-text-desc-ctn">
+        <p className="calendar-header-text-desc">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et, repellat magni at eos sint ut fuga nemo, quaerat maxime id, numquam illo natus tempore corporis hic perspiciatis voluptatibus ipsa similique suscipit dolore sunt non architecto. Nisi cum ducimus ut incidunt ratione iure, in harum ex repellat!</p>
       </div>
     </section>
   )

@@ -11,7 +11,12 @@
   height: auto;
   aspect-ratio: 16 / 9;
 }
-
+.video-home-share {
+  float: right;
+}
+.video-home-share-btn {
+  margin: 0 3px;
+}
 @media (min-width: 744px) {
   .video-home-ctn {
     padding: 56px 0;

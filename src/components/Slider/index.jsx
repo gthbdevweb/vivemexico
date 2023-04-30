@@ -1,99 +1,80 @@
-import React from 'react';
-import Slide1 from '../../assets/img/slider/slide1.webp';
-import Slide2 from '../../assets/img/slider/slide2.jpg';
+import React, { useState, useEffect, useContext } from 'react';
+import { Context } from '../../Context';
+import { Link } from 'react-router-dom';
+import dataEs from '../../assets/data/trends/es/index.json';
+import dataEn from '../../assets/data/trends/en/index.json';
 import './style.css';
 
 const Slider = () => {
-  return (
-    <section class="slider-ctn">
-      <div id="recipeCarousel" class="carousel carousel-js slide" data-bs-ride="carousel">
-        <div class="carousel-inner carousel-inner-js" role="listbox">
-          <div class="carousel-item carousel-item-js active">
-            <div class="col-md-4">
-              <div class="card slider-card-ctn">
-                <div class="heading-card-img heading-slider-card-ctn-img">
-                  <a href="#" rel="noopener noreferrer">
-                    <img src={Slide1} class="heading-card-img heading-slider-card-img" />
-                    <h4 class="heading-slider-text-title">Heading</h4>
-                    <p class="heading-slider-text-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo ducimus totam corporis.</p>
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="carousel-item carousel-item-js">
-            <div class="col-md-4">
-              <div class="card slider-card-ctn">
-                <div class="heading-card-img heading-slider-card-ctn-img">
-                  <a href="#" rel="noopener noreferrer">
-                    <img src={Slide2} class="heading-card-img heading-slider-card-img" />
-                    <h4 class="heading-slider-text-title">Heading</h4>
-                    <p class="heading-slider-text-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo ducimus totam corporis.</p>
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="carousel-item carousel-item-js">
-            <div class="col-md-4">
-              <div class="card slider-card-ctn">
-                <div class="heading-card-img heading-slider-card-ctn-img">
-                  <a href="#" rel="noopener noreferrer">
-                    <img src={Slide1} class="heading-card-img heading-slider-card-img" />
-                    <h4 class="heading-slider-text-title">Heading</h4>
-                    <p class="heading-slider-text-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo ducimus totam corporis.</p>
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="carousel-item carousel-item-js">
-            <div class="col-md-4">
-              <div class="card slider-card-ctn">
-                <div class="heading-card-img heading-slider-card-ctn-img">
-                  <a href="#" rel="noopener noreferrer">
-                    <img src={Slide2} class="heading-card-img heading-slider-card-img" />
-                    <h4 class="heading-slider-text-title">Heading</h4>
-                    <p class="heading-slider-text-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo ducimus totam corporis.</p>
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="carousel-item carousel-item-js">
-            <div class="col-md-4">
-              <div class="card slider-card-ctn">
-                <div class="heading-card-img heading-slider-card-ctn-img">
-                  <a href="#" rel="noopener noreferrer">
-                    <img src={Slide1} class="heading-card-img heading-slider-card-img" />
-                    <h4 class="heading-slider-text-title">Heading</h4>
-                    <p class="heading-slider-text-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo ducimus totam corporis.</p>
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="carousel-item carousel-item-js">
-            <div class="col-md-4">
-              <div class="card slider-card-ctn">
-                <div class="heading-card-img heading-slider-card-ctn-img">
-                  <a href="#" rel="noopener noreferrer">
-                    <img src={Slide2} class="heading-card-img heading-slider-card-img" />
-                    <h4 class="heading-slider-text-title">Heading</h4>
-                    <p class="heading-slider-text-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo ducimus totam corporis.</p>
-                  </a>
-                </div>
-              </div>
+  const { isLanguage } = useContext(Context);
+  const [language, setLanguage] = useState({});
+
+  const getList = () => {
+    setTimeout(() => {
+      let items = document.querySelectorAll('.carousel-js .carousel-item-js');
+    
+      items.forEach((el) => {
+        const minPerSlide = 3
+        let next = el.nextElementSibling
+        for (var i=1; i<minPerSlide; i++) {
+          if (!next) {
+            next = items[0]
+          }
+          let cloneChild = next.cloneNode(true)
+          el.appendChild(cloneChild.children[0])
+          next = next.nextElementSibling
+        }
+      })
+    }, 0); 
+  };
+
+  useEffect(() => (
+    isLanguage === 'MX' ? setLanguage(dataEs)
+    : isLanguage === 'USA' ? setLanguage(dataEn)
+    : setLanguage(dataEs)
+  ), [isLanguage]);
+
+  useEffect(() => {
+    getList() 
+  }, [language]);
+
+  const listTrends = () => (
+    language?.trends?.map((trend, index) => (
+      <div className={`carousel-item carousel-item-js ${index === 0 && "active"}`} key={index} aria-label="slide">
+        <div className="col-md-4">
+          <div className="card slider-card-ctn">
+            <div className="heading-card-img heading-slider-card-ctn-img">
+              <Link to={trend.dir} rel="noopener noreferrer">
+                <img
+                  src={require(`../../assets/img/trends/${trend.urlImg}`)} 
+                  className="heading-card-img heading-slider-card-img"
+                  alt={trend.title}
+                  loading='lazy'
+                />
+                <h3 className="heading-slider-text-title">{trend.title}</h3>
+                <p className="heading-slider-text-desc">{trend.description}</p>
+              </Link>
             </div>
           </div>
         </div>
-        <a class="carousel-control-prev carousel-control-prev-js bg-transparent w-aut" href="#recipeCarousel" role="button" data-bs-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        </a>
-        <a class="carousel-control-next carousel-control-next-js bg-transparent w-aut" href="#recipeCarousel" role="button" data-bs-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        </a>
       </div>
+    ))
+  );
+
+  return (
+    <section className="slider-ctn">
+      {language?.trends &&
+      <div id="recipeCarousel" className="carousel carousel-js slide" data-bs-ride="carousel" data-ride="carousel">
+        <div className="carousel-inner carousel-inner-js" role="listbox" aria-label="Recent slides">
+          {listTrends()}
+        </div>
+        <a className="carousel-control-prev carousel-control-prev-js bg-transparent w-aut" href="#recipeCarousel" role="button" data-bs-slide="prev">
+          <span className="carousel-control-prev-icon" aria-hidden="true"></span>
+        </a>
+        <a className="carousel-control-next carousel-control-next-js bg-transparent w-aut" href="#recipeCarousel" role="button" data-bs-slide="next">
+          <span className="carousel-control-next-icon" aria-hidden="true"></span>
+        </a>
+      </div>}
     </section>
   )
 };

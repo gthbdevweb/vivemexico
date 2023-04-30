@@ -33,6 +33,16 @@
   margin-top: 10px;
   font-size: 14px;
 }
+.class-buton-features {
+  float: right;
+  border-color: #03a0af;
+  color: #303030;
+}
+.class-buton-features:hover {
+  border-color: #03a0af;
+  background: #03a0af;
+  color: #fff;
+}
 
 @media (min-width: 992px) {
   .features-ctn {

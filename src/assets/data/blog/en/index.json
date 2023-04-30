@@ -1,0 +1,73 @@
+{
+    "title": "Blog title",
+    "blogs": [
+        {
+            "id": 0,
+            "title": "Title One",
+            "shortDescription": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste dignissimos error ut velit eum ad, voluptatibus suscipit vitae fuga. Ut, delectus. Accusantium.",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum, dolores officiis! Adipisci itaque error ea cumque minima enim blanditiis, tenetur asperiores sequi voluptatem dolorem nostrum ad. Repudiandae provident eius quae exercitationem! At officia modi aliquid temporibus neque, quod nihil molestiae facere et unde corrupti minima saepe quibusdam aspernatur magni ipsam accusamus, facilis illo mollitia tempora magnam velit eos hic? Ratione modi velit eveniet aliquam.",
+            "urlImg": "slide2.jpg",
+            "shareFb": "",
+            "shareIg": "",
+            "shareVideo": "",
+            "shareTT": "",
+            "actions": {
+                "button": {
+                    "text" : "Go to blog",
+                    "dir": "/blog"
+                }
+            }
+        },
+        {
+            "id": 1,
+            "title": "Title Two",
+            "shortDescription": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste dignissimos error ut velit eum ad, voluptatibus suscipit vitae fuga. Ut, delectus. Accusantium.",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum, dolores officiis! Adipisci itaque error ea cumque minima enim blanditiis, tenetur asperiores sequi voluptatem dolorem nostrum ad. Repudiandae provident eius quae exercitationem! At officia modi aliquid temporibus neque, quod nihil molestiae facere et unde corrupti minima saepe quibusdam aspernatur magni ipsam accusamus, facilis illo mollitia tempora magnam velit eos hic? Ratione modi velit eveniet aliquam.",
+            "urlImg": "slide1.webp",
+            "shareFb": "",
+            "shareIg": "",
+            "shareVideo": "",
+            "shareTT": "",
+            "actions": {
+                "button": {
+                    "text" : "Go to blog",
+                    "dir": "/blog"
+                }
+            }
+        },
+        {
+            "id": 2,
+            "title": "Title Three",
+            "shortDescription": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste dignissimos error ut velit eum ad, voluptatibus suscipit vitae fuga. Ut, delectus. Accusantium.",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum, dolores officiis! Adipisci itaque error ea cumque minima enim blanditiis, tenetur asperiores sequi voluptatem dolorem nostrum ad. Repudiandae provident eius quae exercitationem! At officia modi aliquid temporibus neque, quod nihil molestiae facere et unde corrupti minima saepe quibusdam aspernatur magni ipsam accusamus, facilis illo mollitia tempora magnam velit eos hic? Ratione modi velit eveniet aliquam.",
+            "urlImg": "slide2.jpg",
+            "shareFb": "",
+            "shareIg": "",
+            "shareVideo": "",
+            "shareTT": "",
+            "actions": {
+                "button": {
+                    "text" : "Go to blog",
+                    "dir": "/blog"
+                }
+            }
+        },
+        {
+            "id": 3,
+            "title": "Title Four",
+            "shortDescription": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste dignissimos error ut velit eum ad, voluptatibus suscipit vitae fuga. Ut, delectus. Accusantium.",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum, dolores officiis! Adipisci itaque error ea cumque minima enim blanditiis, tenetur asperiores sequi voluptatem dolorem nostrum ad. Repudiandae provident eius quae exercitationem! At officia modi aliquid temporibus neque, quod nihil molestiae facere et unde corrupti minima saepe quibusdam aspernatur magni ipsam accusamus, facilis illo mollitia tempora magnam velit eos hic? Ratione modi velit eveniet aliquam.",
+            "urlImg": "slide1.webp",
+            "shareFb": "",
+            "shareIg": "",
+            "shareVideo": "",
+            "shareTT": "",
+            "actions": {
+                "button": {
+                    "text" : "Go to blog",
+                    "dir": "/blog"
+                }
+            }
+        }
+    ]
+}

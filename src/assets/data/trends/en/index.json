@@ -1,0 +1,46 @@
+{
+    "trends": [
+        {
+            "id": 0,
+            "title": "Trend One",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo ducimus totam corporis.",
+            "urlImg": "slide1.webp",
+            "dir": "/trends"
+        },
+        {
+            "id": 1,
+            "title": "Trend Two",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo ducimus totam corporis.",
+            "urlImg": "slide2.jpg",
+            "dir": "/trends"
+        },
+        {
+            "id": 2,
+            "title": "Trend Three",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo ducimus totam corporis.",
+            "urlImg": "slide1.webp",
+            "dir": "/trends"
+        },
+        {
+            "id": 3,
+            "title": "Trend Four",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo ducimus totam corporis.",
+            "urlImg": "slide2.jpg",
+            "dir": "/trends"
+        },
+        {
+            "id": 4,
+            "title": "Trend Five",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo ducimus totam corporis.",
+            "urlImg": "slide1.webp",
+            "dir": "/trends"
+        },
+        {
+            "id": 5,
+            "title": "Trend Six",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo ducimus totam corporis.",
+            "urlImg": "slide2.jpg",
+            "dir": "/trends"
+        }
+    ]
+}

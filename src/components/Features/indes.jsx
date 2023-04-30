@@ -1,40 +1,50 @@
-import React from 'react';
+import React, { useState, useEffect, useContext}  from 'react';
+import { Context } from '../../Context';
+import { Link } from 'react-router-dom';
+import dataEs from '../../assets/data/blog/es/index.json';
+import dataEn from '../../assets/data/blog/en/index.json';
 import './style.css';
 
 const Features = () => {
+  const { isLanguage } = useContext(Context);
+  const [language, setLanguage] = useState({});
+
+  useEffect(() => (
+    isLanguage === 'MX' ? setLanguage(dataEs)
+    : isLanguage === 'USA' ? setLanguage(dataEn)
+    : setLanguage(dataEs)
+  ), [isLanguage]);
+
+  const languageSort = language?.blogs?.sort(function(a, b){return b.id - a.id});
+  const tasks = languageSort?.filter((task, index) => index <= 1 );
+
+  const getBlogs = () => (
+    tasks?.map((blog, index) => (
+      <div className="features-collapse-ctn" key={index}>
+        <div className="features-collapse-btn-ctn">
+          <button className="btn btn-primary features-collapse-btn" type="button" data-bs-toggle="collapse" data-bs-target={`#featuresCollapse${blog.id}`} aria-expanded="false" aria-controls={`featuresCollapse${blog.id}`}>
+            +
+          </button>
+          <div className="features-collapse-desc-ctn">
+            <p className="features-collapse-desc">{blog.title}</p>
+          </div>
+        </div>
+        <div className="collapse features-collapse-body-ctn" id={`featuresCollapse${blog.id}`}>
+          <div className="card card-body">
+            <p>{blog.shortDescription}</p>
+            <Link to={blog.actions.button.dir}>
+              <button type="button" className="btn btn-outline-primary class-buton-features">{blog.actions.button.text}</button>
+            </Link>
+          </div>
+        </div>
+      </div>
+    ))
+  );
+
   return (
-    <section class="features-ctn">
-      <h2 class="features-text-title">Great features</h2>
-      <div class="features-collapse-ctn">
-        <div class="features-collapse-btn-ctn">
-          <button class="btn btn-primary features-collapse-btn" type="button" data-bs-toggle="collapse" data-bs-target="#featuresCollapseOne" aria-expanded="false" aria-controls="featuresCollapseOne">
-            +
-          </button>
-          <div class="features-collapse-desc-ctn">
-            <p class="features-collapse-desc">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nihil, sunt.</p>
-          </div>
-        </div>
-        <div class="collapse features-collapse-body-ctn" id="featuresCollapseOne">
-          <div class="card card-body">
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste dignissimos error ut velit eum ad, voluptatibus suscipit vitae fuga. Ut, delectus. Accusantium.</p>
-          </div>
-        </div>
-      </div>
-      <div class="features-collapse-ctn">
-        <div class="features-collapse-btn-ctn">
-          <button class="btn btn-primary features-collapse-btn" type="button" data-bs-toggle="collapse" data-bs-target="#featuresCollapseTwo" aria-expanded="false" aria-controls="featuresCollapseTwo">
-            +
-          </button>
-          <div class="features-collapse-desc-ctn">
-            <p class="features-collapse-desc">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptate, libero.</p>
-          </div>
-        </div>
-        <div class="collapse features-collapse-body-ctn" id="featuresCollapseTwo">
-          <div class="card card-body">
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi consectetur beatae, ad recusandae dignissimos animi facilis delectus ea illum est reiciendis veniam?</p>
-          </div>
-        </div>
-      </div>
+    <section className="features-ctn">
+      <h2 className="features-text-title">{language?.title}</h2>
+      {getBlogs()}
     </section>
   )
 };
