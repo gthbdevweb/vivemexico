@@ -14,8 +14,8 @@ const Home = () => {
   return (
     <div className="main-content">
       <Rss />
-      <LazyLoadComponent>
         <Hero />
+      <LazyLoadComponent>
         <Places />
         <Description />
         <Slider />

@@ -3,6 +3,7 @@ import { Context } from '../../Context';
 import { Link } from 'react-router-dom';
 import dataEs from '../../assets/data/trends/es/index.json';
 import dataEn from '../../assets/data/trends/en/index.json';
+import Share from '../Share';
 import './style.css';
 
 const Slider = () => {
@@ -75,6 +76,12 @@ const Slider = () => {
           <span className="carousel-control-next-icon" aria-hidden="true"></span>
         </a>
       </div>}
+      <Share
+        urlFaceboock = "https://visitmexico.com/"
+        urlPinterest = "https://visitmexico.com/"
+        urlTwitter = "https://visitmexico.com/"
+        urlWhatsapp = "https://visitmexico.com/"
+      />
     </section>
   )
 };

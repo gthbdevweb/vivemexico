@@ -1,10 +1,35 @@
-import React from 'react';
+import React, { useState, useEffect, useContext} from 'react';
+import { useLocation } from 'react-router-dom';
+import { Context } from '../../Context';
+import dataEs from '../../assets/data/states/es/index.json';
+import dataEn from '../../assets/data/states/en/index.json';
 import './style.css';
 
 const SpotifyState = () => {
+  const { isLanguage } = useContext(Context);
+  const [language, setLanguage] = useState({});
+  const location = useLocation();
+  const stateId = location?.pathname?.split('/')[2];
+  const getStateInfo = language?.states?.filter(state => state.id === parseInt(stateId));
+  const data = getStateInfo?.[0];
+
+  useEffect(() => {
+    isLanguage === 'MX' ? setLanguage(dataEs)
+    : isLanguage === 'USA' ? setLanguage(dataEn)
+    : setLanguage(dataEs);
+  }, [isLanguage]);
+
   return (
     <section className="state-spotify-ctn revealTop">
-      <iframe src="https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator" width="100%" height="100%" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+      <iframe
+        src={data?.urlSpotify}
+        width="100%"
+        height="100%"
+        frameBorder="0"
+        allowFullScreen=""
+        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+        loading="lazy"
+      />
     </section>
   )
 };

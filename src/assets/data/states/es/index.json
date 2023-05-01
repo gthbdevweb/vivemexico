@@ -1,0 +1,677 @@
+{
+    "urlVideoStates": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+    "states": [
+        {
+            "id": 1,
+            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "titleTop": "Estado 1",
+            "descriptionTop": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis cumque, corrupti dolor voluptates aut autem. Blanditiis dolor et harum dolorem commodi omnis animi repellat eum cum quo vel dicta adipisci praesentium, tempore ipsa amet minima cumque aliquam nemo! Quos minus, optio excepturi fugiat ullam delectus, facere totam, debitis non in tenetur minima.",
+            "urlImg": "slide1.webp",
+            "actions": {
+                "button": {
+                    "text" : "Visitar...",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "Subtítulo",
+            "descriptionBottom": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At iste cumque quisquam illo animi adipisci facere? Eligendi, consequatur inventore, consequuntur hic repudiandae ex, quisquam praesentium aliquam ipsum autem veritatis! Recusandae similique, itaque beatae deserunt magnam sint enim facilis, ratione iste perspiciatis ipsam illum labore delectus alias.",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "Lorem ipsum dolor sit.",
+            "desciptionHover": "Lorem ipsum dolor sit",
+            "dir": "/estado"
+        },
+        {
+            "id": 2,
+            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "titleTop": "Estado 2",
+            "descriptionTop": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis cumque, corrupti dolor voluptates aut autem. Blanditiis dolor et harum dolorem commodi omnis animi repellat eum cum quo vel dicta adipisci praesentium, tempore ipsa amet minima cumque aliquam nemo! Quos minus, optio excepturi fugiat ullam delectus, facere totam, debitis non in tenetur minima.",
+            "urlImg": "slide2.jpg",
+            "actions": {
+                "button": {
+                    "text" : "Visitar...",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "Subtítulo",
+            "descriptionBottom": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At iste cumque quisquam illo animi adipisci facere? Eligendi, consequatur inventore, consequuntur hic repudiandae ex, quisquam praesentium aliquam ipsum autem veritatis! Recusandae similique, itaque beatae deserunt magnam sint enim facilis, ratione iste perspiciatis ipsam illum labore delectus alias.",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "Lorem ipsum dolor sit.",
+            "desciptionHover": "Lorem ipsum dolor sit",
+            "dir": "/estado"
+        },
+        {
+            "id": 3,
+            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "titleTop": "Estado 3",
+            "descriptionTop": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis cumque, corrupti dolor voluptates aut autem. Blanditiis dolor et harum dolorem commodi omnis animi repellat eum cum quo vel dicta adipisci praesentium, tempore ipsa amet minima cumque aliquam nemo! Quos minus, optio excepturi fugiat ullam delectus, facere totam, debitis non in tenetur minima.",
+            "urlImg": "slide1.webp",
+            "actions": {
+                "button": {
+                    "text" : "Visitar...",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "Subtítulo",
+            "descriptionBottom": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At iste cumque quisquam illo animi adipisci facere? Eligendi, consequatur inventore, consequuntur hic repudiandae ex, quisquam praesentium aliquam ipsum autem veritatis! Recusandae similique, itaque beatae deserunt magnam sint enim facilis, ratione iste perspiciatis ipsam illum labore delectus alias.",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "Lorem ipsum dolor sit.",
+            "desciptionHover": "Lorem ipsum dolor sit",
+            "dir": "/estado"
+        },
+        {
+            "id": 4,
+            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "titleTop": "Estado 4",
+            "descriptionTop": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis cumque, corrupti dolor voluptates aut autem. Blanditiis dolor et harum dolorem commodi omnis animi repellat eum cum quo vel dicta adipisci praesentium, tempore ipsa amet minima cumque aliquam nemo! Quos minus, optio excepturi fugiat ullam delectus, facere totam, debitis non in tenetur minima.",
+            "urlImg": "slide2.jpg",
+            "actions": {
+                "button": {
+                    "text" : "Visitar...",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "Subtítulo",
+            "descriptionBottom": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At iste cumque quisquam illo animi adipisci facere? Eligendi, consequatur inventore, consequuntur hic repudiandae ex, quisquam praesentium aliquam ipsum autem veritatis! Recusandae similique, itaque beatae deserunt magnam sint enim facilis, ratione iste perspiciatis ipsam illum labore delectus alias.",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "Lorem ipsum dolor sit.",
+            "desciptionHover": "Lorem ipsum dolor sit",
+            "dir": "/estado"
+        },
+        {
+            "id": 5,
+            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "titleTop": "Estado 5",
+            "descriptionTop": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis cumque, corrupti dolor voluptates aut autem. Blanditiis dolor et harum dolorem commodi omnis animi repellat eum cum quo vel dicta adipisci praesentium, tempore ipsa amet minima cumque aliquam nemo! Quos minus, optio excepturi fugiat ullam delectus, facere totam, debitis non in tenetur minima.",
+            "urlImg": "slide1.webp",
+            "actions": {
+                "button": {
+                    "text" : "Visitar...",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "Subtítulo",
+            "descriptionBottom": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At iste cumque quisquam illo animi adipisci facere? Eligendi, consequatur inventore, consequuntur hic repudiandae ex, quisquam praesentium aliquam ipsum autem veritatis! Recusandae similique, itaque beatae deserunt magnam sint enim facilis, ratione iste perspiciatis ipsam illum labore delectus alias.",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "Lorem ipsum dolor sit.",
+            "desciptionHover": "Lorem ipsum dolor sit",
+            "dir": "/estado"
+        },
+        {
+            "id": 6,
+            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "titleTop": "Estado 6",
+            "descriptionTop": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis cumque, corrupti dolor voluptates aut autem. Blanditiis dolor et harum dolorem commodi omnis animi repellat eum cum quo vel dicta adipisci praesentium, tempore ipsa amet minima cumque aliquam nemo! Quos minus, optio excepturi fugiat ullam delectus, facere totam, debitis non in tenetur minima.",
+            "urlImg": "slide2.jpg",
+            "actions": {
+                "button": {
+                    "text" : "Visitar...",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "Subtítulo",
+            "descriptionBottom": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At iste cumque quisquam illo animi adipisci facere? Eligendi, consequatur inventore, consequuntur hic repudiandae ex, quisquam praesentium aliquam ipsum autem veritatis! Recusandae similique, itaque beatae deserunt magnam sint enim facilis, ratione iste perspiciatis ipsam illum labore delectus alias.",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "Lorem ipsum dolor sit.",
+            "desciptionHover": "Lorem ipsum dolor sit",
+            "dir": "/estado"
+        },
+        {
+            "id": 7,
+            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "titleTop": "Estado 7",
+            "descriptionTop": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis cumque, corrupti dolor voluptates aut autem. Blanditiis dolor et harum dolorem commodi omnis animi repellat eum cum quo vel dicta adipisci praesentium, tempore ipsa amet minima cumque aliquam nemo! Quos minus, optio excepturi fugiat ullam delectus, facere totam, debitis non in tenetur minima.",
+            "urlImg": "slide1.webp",
+            "actions": {
+                "button": {
+                    "text" : "Visitar...",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "Subtítulo",
+            "descriptionBottom": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At iste cumque quisquam illo animi adipisci facere? Eligendi, consequatur inventore, consequuntur hic repudiandae ex, quisquam praesentium aliquam ipsum autem veritatis! Recusandae similique, itaque beatae deserunt magnam sint enim facilis, ratione iste perspiciatis ipsam illum labore delectus alias.",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "Lorem ipsum dolor sit.",
+            "desciptionHover": "Lorem ipsum dolor sit",
+            "dir": "/estado"
+        },
+        {
+            "id": 8,
+            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "titleTop": "Estado 8",
+            "descriptionTop": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis cumque, corrupti dolor voluptates aut autem. Blanditiis dolor et harum dolorem commodi omnis animi repellat eum cum quo vel dicta adipisci praesentium, tempore ipsa amet minima cumque aliquam nemo! Quos minus, optio excepturi fugiat ullam delectus, facere totam, debitis non in tenetur minima.",
+            "urlImg": "slide2.jpg",
+            "actions": {
+                "button": {
+                    "text" : "Visitar...",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "Subtítulo",
+            "descriptionBottom": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At iste cumque quisquam illo animi adipisci facere? Eligendi, consequatur inventore, consequuntur hic repudiandae ex, quisquam praesentium aliquam ipsum autem veritatis! Recusandae similique, itaque beatae deserunt magnam sint enim facilis, ratione iste perspiciatis ipsam illum labore delectus alias.",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "Lorem ipsum dolor sit.",
+            "desciptionHover": "Lorem ipsum dolor sit",
+            "dir": "/estado"
+        },
+        {
+            "id": 9,
+            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "titleTop": "Estado 9",
+            "descriptionTop": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis cumque, corrupti dolor voluptates aut autem. Blanditiis dolor et harum dolorem commodi omnis animi repellat eum cum quo vel dicta adipisci praesentium, tempore ipsa amet minima cumque aliquam nemo! Quos minus, optio excepturi fugiat ullam delectus, facere totam, debitis non in tenetur minima.",
+            "urlImg": "slide1.webp",
+            "actions": {
+                "button": {
+                    "text" : "Visitar...",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "Subtítulo",
+            "descriptionBottom": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At iste cumque quisquam illo animi adipisci facere? Eligendi, consequatur inventore, consequuntur hic repudiandae ex, quisquam praesentium aliquam ipsum autem veritatis! Recusandae similique, itaque beatae deserunt magnam sint enim facilis, ratione iste perspiciatis ipsam illum labore delectus alias.",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "Lorem ipsum dolor sit.",
+            "desciptionHover": "Lorem ipsum dolor sit",
+            "dir": "/estado"
+        },
+        {
+            "id": 10,
+            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "titleTop": "Estado 10",
+            "descriptionTop": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis cumque, corrupti dolor voluptates aut autem. Blanditiis dolor et harum dolorem commodi omnis animi repellat eum cum quo vel dicta adipisci praesentium, tempore ipsa amet minima cumque aliquam nemo! Quos minus, optio excepturi fugiat ullam delectus, facere totam, debitis non in tenetur minima.",
+            "urlImg": "slide2.jpg",
+            "actions": {
+                "button": {
+                    "text" : "Visitar...",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "Subtítulo",
+            "descriptionBottom": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At iste cumque quisquam illo animi adipisci facere? Eligendi, consequatur inventore, consequuntur hic repudiandae ex, quisquam praesentium aliquam ipsum autem veritatis! Recusandae similique, itaque beatae deserunt magnam sint enim facilis, ratione iste perspiciatis ipsam illum labore delectus alias.",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "Lorem ipsum dolor sit.",
+            "desciptionHover": "Lorem ipsum dolor sit",
+            "dir": "/estado"
+        },
+        {
+            "id": 11,
+            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "titleTop": "Estado 11",
+            "descriptionTop": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis cumque, corrupti dolor voluptates aut autem. Blanditiis dolor et harum dolorem commodi omnis animi repellat eum cum quo vel dicta adipisci praesentium, tempore ipsa amet minima cumque aliquam nemo! Quos minus, optio excepturi fugiat ullam delectus, facere totam, debitis non in tenetur minima.",
+            "urlImg": "slide1.webp",
+            "actions": {
+                "button": {
+                    "text" : "Visitar...",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "Subtítulo",
+            "descriptionBottom": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At iste cumque quisquam illo animi adipisci facere? Eligendi, consequatur inventore, consequuntur hic repudiandae ex, quisquam praesentium aliquam ipsum autem veritatis! Recusandae similique, itaque beatae deserunt magnam sint enim facilis, ratione iste perspiciatis ipsam illum labore delectus alias.",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "Lorem ipsum dolor sit.",
+            "desciptionHover": "Lorem ipsum dolor sit",
+            "dir": "/estado"
+        },
+        {
+            "id": 12,
+            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "titleTop": "Estado 12",
+            "descriptionTop": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis cumque, corrupti dolor voluptates aut autem. Blanditiis dolor et harum dolorem commodi omnis animi repellat eum cum quo vel dicta adipisci praesentium, tempore ipsa amet minima cumque aliquam nemo! Quos minus, optio excepturi fugiat ullam delectus, facere totam, debitis non in tenetur minima.",
+            "urlImg": "slide2.jpg",
+            "actions": {
+                "button": {
+                    "text" : "Visitar...",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "Subtítulo",
+            "descriptionBottom": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At iste cumque quisquam illo animi adipisci facere? Eligendi, consequatur inventore, consequuntur hic repudiandae ex, quisquam praesentium aliquam ipsum autem veritatis! Recusandae similique, itaque beatae deserunt magnam sint enim facilis, ratione iste perspiciatis ipsam illum labore delectus alias.",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "Lorem ipsum dolor sit.",
+            "desciptionHover": "Lorem ipsum dolor sit",
+            "dir": "/estado"
+        },
+        {
+            "id": 13,
+            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "titleTop": "Estado 13",
+            "descriptionTop": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis cumque, corrupti dolor voluptates aut autem. Blanditiis dolor et harum dolorem commodi omnis animi repellat eum cum quo vel dicta adipisci praesentium, tempore ipsa amet minima cumque aliquam nemo! Quos minus, optio excepturi fugiat ullam delectus, facere totam, debitis non in tenetur minima.",
+            "urlImg": "slide1.webp",
+            "actions": {
+                "button": {
+                    "text" : "Visitar...",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "Subtítulo",
+            "descriptionBottom": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At iste cumque quisquam illo animi adipisci facere? Eligendi, consequatur inventore, consequuntur hic repudiandae ex, quisquam praesentium aliquam ipsum autem veritatis! Recusandae similique, itaque beatae deserunt magnam sint enim facilis, ratione iste perspiciatis ipsam illum labore delectus alias.",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "Lorem ipsum dolor sit.",
+            "desciptionHover": "Lorem ipsum dolor sit",
+            "dir": "/estado"
+        },
+        {
+            "id": 14,
+            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "titleTop": "Estado 14",
+            "descriptionTop": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis cumque, corrupti dolor voluptates aut autem. Blanditiis dolor et harum dolorem commodi omnis animi repellat eum cum quo vel dicta adipisci praesentium, tempore ipsa amet minima cumque aliquam nemo! Quos minus, optio excepturi fugiat ullam delectus, facere totam, debitis non in tenetur minima.",
+            "urlImg": "slide2.jpg",
+            "actions": {
+                "button": {
+                    "text" : "Visitar...",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "Subtítulo",
+            "descriptionBottom": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At iste cumque quisquam illo animi adipisci facere? Eligendi, consequatur inventore, consequuntur hic repudiandae ex, quisquam praesentium aliquam ipsum autem veritatis! Recusandae similique, itaque beatae deserunt magnam sint enim facilis, ratione iste perspiciatis ipsam illum labore delectus alias.",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "Lorem ipsum dolor sit.",
+            "desciptionHover": "Lorem ipsum dolor sit",
+            "dir": "/estado"
+        },
+        {
+            "id": 15,
+            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "titleTop": "Estado 15",
+            "descriptionTop": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis cumque, corrupti dolor voluptates aut autem. Blanditiis dolor et harum dolorem commodi omnis animi repellat eum cum quo vel dicta adipisci praesentium, tempore ipsa amet minima cumque aliquam nemo! Quos minus, optio excepturi fugiat ullam delectus, facere totam, debitis non in tenetur minima.",
+            "urlImg": "slide1.webp",
+            "actions": {
+                "button": {
+                    "text" : "Visitar...",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "Subtítulo",
+            "descriptionBottom": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At iste cumque quisquam illo animi adipisci facere? Eligendi, consequatur inventore, consequuntur hic repudiandae ex, quisquam praesentium aliquam ipsum autem veritatis! Recusandae similique, itaque beatae deserunt magnam sint enim facilis, ratione iste perspiciatis ipsam illum labore delectus alias.",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "Lorem ipsum dolor sit.",
+            "desciptionHover": "Lorem ipsum dolor sit",
+            "dir": "/estado"
+        },
+        {
+            "id": 16,
+            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "titleTop": "Estado 16",
+            "descriptionTop": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis cumque, corrupti dolor voluptates aut autem. Blanditiis dolor et harum dolorem commodi omnis animi repellat eum cum quo vel dicta adipisci praesentium, tempore ipsa amet minima cumque aliquam nemo! Quos minus, optio excepturi fugiat ullam delectus, facere totam, debitis non in tenetur minima.",
+            "urlImg": "slide2.jpg",
+            "actions": {
+                "button": {
+                    "text" : "Visitar...",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "Subtítulo",
+            "descriptionBottom": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At iste cumque quisquam illo animi adipisci facere? Eligendi, consequatur inventore, consequuntur hic repudiandae ex, quisquam praesentium aliquam ipsum autem veritatis! Recusandae similique, itaque beatae deserunt magnam sint enim facilis, ratione iste perspiciatis ipsam illum labore delectus alias.",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "Lorem ipsum dolor sit.",
+            "desciptionHover": "Lorem ipsum dolor sit",
+            "dir": "/estado"
+        },
+        {
+            "id": 17,
+            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "titleTop": "Estado 17",
+            "descriptionTop": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis cumque, corrupti dolor voluptates aut autem. Blanditiis dolor et harum dolorem commodi omnis animi repellat eum cum quo vel dicta adipisci praesentium, tempore ipsa amet minima cumque aliquam nemo! Quos minus, optio excepturi fugiat ullam delectus, facere totam, debitis non in tenetur minima.",
+            "urlImg": "slide1.webp",
+            "actions": {
+                "button": {
+                    "text" : "Visitar...",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "Subtítulo",
+            "descriptionBottom": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At iste cumque quisquam illo animi adipisci facere? Eligendi, consequatur inventore, consequuntur hic repudiandae ex, quisquam praesentium aliquam ipsum autem veritatis! Recusandae similique, itaque beatae deserunt magnam sint enim facilis, ratione iste perspiciatis ipsam illum labore delectus alias.",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "Lorem ipsum dolor sit.",
+            "desciptionHover": "Lorem ipsum dolor sit",
+            "dir": "/estado"
+        },
+        {
+            "id": 18,
+            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "titleTop": "Estado 18",
+            "descriptionTop": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis cumque, corrupti dolor voluptates aut autem. Blanditiis dolor et harum dolorem commodi omnis animi repellat eum cum quo vel dicta adipisci praesentium, tempore ipsa amet minima cumque aliquam nemo! Quos minus, optio excepturi fugiat ullam delectus, facere totam, debitis non in tenetur minima.",
+            "urlImg": "slide2.jpg",
+            "actions": {
+                "button": {
+                    "text" : "Visitar...",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "Subtítulo",
+            "descriptionBottom": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At iste cumque quisquam illo animi adipisci facere? Eligendi, consequatur inventore, consequuntur hic repudiandae ex, quisquam praesentium aliquam ipsum autem veritatis! Recusandae similique, itaque beatae deserunt magnam sint enim facilis, ratione iste perspiciatis ipsam illum labore delectus alias.",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "Lorem ipsum dolor sit.",
+            "desciptionHover": "Lorem ipsum dolor sit",
+            "dir": "/estado"
+        },
+        {
+            "id": 19,
+            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "titleTop": "Estado 19",
+            "descriptionTop": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis cumque, corrupti dolor voluptates aut autem. Blanditiis dolor et harum dolorem commodi omnis animi repellat eum cum quo vel dicta adipisci praesentium, tempore ipsa amet minima cumque aliquam nemo! Quos minus, optio excepturi fugiat ullam delectus, facere totam, debitis non in tenetur minima.",
+            "urlImg": "slide1.webp",
+            "actions": {
+                "button": {
+                    "text" : "Visitar...",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "Subtítulo",
+            "descriptionBottom": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At iste cumque quisquam illo animi adipisci facere? Eligendi, consequatur inventore, consequuntur hic repudiandae ex, quisquam praesentium aliquam ipsum autem veritatis! Recusandae similique, itaque beatae deserunt magnam sint enim facilis, ratione iste perspiciatis ipsam illum labore delectus alias.",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "Lorem ipsum dolor sit.",
+            "desciptionHover": "Lorem ipsum dolor sit",
+            "dir": "/estado"
+        },
+        {
+            "id": 20,
+            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "titleTop": "Estado 20",
+            "descriptionTop": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis cumque, corrupti dolor voluptates aut autem. Blanditiis dolor et harum dolorem commodi omnis animi repellat eum cum quo vel dicta adipisci praesentium, tempore ipsa amet minima cumque aliquam nemo! Quos minus, optio excepturi fugiat ullam delectus, facere totam, debitis non in tenetur minima.",
+            "urlImg": "slide2.jpg",
+            "actions": {
+                "button": {
+                    "text" : "Visitar...",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "Subtítulo",
+            "descriptionBottom": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At iste cumque quisquam illo animi adipisci facere? Eligendi, consequatur inventore, consequuntur hic repudiandae ex, quisquam praesentium aliquam ipsum autem veritatis! Recusandae similique, itaque beatae deserunt magnam sint enim facilis, ratione iste perspiciatis ipsam illum labore delectus alias.",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "Lorem ipsum dolor sit.",
+            "desciptionHover": "Lorem ipsum dolor sit",
+            "dir": "/estado"
+        },
+        {
+            "id": 21,
+            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "titleTop": "Estado 21",
+            "descriptionTop": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis cumque, corrupti dolor voluptates aut autem. Blanditiis dolor et harum dolorem commodi omnis animi repellat eum cum quo vel dicta adipisci praesentium, tempore ipsa amet minima cumque aliquam nemo! Quos minus, optio excepturi fugiat ullam delectus, facere totam, debitis non in tenetur minima.",
+            "urlImg": "slide1.webp",
+            "actions": {
+                "button": {
+                    "text" : "Visitar...",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "Subtítulo",
+            "descriptionBottom": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At iste cumque quisquam illo animi adipisci facere? Eligendi, consequatur inventore, consequuntur hic repudiandae ex, quisquam praesentium aliquam ipsum autem veritatis! Recusandae similique, itaque beatae deserunt magnam sint enim facilis, ratione iste perspiciatis ipsam illum labore delectus alias.",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "Lorem ipsum dolor sit.",
+            "desciptionHover": "Lorem ipsum dolor sit",
+            "dir": "/estado"
+        },
+        {
+            "id": 22,
+            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "titleTop": "Estado 22",
+            "descriptionTop": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis cumque, corrupti dolor voluptates aut autem. Blanditiis dolor et harum dolorem commodi omnis animi repellat eum cum quo vel dicta adipisci praesentium, tempore ipsa amet minima cumque aliquam nemo! Quos minus, optio excepturi fugiat ullam delectus, facere totam, debitis non in tenetur minima.",
+            "urlImg": "slide2.jpg",
+            "actions": {
+                "button": {
+                    "text" : "Visitar...",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "Subtítulo",
+            "descriptionBottom": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At iste cumque quisquam illo animi adipisci facere? Eligendi, consequatur inventore, consequuntur hic repudiandae ex, quisquam praesentium aliquam ipsum autem veritatis! Recusandae similique, itaque beatae deserunt magnam sint enim facilis, ratione iste perspiciatis ipsam illum labore delectus alias.",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "Lorem ipsum dolor sit.",
+            "desciptionHover": "Lorem ipsum dolor sit",
+            "dir": "/estado"
+        },
+        {
+            "id": 23,
+            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "titleTop": "Estado 23",
+            "descriptionTop": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis cumque, corrupti dolor voluptates aut autem. Blanditiis dolor et harum dolorem commodi omnis animi repellat eum cum quo vel dicta adipisci praesentium, tempore ipsa amet minima cumque aliquam nemo! Quos minus, optio excepturi fugiat ullam delectus, facere totam, debitis non in tenetur minima.",
+            "urlImg": "slide1.webp",
+            "actions": {
+                "button": {
+                    "text" : "Visitar...",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "Subtítulo",
+            "descriptionBottom": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At iste cumque quisquam illo animi adipisci facere? Eligendi, consequatur inventore, consequuntur hic repudiandae ex, quisquam praesentium aliquam ipsum autem veritatis! Recusandae similique, itaque beatae deserunt magnam sint enim facilis, ratione iste perspiciatis ipsam illum labore delectus alias.",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "Lorem ipsum dolor sit.",
+            "desciptionHover": "Lorem ipsum dolor sit",
+            "dir": "/estado"
+        },
+        {
+            "id": 24,
+            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "titleTop": "Estado 24",
+            "descriptionTop": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis cumque, corrupti dolor voluptates aut autem. Blanditiis dolor et harum dolorem commodi omnis animi repellat eum cum quo vel dicta adipisci praesentium, tempore ipsa amet minima cumque aliquam nemo! Quos minus, optio excepturi fugiat ullam delectus, facere totam, debitis non in tenetur minima.",
+            "urlImg": "slide2.jpg",
+            "actions": {
+                "button": {
+                    "text" : "Visitar...",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "Subtítulo",
+            "descriptionBottom": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At iste cumque quisquam illo animi adipisci facere? Eligendi, consequatur inventore, consequuntur hic repudiandae ex, quisquam praesentium aliquam ipsum autem veritatis! Recusandae similique, itaque beatae deserunt magnam sint enim facilis, ratione iste perspiciatis ipsam illum labore delectus alias.",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "Lorem ipsum dolor sit.",
+            "desciptionHover": "Lorem ipsum dolor sit",
+            "dir": "/estado"
+        },
+        {
+            "id": 25,
+            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "titleTop": "Estado 25",
+            "descriptionTop": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis cumque, corrupti dolor voluptates aut autem. Blanditiis dolor et harum dolorem commodi omnis animi repellat eum cum quo vel dicta adipisci praesentium, tempore ipsa amet minima cumque aliquam nemo! Quos minus, optio excepturi fugiat ullam delectus, facere totam, debitis non in tenetur minima.",
+            "urlImg": "slide1.webp",
+            "actions": {
+                "button": {
+                    "text" : "Visitar...",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "Subtítulo",
+            "descriptionBottom": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At iste cumque quisquam illo animi adipisci facere? Eligendi, consequatur inventore, consequuntur hic repudiandae ex, quisquam praesentium aliquam ipsum autem veritatis! Recusandae similique, itaque beatae deserunt magnam sint enim facilis, ratione iste perspiciatis ipsam illum labore delectus alias.",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "Lorem ipsum dolor sit.",
+            "desciptionHover": "Lorem ipsum dolor sit",
+            "dir": "/estado"
+        },
+        {
+            "id": 26,
+            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "titleTop": "Estado 26",
+            "descriptionTop": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis cumque, corrupti dolor voluptates aut autem. Blanditiis dolor et harum dolorem commodi omnis animi repellat eum cum quo vel dicta adipisci praesentium, tempore ipsa amet minima cumque aliquam nemo! Quos minus, optio excepturi fugiat ullam delectus, facere totam, debitis non in tenetur minima.",
+            "urlImg": "slide2.jpg",
+            "actions": {
+                "button": {
+                    "text" : "Visitar...",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "Subtítulo",
+            "descriptionBottom": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At iste cumque quisquam illo animi adipisci facere? Eligendi, consequatur inventore, consequuntur hic repudiandae ex, quisquam praesentium aliquam ipsum autem veritatis! Recusandae similique, itaque beatae deserunt magnam sint enim facilis, ratione iste perspiciatis ipsam illum labore delectus alias.",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "Lorem ipsum dolor sit.",
+            "desciptionHover": "Lorem ipsum dolor sit",
+            "dir": "/estado"
+        },
+        {
+            "id": 27,
+            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "titleTop": "Estado 27",
+            "descriptionTop": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis cumque, corrupti dolor voluptates aut autem. Blanditiis dolor et harum dolorem commodi omnis animi repellat eum cum quo vel dicta adipisci praesentium, tempore ipsa amet minima cumque aliquam nemo! Quos minus, optio excepturi fugiat ullam delectus, facere totam, debitis non in tenetur minima.",
+            "urlImg": "slide1.webp",
+            "actions": {
+                "button": {
+                    "text" : "Visitar...",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "Subtítulo",
+            "descriptionBottom": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At iste cumque quisquam illo animi adipisci facere? Eligendi, consequatur inventore, consequuntur hic repudiandae ex, quisquam praesentium aliquam ipsum autem veritatis! Recusandae similique, itaque beatae deserunt magnam sint enim facilis, ratione iste perspiciatis ipsam illum labore delectus alias.",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "Lorem ipsum dolor sit.",
+            "desciptionHover": "Lorem ipsum dolor sit",
+            "dir": "/estado"
+        },
+        {
+            "id": 28,
+            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "titleTop": "Estado 28",
+            "descriptionTop": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis cumque, corrupti dolor voluptates aut autem. Blanditiis dolor et harum dolorem commodi omnis animi repellat eum cum quo vel dicta adipisci praesentium, tempore ipsa amet minima cumque aliquam nemo! Quos minus, optio excepturi fugiat ullam delectus, facere totam, debitis non in tenetur minima.",
+            "urlImg": "slide2.jpg",
+            "actions": {
+                "button": {
+                    "text" : "Visitar...",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "Subtítulo",
+            "descriptionBottom": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At iste cumque quisquam illo animi adipisci facere? Eligendi, consequatur inventore, consequuntur hic repudiandae ex, quisquam praesentium aliquam ipsum autem veritatis! Recusandae similique, itaque beatae deserunt magnam sint enim facilis, ratione iste perspiciatis ipsam illum labore delectus alias.",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "Lorem ipsum dolor sit.",
+            "desciptionHover": "Lorem ipsum dolor sit",
+            "dir": "/estado"
+        },
+        {
+            "id": 29,
+            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "titleTop": "Estado 29",
+            "descriptionTop": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis cumque, corrupti dolor voluptates aut autem. Blanditiis dolor et harum dolorem commodi omnis animi repellat eum cum quo vel dicta adipisci praesentium, tempore ipsa amet minima cumque aliquam nemo! Quos minus, optio excepturi fugiat ullam delectus, facere totam, debitis non in tenetur minima.",
+            "urlImg": "slide1.webp",
+            "actions": {
+                "button": {
+                    "text" : "Visitar...",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "Subtítulo",
+            "descriptionBottom": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At iste cumque quisquam illo animi adipisci facere? Eligendi, consequatur inventore, consequuntur hic repudiandae ex, quisquam praesentium aliquam ipsum autem veritatis! Recusandae similique, itaque beatae deserunt magnam sint enim facilis, ratione iste perspiciatis ipsam illum labore delectus alias.",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "Lorem ipsum dolor sit.",
+            "desciptionHover": "Lorem ipsum dolor sit",
+            "dir": "/estado"
+        },
+        {
+            "id": 30,
+            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "titleTop": "Estado 30",
+            "descriptionTop": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis cumque, corrupti dolor voluptates aut autem. Blanditiis dolor et harum dolorem commodi omnis animi repellat eum cum quo vel dicta adipisci praesentium, tempore ipsa amet minima cumque aliquam nemo! Quos minus, optio excepturi fugiat ullam delectus, facere totam, debitis non in tenetur minima.",
+            "urlImg": "slide2.jpg",
+            "actions": {
+                "button": {
+                    "text" : "Visitar...",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "Subtítulo",
+            "descriptionBottom": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At iste cumque quisquam illo animi adipisci facere? Eligendi, consequatur inventore, consequuntur hic repudiandae ex, quisquam praesentium aliquam ipsum autem veritatis! Recusandae similique, itaque beatae deserunt magnam sint enim facilis, ratione iste perspiciatis ipsam illum labore delectus alias.",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "Lorem ipsum dolor sit.",
+            "desciptionHover": "Lorem ipsum dolor sit",
+            "dir": "/estado"
+        },
+        {
+            "id": 31,
+            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "titleTop": "Estado 31",
+            "descriptionTop": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis cumque, corrupti dolor voluptates aut autem. Blanditiis dolor et harum dolorem commodi omnis animi repellat eum cum quo vel dicta adipisci praesentium, tempore ipsa amet minima cumque aliquam nemo! Quos minus, optio excepturi fugiat ullam delectus, facere totam, debitis non in tenetur minima.",
+            "urlImg": "slide1.webp",
+            "actions": {
+                "button": {
+                    "text" : "Visitar...",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "Subtítulo",
+            "descriptionBottom": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At iste cumque quisquam illo animi adipisci facere? Eligendi, consequatur inventore, consequuntur hic repudiandae ex, quisquam praesentium aliquam ipsum autem veritatis! Recusandae similique, itaque beatae deserunt magnam sint enim facilis, ratione iste perspiciatis ipsam illum labore delectus alias.",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "Lorem ipsum dolor sit.",
+            "desciptionHover": "Lorem ipsum dolor sit",
+            "dir": "/estado"
+        },
+        {
+            "id": 32,
+            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "titleTop": "Estado 32",
+            "descriptionTop": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis cumque, corrupti dolor voluptates aut autem. Blanditiis dolor et harum dolorem commodi omnis animi repellat eum cum quo vel dicta adipisci praesentium, tempore ipsa amet minima cumque aliquam nemo! Quos minus, optio excepturi fugiat ullam delectus, facere totam, debitis non in tenetur minima.",
+            "urlImg": "slide2.jpg",
+            "actions": {
+                "button": {
+                    "text" : "Visitar...",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "Subtítulo",
+            "descriptionBottom": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At iste cumque quisquam illo animi adipisci facere? Eligendi, consequatur inventore, consequuntur hic repudiandae ex, quisquam praesentium aliquam ipsum autem veritatis! Recusandae similique, itaque beatae deserunt magnam sint enim facilis, ratione iste perspiciatis ipsam illum labore delectus alias.",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "descriptionShort": "Lorem ipsum dolor sit.",
+            "desciptionHover": "Lorem ipsum dolor sit",
+            "dir": "/estado"
+        }
+    ]
+}

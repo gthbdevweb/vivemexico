@@ -1,4 +1,5 @@
 import React from 'react';
+import { LazyLoadComponent } from 'react-lazy-load-image-component';
 import HeaderEvents from '../components/HeaderEvents';
 import VideoEvents from '../components/VideoEvents';
 import Rss from '../components/Rss';
@@ -9,7 +10,9 @@ const Events = () => {
     <div className="main-content">
       <Rss />
       <HeaderEvents />
-      <VideoEvents />
+      <LazyLoadComponent>
+        <VideoEvents />
+      </LazyLoadComponent>
     </div>
   )
 };

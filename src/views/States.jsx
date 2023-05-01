@@ -1,4 +1,5 @@
 import React from 'react';
+import { LazyLoadComponent } from 'react-lazy-load-image-component';
 import Videostates from '../components/VideoStates';
 import Liststates from '../components/ListStates/indes';
 import ContentStates from '../components/ContentStates';
@@ -10,8 +11,10 @@ const States = () => {
     <div className="main-content">
       <Rss />
       <Videostates />
-      <Liststates />
-      <ContentStates />
+      <LazyLoadComponent>
+        <Liststates />
+        <ContentStates />
+      </LazyLoadComponent>
     </div>
   )
 };

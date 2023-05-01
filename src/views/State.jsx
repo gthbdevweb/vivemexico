@@ -1,4 +1,5 @@
 import React from 'react';
+import { LazyLoadComponent } from 'react-lazy-load-image-component';
 import VideoState from '../components/VideoState';
 import StateKnown from '../components/StateKnown';
 import MapState from '../components/MapState';
@@ -11,10 +12,12 @@ const State = () => {
     <div className="main-content">
       <Rss />
       <VideoState />
-      <StateKnown />
-      <MapState />
-      <SpotifyState />
-      <VideoState />
+      <LazyLoadComponent>
+        <StateKnown />
+        <MapState />
+        <SpotifyState />
+        <VideoState />
+      </LazyLoadComponent>
     </div>
   )
 };

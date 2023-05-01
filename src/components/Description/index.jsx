@@ -3,6 +3,7 @@ import { LazyLoadImage } from 'react-lazy-load-image-component';
 import { Context } from '../../Context';
 import dataEs from '../../assets/data/description/es/index.json';
 import dataEn from '../../assets/data/description/en/index.json';
+import Share from '../Share';
 import './style.css';
 
 const Description = () => {
@@ -31,6 +32,12 @@ const Description = () => {
           alt={language?.title}
         />
       </div>
+      <Share 
+        urlFaceboock = "https://visitmexico.com/"
+        urlPinterest = "https://visitmexico.com/"
+        urlTwitter = "https://visitmexico.com/"
+        urlWhatsapp = "https://visitmexico.com/"
+      />
     </section>
   )
 };

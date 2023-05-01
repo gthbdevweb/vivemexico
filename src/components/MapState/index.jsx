@@ -1,16 +1,47 @@
-import React from 'react';
+import React, { useState, useEffect, useContext} from 'react';
+import { useLocation } from 'react-router-dom';
+import { Context } from '../../Context';
+import Share from '../Share';
+import dataEs from '../../assets/data/states/es/index.json';
+import dataEn from '../../assets/data/states/en/index.json';
 import './style.css';
 
 const MapState = () => {
+  const { isLanguage } = useContext(Context);
+  const [language, setLanguage] = useState({});
+  const location = useLocation();
+  const stateId = location?.pathname?.split('/')[2];
+  const getStateInfo = language?.states?.filter(state => state.id === parseInt(stateId));
+  const data = getStateInfo?.[0];
+
+  useEffect(() => {
+    isLanguage === 'MX' ? setLanguage(dataEs)
+    : isLanguage === 'USA' ? setLanguage(dataEn)
+    : setLanguage(dataEs);
+  }, [isLanguage]);
+
   return (
     <section className="state-map-ctn revealTop">
       <div className="state-map-view-ctn">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx" width="100%" height="100%" style={{ border: 0 }} allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe
+          src={data?.urlMap}
+          width="100%"
+          height="100%"
+          style={{ border: 0 }}
+          allowFullScreen=""
+          loading="lazy"
+          referrerPolicy="no-referrer-when-downgrade"
+        />
       </div>
       <div className="state-map-desc-ctn">
-        <h3 className="state-map-desc-text-title">Heading</h3>
-        <p className="state-map-desc-text-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. At iste cumque quisquam illo animi adipisci facere? Eligendi, consequatur inventore, consequuntur hic repudiandae ex, quisquam praesentium aliquam ipsum autem veritatis! Recusandae similique, itaque beatae deserunt magnam sint enim facilis, ratione iste perspiciatis ipsam illum labore delectus alias.</p>
-        <button type="button" className="btn btn-primary state-map-btn">Share</button>
+        <h3 className="state-map-desc-text-title">{data?.titleBottom}</h3>
+        <p className="state-map-desc-text-desc">{data?.descriptionBottom} </p>
+        <Share
+          urlFaceboock = "https://visitmexico.com/"
+          urlPinterest = "https://visitmexico.com/"
+          urlTwitter = "https://visitmexico.com/"
+          urlWhatsapp = "https://visitmexico.com/"
+        />
       </div>
     </section>
   )

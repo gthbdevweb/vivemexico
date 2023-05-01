@@ -1,0 +1,38 @@
+{
+    "title": "Title",
+    "description":  "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Inventore dolorem iste voluptatem. Sit repellat aperiam expedita earum. Ipsum alias amet error omnis fugit odio ex! Perferendis eos vel autem, ducimus nihil explicabo dolores esse eaque. Veniam quod quis mollitia quo. Earum nulla dolor expedita veritatis quam?",
+    "videos": [
+        {
+            "urlVideo": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "title": "Video 1"
+        },
+        {
+            "urlVideo": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "title": "Video 2"
+        },
+        {
+            "urlVideo": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "title": "Video 3"
+        },
+        {
+            "urlVideo": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "title": "Video 4"
+        },
+        {
+            "urlVideo": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "title": "Video 5"
+        },
+        {
+            "urlVideo": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "title": "Video 6"
+        },
+        {
+            "urlVideo": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "title": "Video 7"
+        },
+        {
+            "urlVideo": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "title": "Video 8"
+        }
+    ]
+}

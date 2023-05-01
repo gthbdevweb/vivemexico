@@ -1,17 +1,49 @@
-import React from 'react';
-import Known1 from '../../assets/img/knownState/slide1.webp';
+import React, { useState, useEffect, useContext} from 'react';
+import { useLocation } from 'react-router-dom';
+import { LazyLoadImage } from 'react-lazy-load-image-component';
+import { Context } from '../../Context';
+import dataEs from '../../assets/data/states/es/index.json';
+import dataEn from '../../assets/data/states/en/index.json';
 import './style.css';
 
 const StateKnown = () => {
+  const { isLanguage } = useContext(Context);
+  const [language, setLanguage] = useState({});
+  const location = useLocation();
+  const stateId = location?.pathname?.split('/')[2];
+  const getStateInfo = language?.states?.filter(state => state.id === parseInt(stateId));
+  const data = getStateInfo?.[0];
+
+  useEffect(() => {
+    isLanguage === 'MX' ? setLanguage(dataEs)
+    : isLanguage === 'USA' ? setLanguage(dataEn)
+    : setLanguage(dataEs);
+  }, [isLanguage]);
+
   return (
     <section className="state-known-ctn sliceLeft">
       <div className="state-known-text-ctn">
-        <h2 className="state-known-text-title">Heading</h2>
-        <p className="state-known-text-desc">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis cumque, corrupti dolor voluptates aut autem. Blanditiis dolor et harum dolorem commodi omnis animi repellat eum cum quo vel dicta adipisci praesentium, tempore ipsa amet minima cumque aliquam nemo! Quos minus, optio excepturi fugiat ullam delectus, facere totam, debitis non in tenetur minima.</p>
-        <button type="button" className="btn btn-primary state-known-btn">Más...</button>
+        <h2 className="state-known-text-title">{data?.titleTop}</h2>
+        <p className="state-known-text-desc">{data?.descriptionTop} </p>
+        <a
+          href={data?.actions?.button?.dir}
+          target="_blank"
+          rel="noopener
+          noreferrer"
+          className="btn btn-primary state-known-btn"
+        >
+          {data?.actions?.button?.text}
+        </a>
       </div>
       <div className="state-known-img-ctn">
-        <img className="state-known-img" src={Known1} alt="image" />
+      {getStateInfo?.map((data, index) => (
+        <LazyLoadImage
+          className="state-known-img"
+          src={require(`../../assets/img/states/${data.urlImg}`)}
+          alt={data?.titleTop}
+          key={index}
+        />
+      ))}
       </div>
     </section>
   )

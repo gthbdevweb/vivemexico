@@ -1,8 +1,9 @@
-import React, { useState, useEffect, useContext}  from 'react';
+import React, { useState, useEffect, useContext} from 'react';
 import { Context } from '../../Context';
 import { Link } from 'react-router-dom';
 import dataEs from '../../assets/data/blog/es/index.json';
 import dataEn from '../../assets/data/blog/en/index.json';
+import Share from '../Share';
 import './style.css';
 
 const Features = () => {
@@ -45,6 +46,12 @@ const Features = () => {
     <section className="features-ctn">
       <h2 className="features-text-title">{language?.title}</h2>
       {getBlogs()}
+      <Share
+        urlFaceboock = "https://visitmexico.com/"
+        urlPinterest = "https://visitmexico.com/"
+        urlTwitter = "https://visitmexico.com/"
+        urlWhatsapp = "https://visitmexico.com/"
+      />
     </section>
   )
 };

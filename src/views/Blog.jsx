@@ -1,4 +1,5 @@
 import React from 'react';
+import { LazyLoadComponent } from 'react-lazy-load-image-component';
 import HeaderBlog from '../components/HeaderBlog';
 import BlogContent from '../components/Blog';
 import Rss from '../components/Rss';
@@ -9,7 +10,9 @@ const Blog = () => {
     <div className="main-content">
       <Rss />
       <HeaderBlog />
-      <BlogContent />
+      <LazyLoadComponent>
+        <BlogContent />
+      </LazyLoadComponent>
     </div>
   )
 };
