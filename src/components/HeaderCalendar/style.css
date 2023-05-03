@@ -34,6 +34,12 @@
   align-items: center;
   margin-top: 30px;
 }
+.react-calendar-events {
+  width: 100%;
+}
+.react-calendar-events .react_calendar_top_toggle_bar .react_calendar_round_toggle {
+  padding: 5px 10px;
+}
 .calendar-header-text-desc-ctn {
   padding: 20px;
 }

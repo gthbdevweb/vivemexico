@@ -1,8 +1,12 @@
-import React from 'react';
+import React, { useState } from 'react';
+import Calendar from 'react-calendar-events-full-year'
+import { tempEvents } from '../../assets/data/calendar/data';
 import Calendar1 from '../../assets/img/calendar/slide1.webp';
 import './style.css';
 
 const HeaderCalendar = () => {
+  const [calendarEvents, setEvents] = useState(tempEvents.map(d => ({...d, from: new Date(d.from), to: new Date(d.to)})));
+
   return (
     <section className="calendar-header-ctn">
       <div className="calendar-header-text-ctn">
@@ -14,7 +18,8 @@ const HeaderCalendar = () => {
           <img className="calendar-header-calendar-img" src={Calendar1} alt="img" />
         </div>
         <div className="calendar-header-calendar">
-          <div id="calendar"></div>
+          {/*<div id="calendar"></div>*/}
+          <Calendar calendarEvents={calendarEvents} monthView={true}/>
         </div>
       </div>
       <div className="calendar-header-text-desc-ctn">

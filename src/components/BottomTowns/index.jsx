@@ -1,16 +1,32 @@
-import React from 'react';
-import Bottom1 from '../../assets/img/bottom/slide1.webp';
+import React, { useState, useEffect, useContext} from 'react';
+import { LazyLoadImage } from 'react-lazy-load-image-component';
+import { Context } from '../../Context';
+import dataEs from '../../assets/data/towns/es/index.json';
+import dataEn from '../../assets/data/towns/en/index.json';
 import './style.css';
 
 const BottomTowns = () => {
+  const { isLanguage } = useContext(Context);
+  const [language, setLanguage] = useState({});
+
+  useEffect(() => {
+  isLanguage === 'MX' ? setLanguage(dataEs)
+    : isLanguage === 'USA' ? setLanguage(dataEn)
+    : setLanguage(dataEs)
+  }, [isLanguage]);
+
   return (
     <section className="towns-bottom-ctn">
       <div className="towns-bottom-img-ctn">
-        <img className="towns-bottom-img" src={Bottom1} alt="img" />
+        <img
+         className="towns-bottom-img"
+         src={require(`../../assets/img/towns/slide1.webp`)}
+         alt={language?.title}
+       />
       </div>
       <div className="towns-bottom-text-ctn">
-        <h3 className="towns-bottom-text-title">Heading</h3>
-        <p className="towns-bottom-text-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, delectus voluptatem. Blanditiis perspiciatis modi doloremque neque maiores odio id sapiente omnis beatae mollitia corrupti ab dolorum, iure quis animi voluptatibus fugit recusandae, ipsam repellendus! Mollitia inventore soluta possimus perferendis explicabo harum magni hic necessitatibus voluptas provident nisi itaque, tempore a quia fugit laudantium voluptatum eum! Tempora ab ut natus, mollitia quam ad perspiciatis odio obcaecati inventore quasi aliquid corporis hic magni magnam. Aliquam nisi dolorem, animi architecto deserunt ad in. Unde mollitia neque vitae?</p>
+        <h3 className="towns-bottom-text-title">{language?.title}</h3>
+        <p className="towns-bottom-text-desc">{language?.descriptionTop}</p>
       </div>
     </section>
   )
