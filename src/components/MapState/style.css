@@ -29,10 +29,10 @@
   }
   .state-map-view-ctn {
     padding: 40px;
-    aspect-ratio: 3/2;
+    aspect-ratio: auto;
   }
   .state-map-desc-ctn {
-    padding: 40px;
+    padding: 40px 0;
   }
   .state-map-desc-text-title {
     font-size: 48px;

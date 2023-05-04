@@ -1,21 +1,35 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect, useContext} from 'react';
+import { LazyLoadImage } from 'react-lazy-load-image-component';
+import { Context } from '../../Context';
+import dataEs from '../../assets/data/calendar/es/index.json';
+import dataEn from '../../assets/data/calendar/en/index.json';
 import Calendar from 'react-calendar-events-full-year'
 import { tempEvents } from '../../assets/data/calendar/data';
 import Calendar1 from '../../assets/img/calendar/slide1.webp';
 import './style.css';
 
 const HeaderCalendar = () => {
+  const { isLanguage } = useContext(Context);
+  const [language, setLanguage] = useState({});
+
   const [calendarEvents, setEvents] = useState(tempEvents.map(d => ({...d, from: new Date(d.from), to: new Date(d.to)})));
+  
+  useEffect(() => {
+    isLanguage === 'MX' ? setLanguage(dataEs)
+    : isLanguage === 'USA' ? setLanguage(dataEn)
+    : setLanguage(dataEs);
+  }, [isLanguage]);
+  
 
   return (
     <section className="calendar-header-ctn">
       <div className="calendar-header-text-ctn">
-        <h1 className="calendar-header-text-title">Headline</h1>
-        <h3 className="calendar-header-text-subtitle">Subheading</h3>
+        <h1 className="calendar-header-text-title">{language?.title}</h1>
+        <h3 className="calendar-header-text-subtitle">{language?.subtitle}</h3>
       </div>
       <div className="calendar-header-calendar-ctn">
         <div className="calendar-header-calendar-img-ctn">
-          <img className="calendar-header-calendar-img" src={Calendar1} alt="img" />
+          <LazyLoadImage className="calendar-header-calendar-img" src={Calendar1} alt="calendar" />
         </div>
         <div className="calendar-header-calendar">
           {/*<div id="calendar"></div>*/}
@@ -23,7 +37,7 @@ const HeaderCalendar = () => {
         </div>
       </div>
       <div className="calendar-header-text-desc-ctn">
-        <p className="calendar-header-text-desc">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et, repellat magni at eos sint ut fuga nemo, quaerat maxime id, numquam illo natus tempore corporis hic perspiciatis voluptatibus ipsa similique suscipit dolore sunt non architecto. Nisi cum ducimus ut incidunt ratione iure, in harum ex repellat!</p>
+        <p className="calendar-header-text-desc">{language?.description}</p>
       </div>
     </section>
   )

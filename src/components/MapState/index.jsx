@@ -11,7 +11,7 @@ const MapState = () => {
   const [language, setLanguage] = useState({});
   const location = useLocation();
   const stateId = location?.pathname?.split('/')[2];
-  const getStateInfo = language?.states?.filter(state => state.id === parseInt(stateId));
+  const getStateInfo = language?.states?.filter(state => state.id === stateId);
   const data = getStateInfo?.[0];
 
   useEffect(() => {
@@ -19,6 +19,16 @@ const MapState = () => {
     : isLanguage === 'USA' ? setLanguage(dataEn)
     : setLanguage(dataEs);
   }, [isLanguage]);
+
+  console.log('data: ', data?.descriptionBottom?.map((item, index) => item.text))
+
+  const getList = () => (
+    data?.descriptionBottom?.map((item, index) => (
+      <li key={index}>
+        {item?.text}
+      </li>
+    ))
+  )
 
   return (
     <section className="state-map-ctn revealTop">
@@ -35,7 +45,9 @@ const MapState = () => {
       </div>
       <div className="state-map-desc-ctn">
         <h3 className="state-map-desc-text-title">{data?.titleBottom}</h3>
-        <p className="state-map-desc-text-desc">{data?.descriptionBottom} </p>
+        <ul className="state-map-desc-text-desc">
+          {getList()}
+        </ul>
         <Share
           urlFaceboock = "https://visitmexico.com/"
           urlPinterest = "https://visitmexico.com/"

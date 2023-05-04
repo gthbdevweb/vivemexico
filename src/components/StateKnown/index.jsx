@@ -11,7 +11,7 @@ const StateKnown = () => {
   const [language, setLanguage] = useState({});
   const location = useLocation();
   const stateId = location?.pathname?.split('/')[2];
-  const getStateInfo = language?.states?.filter(state => state.id === parseInt(stateId));
+  const getStateInfo = language?.states?.filter(state => state.id === stateId);
   const data = getStateInfo?.[0];
 
   useEffect(() => {

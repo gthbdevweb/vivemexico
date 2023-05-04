@@ -32,16 +32,18 @@
 @media (min-width: 992px) {
   .calendar-video-secondary-ctn {
     display: flex;
-    justify-content: space-between;
-    align-items: center;
-    width: 100%;
+    flex-wrap: wrap;
     margin-bottom: 64px;
-    padding: 0;
     margin-left: auto;
     margin-right: auto;
   }
   .calendar-video-secondary {
     aspect-ratio: 16/9;
     width: 100%;
+  }
+  .calendar-video-principal {
+    flex: 1 0 21%;
+    margin: 0px;
+    height: 100%;
   }
 }
