@@ -105,7 +105,7 @@
 .nav-show + .main-content {
   display: none;
 }
-#nav-wrapper .nav-show {
+#nav-wrapper.nav-show {
   position: absolute;
   display: block;
   background-color: #fff;

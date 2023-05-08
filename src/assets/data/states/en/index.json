@@ -3,14 +3,14 @@
     "states": [
         {
             "id": "Aguascalientes",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/g-nm1J-WXwU?&autoplay=1",
             "titleTop": "Aguascalientes",
             "descriptionTop": "Aguascalientes se ubica en el corazón de la República mexicana. Es conocido por ser el estado de Tierra Buena, Agua Clara, Cielo Claro y Gente Buena.",
             "urlImg": "AGS_aguascalientes_464.webp",
             "actions": {
                 "button": {
                     "text" : "PARA CONOCER MÁS DE AGUASCALIENTES PRESIONA AQUÍ",
-                    "dir": "https://www.google.com/"
+                    "dir": "https://www.vivaaguascalientes.com/"
                 }
             },
             "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
@@ -31,8 +31,8 @@
                     "text": "Su artesanía de deshilados."
                 }
             ],
-            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
-            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1893491.9893227837!2d-102.354733!3d22.040928!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8429ec143ae4d9fb%3A0x4016978679c5220!2sAguascalientes%2C%20Ags.!5e0!3m2!1ses-419!2smx!4v1683564992457!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/3mUTPSE6VyhKTsxiyHUJ66?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE AGUASCALIENTES PRESIONA AQUÍ",
@@ -40,14 +40,14 @@
         },
         {
             "id": "BajaCalifornia",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/GLKLZeEgC24?autoplay=1",
             "titleTop": "Baja California",
             "descriptionTop": "Cobijada por el Mar de Cortés y el Océano Pacífico, Baja California significa una experiencia especial: islas, playas, desierto, cañones, sierras y volcanes extintos acompañan el camino.",
             "urlImg": "BCA_rosarito_playa-952.webp",
             "actions": {
                 "button": {
                     "text" : "PARA CONOCER MÁS DE BAJA CALIFORNIA PRESIONA AQUÍ",
-                    "dir": "https://www.google.com/"
+                    "dir": "https://bajacalifornia.travel/es/"
                 }
             },
             "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
@@ -68,8 +68,8 @@
                     "text": "Por Mexicali, conocida como la “Ciudad que capturó al sol”. Se localiza a orillas del Río Colorado y cerca de la Laguna Salada. Cuenta con la mayor oferta de comida china del país, y algunos de los mejores cortes de carne."
                 }
             ],
-            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
-            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3526284.0084687793!2d-118.17094697813712!3d30.332849226145143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80d7700ca877ddd3%3A0xfca4fd9f0318de8e!2sBaja%20California!5e0!3m2!1ses-419!2smx!4v1683570123340!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/5hBLmRp1Qd73LjRoHpvcpG?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE BAJA CALIFORNIA PRESIONA AQUÍ",
@@ -77,14 +77,14 @@
         },
         {
             "id": "BajaCaliforniaSur",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/vO_nZdwKXo0?autoplay=1",
             "titleTop": "Baja California Sur",
             "descriptionTop": "Baja California Sur se encuentra rodeado por el Océano Pacífico y el Mar de Cortés. Es una tierra de contrastes, y en eso radica su principal atractivo. cálidas playas, esteros, manglares, oasis, Pueblos Mágicos, flora desértica, arte rupestre y más.",
             "urlImg": "BCS_cabo_san_lucas_113.webp",
             "actions": {
                 "button": {
                     "text" : "PARA CONOCER MÁS DE BAJA CALIFORNIA SUR PRESIONA AQUÍ",
-                    "dir": "https://www.google.com/"
+                    "dir": "https://visitbajasur.travel/es/"
                 }
             },
             "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
@@ -105,8 +105,8 @@
                     "text": "Los Cabos, un paraíso de mar azul que las estrellas de Hollywood no dejan de visitar. Un corredor turístico de más de 35 km donde podrás encontrar los mejores hoteles, restaurantes y toda clase de actividades divertidas para todos."
                 }
             ],
-            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
-            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3690264.392816474!2d-114.9588129607235!3d25.41238054228561!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86afd339b5a21ec9%3A0x71dfb33aa9a75918!2sBaja%20California%20Sur!5e0!3m2!1ses-419!2smx!4v1683570336851!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/5hBLmRp1Qd73LjRoHpvcpG?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE BAJA CALIFORNIA SUR PRESIONA AQUÍ",
@@ -188,14 +188,14 @@
         },
         {
             "id": "Chihuahua",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/2XtTWy50hjc?autoplay=1",
             "titleTop": "Chihuahua",
             "descriptionTop": "Ubicado al norte, Chihuahua es el Estado más grande de la República Mexicana, para darnos una idea de su magnitud, Inglaterra podría caber dentro de él. Es impresionante la diversidad de ecosistemas, de gastronomía y cultura que alberga esta imponente entidad.",
             "urlImg": "CHIH_creel47.webp",
             "actions": {
                 "button": {
                     "text" : "PARA CONOCER MÁS DE CHIHUAHUA PRESIONA AQUÍ",
-                    "dir": "https://www.google.com/"
+                    "dir": "https://visitachihuahua.com/"
                 }
             },
             "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
@@ -216,8 +216,8 @@
                     "text": "Casas grandes, este Pueblo Mágico del Estado de Chihuahua obtiene su nombre por la proximidad que tiene con el sitio arqueológico de Paquimé; en 1535, Alvar Núñez Cabeza de Vaca registra en sus memorias que hacia el norte había “pueblos de mucha gente y casas muy grandes”."
                 }
             ],
-            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
-            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d112020.04136038802!2d-106.14701865491334!3d28.670906307476933!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86ea449d5d484033%3A0xb7f1a7a706dd1d7b!2sChihuahua%2C%20Chih.!5e0!3m2!1ses-419!2smx!4v1683577756339!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/4L5pHmiC38UtKVz6Eh3EUe?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE CHIHUAHUA PRESIONA AQUÍ",
@@ -225,14 +225,14 @@
         },
         {
             "id": "Coahuila",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/B2MN00vAz7A?autoplay=1",
             "titleTop": "Coahuila",
             "descriptionTop": "Coahuila es fuerte por sus municipios icónicos, por sus más de 23 vitivinícolas, por su gran riqueza paleontológica, su inigualable gastronomía y por sus siete Pueblos Mágicos, entre otros.",
             "urlImg": "COAH_2_dunas_bilbao_22.webp",
             "actions": {
                 "button": {
                     "text" : "PARA CONOCER MÁS DE COAHUILA PRESIONA AQUÍ",
-                    "dir": "https://www.google.com/"
+                    "dir": "https://hazturismoencoahuila.mx/"
                 }
             },
             "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
@@ -253,8 +253,8 @@
                     "text": "Conocer el Pueblo Mágico de Arteaga, uno de sus principales atractivos dentro de la enorme Sierra de Arteaga, que ha dado al municipio el sobrenombre de “La Suiza de México”."
                 }
             ],
-            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
-            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3634211.9932014607!2d-104.54166938217044!3d27.186632026650457!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x868872bda68e1e29%3A0x64009ad714cd7a39!2sCoahuila%20de%20Zaragoza!5e0!3m2!1ses-419!2smx!4v1683577952331!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/4s1i0CJ2n3C5LCtuvwmCEg?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE COAHUILA PRESIONA AQUÍ",
@@ -262,14 +262,14 @@
         },
         {
             "id": "Colima",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/XBor7DZahQA?autoplay=1",
             "titleTop": "Colima",
             "descriptionTop": "Colima, ubicado en el oeste del país, te ofrece una gama de experiencias, de la costa a la montaña, desde comida tradicional hasta platillos innovadores; aquí encontrarás de todo.",
             "urlImg": "COL_manzanillo_57.webp",
             "actions": {
                 "button": {
                     "text" : "PARA CONOCER MÁS DE COLIMA PRESIONA AQUÍ",
-                    "dir": "https://www.google.com/"
+                    "dir": "https://turismo.col.gob.mx/"
                 }
             },
             "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
@@ -290,8 +290,8 @@
                     "text": "La Gruta de San Gabriel, que consta de una caverna profunda que tiene más de 50 metros de altura, donde se aprecia el magnífico trabajo que ha realizado la naturaleza a lo largo de milenios."
                 }
             ],
-            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
-            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60271.55528058169!2d-103.76980724936448!3d19.24004309147311!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842545523455a217%3A0xb6b497fc5af555e6!2sColima%2C%20Col.!5e0!3m2!1ses-419!2smx!4v1683578149738!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/4zNvTHKW4UCpARzea4OaTb?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE COLIMA PRESIONA AQUÍ",
@@ -306,7 +306,7 @@
             "actions": {
                 "button": {
                     "text" : "PARA CONOCER MÁS DE DURANGO PRESIONA AQUÍ",
-                    "dir": "https://www.google.com/"
+                    "dir": "http://visitdurango.mx/#!/"
                 }
             },
             "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
@@ -327,8 +327,8 @@
                     "text": "La zona del silencio es un lugar lleno de misterio y leyendas. Un desierto donde las señales de radio se pierden y tu brújula deja de funcionar."
                 }
             ],
-            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
-            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d58307.79812547615!2d-104.68892432215172!3d24.022692792116143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x869bb7a518bcdf73%3A0xbfdd8ea63a6c4ad4!2sDurango%2C%20Dgo.!5e0!3m2!1ses-419!2smx!4v1683578320871!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/41U1BZKUs84ZFqyQXl70F3?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE DURANGO PRESIONA AQUÍ",
@@ -484,14 +484,14 @@
         },
         {
             "id": "Jalisco",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/N7MmjzREtig?autoplay=1",
             "titleTop": "Jalisco",
             "descriptionTop": "Ubicado al occidente de México se encuentra Jalisco, tierra del mariachi y el tequila, dos de los embajadores más representativos de México en el mundo., Se dice que cada uno de sus 125 municipios es una pieza valiosísima de su maravilloso mosaico.",
             "urlImg": "JAL_charros_179.webp",
             "actions": {
                 "button": {
                     "text" : "PARA CONOCER MÁS DE JALISCO PRESIONA AQUÍ",
-                    "dir": "https://www.google.com/"
+                    "dir": "https://visitjalisco.mx/"
                 }
             },
             "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
@@ -512,8 +512,8 @@
                     "text": "Es la tierra origen del Tequila, destilado del agave, una de las bebidas alcohólicas más consumidas del planeta, y un referente cultural de nuestro país."
                 }
             ],
-            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
-            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1909231.479256641!2d-104.9222329384955!3d20.83300941682906!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x841f40ebd4624e6f%3A0xa0feb0a35a1b4a53!2sJalisco!5e0!3m2!1ses-419!2smx!4v1683578423258!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/5ApmWMTZktBXbvPeD5UdXl?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE JALISCO PRESIONA AQUÍ",
@@ -521,14 +521,14 @@
         },
         {
             "id": "Michoacan",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/nbfvea4Bt0k?autoplay=1",
             "titleTop": "Michoacán",
             "descriptionTop": "Michoacán se localiza en el centro occidente de la República Mexicana. Las ciudades más grandes del estado son su capital Morelia, Pátzcuaro y Uruapan, unidas al mundo gracias a una amplia infraestructura de comunicación como aeropuertos, transporte terrestre y operadoras de turismo receptivo, que facilitan llegar desde cualquier parte del mundo.",
             "urlImg": "MICH_patzcuaro_63.webp",
             "actions": {
                 "button": {
                     "text" : "PARA CONOCER MÁS DE MICHOACÁN PRESIONA AQUÍ",
-                    "dir": "https://www.google.com/"
+                    "dir": "https://michoacan.travel/"
                 }
             },
             "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
@@ -549,8 +549,8 @@
                     "text": "Conocer la Costa Sierra a donde llegan para reproducirse diversas especies de tortugas marinas, o los diversos balnearios de aguas frías o termales."
                 }
             ],
-            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
-            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1929744.9946309759!2d-103.21985596445734!3d19.150024291328236!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842a5f3e1eb35cb7%3A0x3bc7650cf34be0d4!2sMichoac%C3%A1n!5e0!3m2!1ses-419!2smx!4v1683578604854!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/2yaOANtCx9FabUjU7tx998?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE MICHOACÁN PRESIONA AQUÍ",
@@ -558,14 +558,14 @@
         },
         {
             "id": "Morelos",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/6rqT90hF-HM?autoplay=1",
             "titleTop": "Morelos",
             "descriptionTop": "Morelos es un estado con una riqueza cultural incomparable, ubicado al centro-sur del país. Su cultura abarca diversas ramas y cada una de ellas te atrapará con características auténticas que, sin duda, te dejarán con ganas de más.",
             "urlImg": "MOR_axochiapan_t_164.webp",
             "actions": {
                 "button": {
                     "text" : "PARA CONOCER MÁS DE MORELOS PRESIONA AQUÍ",
-                    "dir": "https://www.google.com/"
+                    "dir": "https://visitmorelos.mx/"
                 }
             },
             "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
@@ -586,8 +586,8 @@
                     "text": "Tlayacapan, Pueblo Mágico que es uno de los pocos que conserva gran parte de su traza urbana prehispánica original."
                 }
             ],
-            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
-            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d483646.40127353213!2d-99.39332388044409!3d18.731748998143765!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cddfae25f6fe47%3A0x975f8225a169dd0f!2sMorelos!5e0!3m2!1ses-419!2smx!4v1683578712156!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/2yaOANtCx9FabUjU7tx998?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE MORELOS PRESIONA AQUÍ",
@@ -595,14 +595,14 @@
         },
         {
             "id": "Nayarit",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/vSV--a4sQa8?autoplay=1",
             "titleTop": "Nayarit",
             "descriptionTop": "Nayarit se ubica en el noreste del territorio mexicano. Este mágico lugar cuenta con una gran diversidad, desde lagunas, selvas, mar y hasta una de las cadenas montañosas más extensas del país.",
             "urlImg": "NAY_RinconDeGuayabitos_Playas_0529.webp",
             "actions": {
                 "button": {
                     "text" : "PARA CONOCER MÁS DE NAYARIT PRESIONA AQUÍ",
-                    "dir": "https://www.google.com/"
+                    "dir": "https://descubrevallenayarit.com/"
                 }
             },
             "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
@@ -623,8 +623,8 @@
                     "text": "El Pueblo Mágico de Jala se encuentra a las faldas del volcán El Ceboruco, en el que se encuentra un valle donde se puede practicar ciclismo, senderismo, observación de flora y campismo."
                 }
             ],
-            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
-            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1896187.0215287085!2d-106.5235616027901!3d21.838616787901028!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8420a89ce63edb47%3A0xc2c8f5a28694d239!2sNayarit!5e0!3m2!1ses-419!2smx!4v1683578829322!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/4t6rePG9VrNLRrGhHO9ibz?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE NAYARIT PRESIONA AQUÍ",
@@ -632,14 +632,14 @@
         },
         {
             "id": "NuevoLeon",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/bfU0P-cc9dU?autoplay=1",
             "titleTop": "Nuevo León",
             "descriptionTop": "Un destino único al noreste de México. Por sus rincones coloniales, destacan sus Pueblos Mágicos: Santiago, Linares y Bustamante. Nuevo León, un destino único, multifacético, es el corazón de la aventura, los negocios y de la carnita asada. ¡Conócelo!",
             "urlImg": "NL_Villa_Santiago398.webp",
             "actions": {
                 "button": {
                     "text" : "PARA CONOCER MÁS DE NUEVO LEÓN PRESIONA AQUÍ",
-                    "dir": "https://www.google.com/"
+                    "dir": "https://nuevoleon.travel/"
                 }
             },
             "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
@@ -660,8 +660,8 @@
                     "text": "Santiago, escondido entre la Sierra Madre Oriental y el Cerro de la Silla, es un Pueblo Mágico donde las casas y calles del pueblo son un gran atractivo."
                 }
             ],
-            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
-            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1844172.8377582757!2d-101.13338097076416!3d25.475011940013584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86629584a2a5b05d%3A0x701df442c36cbbc6!2sNuevo%20Le%C3%B3n!5e0!3m2!1ses-419!2smx!4v1683578947759!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/75BAwr4oD63XJP93w3wq8m?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE NUEVO LEÓN PRESIONA AQUÍ",
