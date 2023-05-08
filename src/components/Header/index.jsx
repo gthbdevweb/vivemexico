@@ -12,14 +12,21 @@ const Header = () => {
   const [language, setLanguage] = useState({});
 
   const [isChecked, setIscheked] = useState(false);
+  const [changeUrl, setChangeUrl] = useState(false);
   const classNavWraper = isChecked ? "nav-wrapper nav-show" : "nav-wrapper";
-  
+
   const changeChecked = () => {
     setIscheked(!isChecked);
   };
 
   const changeState = () => {
-    setIscheked(false);
+    setChangeUrl(!changeUrl);
+    document.getElementById('nav-active').checked = false;
+  };
+
+  const changeStateHome = () => {
+    setChangeUrl(false);
+    document.getElementById('nav-active').checked = false;
   };
 
   const changeLanguage = (e) => {
@@ -33,8 +40,9 @@ const Header = () => {
   ), [isLanguage]);
 
   useEffect(() => {
-    (setIscheked(false))
-  }, []);
+    changeUrl && changeChecked();
+    changeUrl && setChangeUrl(!changeUrl);
+  }, [changeUrl]);
 
   const menuOptions = () => (
     language?.menu?.map((item, index) => (
@@ -53,7 +61,7 @@ const Header = () => {
   return (
     <>
       <header className="header-ctn">
-        <Link to='/' className="header-a" onClick={changeState}>
+        <Link to='/' className="header-a" onClick={changeStateHome}>
           <LazyLoadImage src={Logo} alt="visitmexico-logo" className="header-logo" />
         </Link>
       </header>
@@ -111,7 +119,7 @@ const Header = () => {
           </li>
         </ul>
         <div className="navbar-menu-video">
-          <iframe loading='lazy' width="100%" height="100%" src="https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1" title="Conoce las Ciudades Mexicanas Patrimonio Mundial. Visit México." frameBorder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+          <iframe loading='lazy' width="100%" height="100%" src={`https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=${isChecked ? 1 : 0}`} title="Conoce las Ciudades Mexicanas Patrimonio Mundial. Visit México." frameBorder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
         </div>
       </div>
     </>

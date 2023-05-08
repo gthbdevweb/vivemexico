@@ -5,7 +5,7 @@ import dataEs from '../../assets/data/calendar/es/index.json';
 import dataEn from '../../assets/data/calendar/en/index.json';
 import Calendar from 'react-calendar-events-full-year'
 import { tempEvents } from '../../assets/data/calendar/data';
-import Calendar1 from '../../assets/img/calendar/slide1.webp';
+import Calendar1 from '../../assets/img/calendar/blog.webp';
 import './style.css';
 
 const HeaderCalendar = () => {

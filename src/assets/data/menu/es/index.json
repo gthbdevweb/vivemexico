@@ -8,42 +8,42 @@
             "name": "Estados",
             "dir": "/estados",
             "urlImg": "YUC_Valladolid18-2.webp",
-            "description": "Descubre Estados",
+            "description": "Estados",
             "hover": "Vámos a Estados!"
         },
         {
             "name": "Pueblos Mágicos",
             "dir": "/pueblos",
             "urlImg": "YUC_Hacienda_Ochil139.webp",
-            "description": "Descubre Pueblos Mágicos",
+            "description": "Pueblos Mágicos",
             "hover": "Vámos a Pueblos Mágicos!"
         },
         {
             "name": "Eventos Internacionales",
             "dir": "/eventos",
-            "urlImg": "slide1.webp",
-            "description": "Descubre Eventos Internacionales",
+            "urlImg": "f1evento.webp",
+            "description": "Eventos Internacionales",
             "hover": "Vámos a Eventos Internacionales!"
         },
         {
             "name": "Calendario",
             "dir": "/calendario",
-            "urlImg": "slide2.jpg",
-            "description": "Descubre Calendario",
+            "urlImg": "blog.webp",
+            "description": "Calendario",
             "hover": "Vámos a Calendario!"
         },
         {
             "name": "Blog",
             "dir": "/blog",
-            "urlImg": "slide2.jpg",
-            "description": "Descubre Blog",
+            "urlImg": "bloghome.webp",
+            "description": "Blog",
             "hover": "Vámos a Blog!"
         },
         {
             "name": "Vídeos",
             "dir": "/videos",
-            "urlImg": "slide1.webp",
-            "description": "Descubre Vídeos",
+            "urlImg": "videos.webp",
+            "description": "Vídeos",
             "hover": "Vámos a Vídeos!"
         }
     ]

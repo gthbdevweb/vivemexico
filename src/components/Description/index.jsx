@@ -28,7 +28,7 @@ const Description = () => {
       <div className="description-ctn-img">
         <LazyLoadImage
           className="description-img"
-          src={require(`../../assets/img/description/slide2.jpg`)} 
+          src={require(`../../assets/img/description/NAY_sanblas_playas_98.webp`)} 
           alt={language?.title}
         />
       </div>

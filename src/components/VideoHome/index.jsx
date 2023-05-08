@@ -22,7 +22,7 @@ const VideoHome = () => {
         <iframe
           loading='lazy'
           width="100%"
-          height="100%" src="https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1"
+          height="100%" src="https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=0"
           title="Conoce las Ciudades Mexicanas Patrimonio Mundial. Visit México."
           frameBorder="1"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
