@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/vivemexico/static/css/main.aa78453e.css",
-    "main.js": "/vivemexico/static/js/main.8793a721.js",
+    "main.css": "/vivemexico/static/css/main.e93123a1.css",
+    "main.js": "/vivemexico/static/js/main.90fe0c6e.js",
     "static/js/787.e8efe789.chunk.js": "/vivemexico/static/js/787.e8efe789.chunk.js",
     "static/media/GRO_acapulco_1317.webp": "/vivemexico/static/media/GRO_acapulco_1317.682ec4d5fa18a2ed9987.webp",
     "static/media/COAH_2_dunas_bilbao_22.webp": "/vivemexico/static/media/COAH_2_dunas_bilbao_22.d068f2fe28a65eb1b51a.webp",
@@ -12,6 +12,7 @@
     "static/media/CAM_calakmul53.webp": "/vivemexico/static/media/CAM_calakmul53.37bbda8fc2b8d29fa29d.webp",
     "static/media/CHIS_yaxchilan_95.webp": "/vivemexico/static/media/CHIS_yaxchilan_95.fab9443753ce44707f91.webp",
     "static/media/TAB_Jalpa_de_Mendez8.webp": "/vivemexico/static/media/TAB_Jalpa_de_Mendez8.98a65d3862bc8f43b121.webp",
+    "static/media/DGO_Cd_Durango_34.webp": "/vivemexico/static/media/DGO_Cd_Durango_34.4872491563cdfe317734.webp",
     "static/media/YUC_Cusaman_Cenotes152.webp": "/vivemexico/static/media/YUC_Cusaman_Cenotes152.95cb4cc74e2601b72964.webp",
     "static/media/AGS_aguascalientes_227.webp": "/vivemexico/static/media/AGS_aguascalientes_227.38f26d4fbfb35aec94f2.webp",
     "static/media/YUC_Hacienda_Ochil139.webp": "/vivemexico/static/media/YUC_Hacienda_Ochil139.9556e3f448a2f7abb738.webp",
@@ -31,7 +32,6 @@
     "static/media/YUC_Valladolid18-2.webp": "/vivemexico/static/media/YUC_Valladolid18-2.560a864c989e808cfb33.webp",
     "static/media/BCS_cabo_san_lucas_113.webp": "/vivemexico/static/media/BCS_cabo_san_lucas_113.2237b17cd7a39693cb62.webp",
     "static/media/TLX_teatro_26.webp": "/vivemexico/static/media/TLX_teatro_26.d5ab563ff382fd7b6f29.webp",
-    "static/media/Dgo_Ciudad_Durango421.webp": "/vivemexico/static/media/Dgo_Ciudad_Durango421.c060decbfdf986e5d562.webp",
     "static/media/TMPS_miramar_2_20.webp": "/vivemexico/static/media/TMPS_miramar_2_20.dc5025a45fb331673f13.webp",
     "static/media/NAY_RinconDeGuayabitos_Playas_0529.webp": "/vivemexico/static/media/NAY_RinconDeGuayabitos_Playas_0529.2ab035cf289c154c8bff.webp",
     "static/media/SON_caborca_10.webp": "/vivemexico/static/media/SON_caborca_10.f489d1039fc1498d4d7a.webp",
@@ -45,12 +45,12 @@
     "static/media/logo.png": "/vivemexico/static/media/logo.077d6f371a73310c9868.png",
     "static/media/logo.svg": "/vivemexico/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/vivemexico/index.html",
-    "main.aa78453e.css.map": "/vivemexico/static/css/main.aa78453e.css.map",
-    "main.8793a721.js.map": "/vivemexico/static/js/main.8793a721.js.map",
+    "main.e93123a1.css.map": "/vivemexico/static/css/main.e93123a1.css.map",
+    "main.90fe0c6e.js.map": "/vivemexico/static/js/main.90fe0c6e.js.map",
     "787.e8efe789.chunk.js.map": "/vivemexico/static/js/787.e8efe789.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa78453e.css",
-    "static/js/main.8793a721.js"
+    "static/css/main.e93123a1.css",
+    "static/js/main.90fe0c6e.js"
   ]
 }
