@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/vivemexico/static/css/main.aa78453e.css",
-    "main.js": "/vivemexico/static/js/main.230ed1f5.js",
+    "main.js": "/vivemexico/static/js/main.8793a721.js",
     "static/js/787.e8efe789.chunk.js": "/vivemexico/static/js/787.e8efe789.chunk.js",
     "static/media/GRO_acapulco_1317.webp": "/vivemexico/static/media/GRO_acapulco_1317.682ec4d5fa18a2ed9987.webp",
     "static/media/COAH_2_dunas_bilbao_22.webp": "/vivemexico/static/media/COAH_2_dunas_bilbao_22.d068f2fe28a65eb1b51a.webp",
@@ -24,6 +24,7 @@
     "static/media/SLP_realdecatorce_424.webp": "/vivemexico/static/media/SLP_realdecatorce_424.98baf3ef238fdc945406.webp",
     "static/media/Qroo_Xcaret282_2.webp": "/vivemexico/static/media/Qroo_Xcaret282_2.d2193176cd95e9a038f5.webp",
     "static/media/GTO_guanajuato_338.webp": "/vivemexico/static/media/GTO_guanajuato_338.7925bc64e16eb98cb75d.webp",
+    "static/media/PUE_cuetzalan_163.webp": "/vivemexico/static/media/PUE_cuetzalan_163.40a8af7eb1a6ee282758.webp",
     "static/media/SIN_mazatlan_playa-750.webp": "/vivemexico/static/media/SIN_mazatlan_playa-750.d96550b7b4c24e84422a.webp",
     "static/media/DF_Bellas_artes_04.webp": "/vivemexico/static/media/DF_Bellas_artes_04.94c8e060123130cdc5d2.webp",
     "static/media/MOR_axochiapan_t_164.webp": "/vivemexico/static/media/MOR_axochiapan_t_164.3491fa2cadfe72aa0019.webp",
@@ -35,6 +36,7 @@
     "static/media/NAY_RinconDeGuayabitos_Playas_0529.webp": "/vivemexico/static/media/NAY_RinconDeGuayabitos_Playas_0529.2ab035cf289c154c8bff.webp",
     "static/media/SON_caborca_10.webp": "/vivemexico/static/media/SON_caborca_10.f489d1039fc1498d4d7a.webp",
     "static/media/NL_Villa_Santiago398.webp": "/vivemexico/static/media/NL_Villa_Santiago398.0a3dfb660a5d0f54131d.webp",
+    "static/media/PUE_cholula_9.webp": "/vivemexico/static/media/PUE_cholula_9.de1998a543812418ead2.webp",
     "static/media/QRO_sierra_gorda_422.webp": "/vivemexico/static/media/QRO_sierra_gorda_422.cb70c2d0d72a9033b188.webp",
     "static/media/OAX_Hierve_el_agua3023.webp": "/vivemexico/static/media/OAX_Hierve_el_agua3023.fa4a13af9d08b35dc7cd.webp",
     "static/media/Hgo_tula_003.webp": "/vivemexico/static/media/Hgo_tula_003.1ddb6cfddb6d09f307f3.webp",
@@ -44,11 +46,11 @@
     "static/media/logo.svg": "/vivemexico/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/vivemexico/index.html",
     "main.aa78453e.css.map": "/vivemexico/static/css/main.aa78453e.css.map",
-    "main.230ed1f5.js.map": "/vivemexico/static/js/main.230ed1f5.js.map",
+    "main.8793a721.js.map": "/vivemexico/static/js/main.8793a721.js.map",
     "787.e8efe789.chunk.js.map": "/vivemexico/static/js/787.e8efe789.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aa78453e.css",
-    "static/js/main.230ed1f5.js"
+    "static/js/main.8793a721.js"
   ]
 }
