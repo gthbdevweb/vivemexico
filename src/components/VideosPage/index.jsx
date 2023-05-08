@@ -27,7 +27,6 @@ const VideosPage = () => {
         frameBorder="1"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
         allowFullScreen
-        loading='lazy'
       />
       <div className="videos-multiple-ctn">
         {languageSort?.map((video, index) => (

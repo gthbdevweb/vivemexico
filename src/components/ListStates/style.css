@@ -36,7 +36,9 @@
   justify-content: center;
   align-items: center;
   margin-left: auto;
-  margin-right: auto
+  margin-right: auto;
+  font-size: 14px;
+  font-weight: 600;
 }
 .states-card-ctn > a {
   text-decoration: none;
@@ -53,7 +55,7 @@
 }
 .states-card-text-desc {
   text-align: center;
-  font-size: 16px;
+  font-size: 14px;
 }
 
 @media (min-width: 744px) {
@@ -66,13 +68,21 @@
 
 @media (min-width: 992px) {
   .states-list-cards-ctn {
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-    gap: 60px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  .states-card-ctn {
+    flex: 1 0 21%;
+  }
+  .states-card-img {
+    width: 100%;
+    height: 250px;
   }
   .states-card-text-title {
-    font-size: 32px;
+    font-size: 24px;
   }
   .states-card-text-desc {
-    font-size: 18px;
+    font-size: 14px;
   }
 }

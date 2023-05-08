@@ -16,7 +16,6 @@ const State = () => {
         <StateKnown />
         <MapState />
         <SpotifyState />
-        <VideoState />
       </LazyLoadComponent>
     </div>
   )

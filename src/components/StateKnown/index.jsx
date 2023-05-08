@@ -30,7 +30,7 @@ const StateKnown = () => {
           target="_blank"
           rel="noopener
           noreferrer"
-          className="btn btn-primary state-known-btn"
+          className="btn btn-outline-primary state-known-btn"
         >
           {data?.actions?.button?.text}
         </a>

@@ -32,6 +32,10 @@ const Header = () => {
     : setLanguage(dataEs)
   ), [isLanguage]);
 
+  useEffect(() => {
+    (setIscheked(false))
+  }, []);
+
   const menuOptions = () => (
     language?.menu?.map((item, index) => (
       <li key={index}>
@@ -61,7 +65,7 @@ const Header = () => {
         </select>
       </label>
       <nav className="nav-ctn" id="nav-ctn">
-        <input type="checkbox" id="nav-active" onChange={changeChecked }/>
+        <input type="checkbox" id="nav-active" onChange={changeChecked}/>
         <label htmlFor="nav-active" className="nav-menu-btn"><span></span></label>
       </nav>
       <div className={classNavWraper}  id="nav-wrapper">
@@ -69,13 +73,13 @@ const Header = () => {
           {menuOptions()}
         </ul>
         <ul className="nav-menu-blog">
-          <li><a href="#">Tianguis Turístico México 2023</a></li>
-          <li><a href="#">México a través de los años</a></li>
+          <li><a href="https://www.101museos.com/" target='_blank'>101 museos</a></li>
+          {/*<li><a href="#">México a través de los años</a></li>
           <li><a href="#">Destino del mes</a></li>
           <li><a href="#">Lo imperdible</a></li>
           <li><a href="#">Así viajan ellos</a></li>
           <li><a href="#">Triviajero México</a></li>
-          <li><a href="#">Conociendo México</a></li>
+          <li><a href="#">Conociendo México</a></li>*/}
           <li>
             <div className="nav-rss-ctn">
               <a href="#" rel="noopener noreferrer">

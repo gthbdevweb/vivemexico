@@ -21,9 +21,9 @@ const Description = () => {
       <div className="description-ctn-text">
         <h2 className="description-text-title">{language?.title}</h2>
         <p className="description-text-desc">{language?.description}</p>
-        <div className="description-ctn-badge">
+        {/*<div className="description-ctn-badge">
           <p className="description-badge-text">{language?.actions?.button?.text}</p>
-        </div>
+        </div>*/}
       </div>
       <div className="description-ctn-img">
         <LazyLoadImage

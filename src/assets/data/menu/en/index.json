@@ -1,57 +1,50 @@
 {
     "header": {
-        "title": "Title",
-        "description": "Velit quod optio nulla architecto repellat quisquam libero ."
+        "title": "¿QUÉ MÉXICO QUIERES CONOCER?",
+        "description": ""
     },
     "menu": [
         {
-            "name": "States",
+            "name": "Estados",
             "dir": "/estados",
-            "urlImg": "slide2.jpg",
-            "description": "Discover Estados",
-            "hover": "Let's to States!"
+            "urlImg": "YUC_Valladolid18-2.webp",
+            "description": "Descubre Estados",
+            "hover": "Vámos a Estados!"
         },
         {
-            "name": "Magic Towns",
+            "name": "Pueblos Mágicos",
             "dir": "/pueblos",
-            "urlImg": "slide1.webp",
-            "description": "Discover Magic Townss",
-            "hover": "Let's to Magic Towns!"
+            "urlImg": "YUC_Hacienda_Ochil139.webp",
+            "description": "Descubre Pueblos Mágicos",
+            "hover": "Vámos a Pueblos Mágicos!"
         },
         {
-            "name": "International Events",
+            "name": "Eventos Internacionales",
             "dir": "/eventos",
-            "urlImg": "slide2.jpg",
-            "description": "Discover International Events",
-            "hover": "Let's to International Events!"
-        },
-        {
-            "name": "Calendar",
-            "dir": "/calendario",
             "urlImg": "slide1.webp",
-            "description": "Discover Calendar",
-            "hover": "Let's to Calendar!"
+            "description": "Descubre Eventos Internacionales",
+            "hover": "Vámos a Eventos Internacionales!"
         },
         {
-            "name": "Promotonial Materials",
-            "dir": "/materiales",
+            "name": "Calendario",
+            "dir": "/calendario",
             "urlImg": "slide2.jpg",
-            "description": "Discover Promotonial Materials",
-            "hover": "Let's to Promotonial Materials!"
+            "description": "Descubre Calendario",
+            "hover": "Vámos a Calendario!"
         },
         {
             "name": "Blog",
             "dir": "/blog",
-            "urlImg": "slide1.webp",
-            "description": "Discover Blog",
-            "hover": "Let's to Blog!"
+            "urlImg": "slide2.jpg",
+            "description": "Descubre Blog",
+            "hover": "Vámos a Blog!"
         },
         {
-            "name": "Videos",
+            "name": "Vídeos",
             "dir": "/videos",
-            "urlImg": "slide2.jpg",
-            "description": "Discover Videos",
-            "hover": "Let's to Videos!"
+            "urlImg": "slide1.webp",
+            "description": "Descubre Vídeos",
+            "hover": "Vámos a Vídeos!"
         }
     ]
 }

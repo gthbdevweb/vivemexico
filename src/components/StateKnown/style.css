@@ -14,6 +14,14 @@
 }
 .state-known-btn {
   float: right;
+  border: 1px solid #a6a6a6;
+  color: #303030;
+}
+.state-known-btn:hover {
+  float: right;
+  background: #303030;
+  border: 1px solid #303030;
+  color: #e3e8ed;
 }
 .state-known-img-ctn {
   width: 100%;
@@ -43,8 +51,8 @@
     padding: 20px 40px;
   }
   .state-known-img {
-    width: 80%;
-    height: 80%;
+    width: 100%;
+    height: 100%;
     padding: 10% 10% 0 10%;
   }
 }

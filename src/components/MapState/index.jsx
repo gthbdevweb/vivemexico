@@ -20,7 +20,7 @@ const MapState = () => {
     : setLanguage(dataEs);
   }, [isLanguage]);
 
-  console.log('data: ', data?.descriptionBottom?.map((item, index) => item.text))
+  console.log('stateId: ', stateId)
 
   const getList = () => (
     data?.descriptionBottom?.map((item, index) => (
@@ -49,10 +49,10 @@ const MapState = () => {
           {getList()}
         </ul>
         <Share
-          urlFaceboock = "https://visitmexico.com/"
-          urlPinterest = "https://visitmexico.com/"
-          urlTwitter = "https://visitmexico.com/"
-          urlWhatsapp = "https://visitmexico.com/"
+          urlFaceboock = {`https://visitmexico.com/estado/${stateId}/`}
+          urlPinterest = {`https://visitmexico.com/estado/${stateId}/`}
+          urlTwitter = {`https://visitmexico.com/estado/${stateId}/`}
+          urlWhatsapp = {`https://visitmexico.com/estado/${stateId}/`}
         />
       </div>
     </section>

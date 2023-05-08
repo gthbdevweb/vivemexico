@@ -46,14 +46,27 @@ const Slider = () => {
           <div className="card slider-card-ctn">
             <div className="heading-card-img heading-slider-card-ctn-img">
               <Link to={trend.dir} rel="noopener noreferrer">
-                <img
+                <div className="heading-card-img heading-slider-card-img">
+                  <iframe
+                    width="100%"
+                    height="100%"
+                    src={trend?.urlVideo}
+                    title="Conoce las Ciudades Mexicanas Patrimonio Mundial. Visit México."
+                    frameBorder="1"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    allowFullScreen
+                    loading='lazy'
+                  />
+                </div>
+                <h3 className="heading-slider-text-title">{trend?.title}</h3>
+                {/*<img
                   src={require(`../../assets/img/trends/${trend.urlImg}`)} 
                   className="heading-card-img heading-slider-card-img"
                   alt={trend.title}
                   loading='lazy'
                 />
                 <h3 className="heading-slider-text-title">{trend.title}</h3>
-                <p className="heading-slider-text-desc">{trend.description}</p>
+                <p className="heading-slider-text-desc">{trend.description}</p>*/}
               </Link>
             </div>
           </div>

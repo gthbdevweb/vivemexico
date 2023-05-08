@@ -16,6 +16,16 @@
   border: 1px solid #ccc;
   grid-template-columns: auto 1fr;
 }
+.features-collapse-show {
+  background: #03a0af;
+  border: none;
+  color: #e3e8ed;
+}
+.features-collapse-show:hover {
+  background: #a6208c;
+  border: none;
+  color: #e3e8ed;
+}
 .features-collapse-desc-ctn {
   text-align: center;
 }

@@ -26,12 +26,23 @@ const Blog = () => {
           alt={blog?.title}
         />
         <h2 className="blog-item-text-title">{blog?.title} </h2>
-        <p className="blog-item-text-desc">{blog?.description} </p>
+        {blog?.description?.map((item, index) => item.list
+          ?
+            <ul key={`list${index}`}>
+              {item.list.map((li, index) => <li key={`li${index}`}>
+                <h5 className="blog-item-tex-subtitle">{li.title}</h5>
+                {li.description.map((desc, index) => <p className="blog-item-text-desc" key={`desc${index}`}>
+                  {desc.text}
+                </p>)}
+              </li>)}
+            </ul>
+          : <p className="blog-item-text-desc" key={item.text}>{item.text}</p>)
+        }
         <Share 
-          urlFaceboock = "https://visitmexico.com/"
-          urlPinterest = "https://visitmexico.com/"
-          urlTwitter = "https://visitmexico.com/"
-          urlWhatsapp = "https://visitmexico.com/"
+          urlFaceboock = "https://visitmexico.com/blog/"
+          urlPinterest = "https://visitmexico.com/blog/"
+          urlTwitter = "https://visitmexico.com/blog/"
+          urlWhatsapp = "https://visitmexico.com/blog/"
         />
       </div>
     ))

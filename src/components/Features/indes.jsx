@@ -23,7 +23,7 @@ const Features = () => {
     tasks?.map((blog, index) => (
       <div className="features-collapse-ctn" key={index}>
         <div className="features-collapse-btn-ctn">
-          <button className="btn btn-primary features-collapse-btn" type="button" data-bs-toggle="collapse" data-bs-target={`#featuresCollapse${blog.id}`} aria-expanded="false" aria-controls={`featuresCollapse${blog.id}`}>
+          <button className="btn features-collapse-btn features-collapse-show" type="button" data-bs-toggle="collapse" data-bs-target={`#featuresCollapse${blog.id}`} aria-expanded="false" aria-controls={`featuresCollapse${blog.id}`}>
             +
           </button>
           <div className="features-collapse-desc-ctn">
@@ -47,10 +47,10 @@ const Features = () => {
       <h2 className="features-text-title">{language?.title}</h2>
       {getBlogs()}
       <Share
-        urlFaceboock = "https://visitmexico.com/"
-        urlPinterest = "https://visitmexico.com/"
-        urlTwitter = "https://visitmexico.com/"
-        urlWhatsapp = "https://visitmexico.com/"
+        urlFaceboock = "https://visitmexico.com/blog/"
+        urlPinterest = "https://visitmexico.com/blog/"
+        urlTwitter = "https://visitmexico.com/blog/"
+        urlWhatsapp = "https://visitmexico.com/blog/"
       />
     </section>
   )
