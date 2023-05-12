@@ -5,6 +5,13 @@
     },
     "menu": [
         {
+            "name": "Tren Maya",
+            "dir": "/trenmaya",
+            "urlImg": "YUC_Valladolid18-2.webp",
+            "description": "Tren Maya",
+            "hover": "Vámos a Tren Maya!"
+        },
+        {
             "name": "Estados",
             "dir": "/estados",
             "urlImg": "YUC_Valladolid18-2.webp",
@@ -24,6 +31,41 @@
             "urlImg": "f1evento.webp",
             "description": "Eventos Internacionales",
             "hover": "Vámos a Eventos Internacionales!"
+        },
+        {
+            "name": "Sol y Playa",
+            "dir": "/solyplaya",
+            "urlImg": "YUC_Valladolid18-2.webp",
+            "description": "Sol y Playa",
+            "hover": "Vámos a Sol y Playa!"
+        },
+        {
+            "name": "Rutas Gastronómicas",
+            "dir": "/rutasgastronomicas",
+            "urlImg": "YUC_Valladolid18-2.webp",
+            "description": "Rutas Gastronómicas",
+            "hover": "Vámos a Rutas Gastronómicas!"
+        },
+        {
+            "name": "Turismo Sostenible",
+            "dir": "/turismosostenible",
+            "urlImg": "YUC_Valladolid18-2.webp",
+            "description": "Turismo Sostenible",
+            "hover": "Vámos a Turismo Sostenible!"
+        },
+        {
+            "name": "Bienestar",
+            "dir": "/bienestar",
+            "urlImg": "YUC_Valladolid18-2.webp",
+            "description": "Bienestar",
+            "hover": "Vámos a Bienestar!"
+        },
+        {
+            "name": "Turismo de Aventura",
+            "dir": "/turismodeaventura",
+            "urlImg": "YUC_Valladolid18-2.webp",
+            "description": "Turismo de Aventura",
+            "hover": "Vámos a Turismo de Aventura!"
         },
         {
             "name": "Calendario",
