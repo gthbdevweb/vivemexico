@@ -216,7 +216,7 @@
                     "text": "Casas grandes, este Pueblo Mágico del Estado de Chihuahua obtiene su nombre por la proximidad que tiene con el sitio arqueológico de Paquimé; en 1535, Alvar Núñez Cabeza de Vaca registra en sus memorias que hacia el norte había “pueblos de mucha gente y casas muy grandes”."
                 }
             ],
-            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d112020.04136038802!2d-106.14701865491334!3d28.670906307476933!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86ea449d5d484033%3A0xb7f1a7a706dd1d7b!2sChihuahua%2C%20Chih.!5e0!3m2!1ses-419!2smx!4v1683577756339!5m2!1ses-419!2smx",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7169267.155057151!2d-111.33806860448709!3d28.671132722547366!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86ea449d5d484033%3A0xb7f1a7a706dd1d7b!2sChihuahua%2C%20Chih.!5e0!3m2!1ses-419!2smx!4v1684020195953!5m2!1ses-419!2smx",
             "urlSpotify": "https://open.spotify.com/embed/playlist/4L5pHmiC38UtKVz6Eh3EUe?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
@@ -669,14 +669,14 @@
         },
         {
             "id": "Oaxaca",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/hKeKplolfMs?autoplay=1",
             "titleTop": "Oaxaca",
             "descriptionTop": "Se ubica en el sur de México. Diverso, magnífico, colorido, lleno de cultura y naturaleza. Una auténtica joya. En Oaxaca recorrerás calles llenas de color y tradición, descubrirás en cada rincón su historia, sus maravillosas artesanías, su exquisita gastronomía y su buen mezcal.",
             "urlImg": "OAX_Hierve_el_agua3023.webp",
             "actions": {
                 "button": {
                     "text" : "PARA CONOCER MÁS DE OAXACA PRESIONA AQUÍ",
-                    "dir": "https://www.google.com/"
+                    "dir": "http://www.oaxaca.travel/index.php/es/"
                 }
             },
             "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
@@ -697,8 +697,8 @@
                     "text": "También puedes viajar a Puerto Escondido, el lugar perfecto del Pacífico para olvidar el estrés en sus playas con increíbles olas o algunas más tranquilas que parecen albercas naturales; así como disfrutar de noches interminables de fiesta."
                 }
             ],
-            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
-            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d603021.2045554055!2d-96.97536878788152!3d16.800457801053078!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85c72249df26d9b1%3A0xac88a77657dffc3b!2sOaxaca%20de%20Ju%C3%A1rez%2C%20Oax.!5e0!3m2!1ses-419!2smx!4v1684020627840!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/06kfpfp3bsE54c0r0GjoJv?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE OAXACA PRESIONA AQUÍ",
@@ -706,14 +706,14 @@
         },
         {
             "id": "Puebla",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/inxcwKHquVQ?autoplay=1",
             "titleTop": "Puebla",
             "descriptionTop": "Ubicada al este central y custodiada por los volcanes Popocatépetl e Iztaccíhuatl se encuentra Puebla. Te maravillarás con sus 10 Pueblos Mágicos, cascadas, lagunas, parques nacionales, senderos y la gran reserva de Tehuacán- Cuicatlán.",
             "urlImg": "PUE_catedral_42.webp",
             "actions": {
                 "button": {
                     "text" : "PARA CONOCER MÁS DE PUEBLA PRESIONA AQUÍ",
-                    "dir": "https://www.google.com/"
+                    "dir": "https://www.visitpuebla.mx/es/"
                 }
             },
             "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
@@ -734,8 +734,8 @@
                     "text": "Conoce la magia de Atlixco y déjate encantar por su buen clima, exuberante naturaleza y gran actividad comercial y turística; características que lo catalogan como el lugar con el mejor clima del mundo."
                 }
             ],
-            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
-            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d967742.7146243165!2d-98.88511791946453!3d18.652999658222356!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cfc0bd5ebc7a3b%3A0x48a6461de494ad95!2sPuebla%2C%20Pue.!5e0!3m2!1ses-419!2smx!4v1684020864980!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/0Ahe1HuCdpwmXe2qFlt7xc?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE PUEBLA PRESIONA AQUÍ",
@@ -743,14 +743,14 @@
         },
         {
             "id": "Queretaro",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/EhbIkBe3K0I?autoplay=1",
             "titleTop": "Querétaro",
             "descriptionTop": "Querétaro es una joya geográfica de México que posee los más diversos atractivos turísticos para todos los gustos e intereses que buscan una alternativa en el centro del país. Este lugar lo tiene todo: modernidad, tradición, bosques y deliciosos vinos.",
             "urlImg": "QRO_sierra_gorda_422.webp",
             "actions": {
                 "button": {
                     "text" : "PARA CONOCER MÁS DE QUERÉTARO PRESIONA AQUÍ",
-                    "dir": "https://www.google.com/"
+                    "dir": "https://queretaro.travel/"
                 }
             },
             "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
@@ -771,8 +771,8 @@
                     "text": "Con paisajes de ensueño, parecería mentira que a unos pocos kilómetros de la capital, se encuentre una zona boscosa al sur de Querétaro, lo que la hace el destino ideal para desprenderse de la cotidianidad citadina y descansar a la sombra de árboles centenarios."
                 }
             ],
-            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
-            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d954043.2427950689!2d-100.70136887210424!3d20.923122726456526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d35b8fdc5b9255%3A0x97b094aa561b832f!2sSantiago%20de%20Quer%C3%A9taro%2C%20Qro.!5e0!3m2!1ses-419!2smx!4v1684021053247!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/5xQPBd7Gs4IIhUgqytSqvQ?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE QUERÉTARO PRESIONA AQUÍ",
@@ -780,14 +780,14 @@
         },
         {
             "id": "QuintanaRoo",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/jnbG-1MbFWg?autoplay=1",
             "titleTop": "Quintana Roo",
             "descriptionTop": "Ubicado al sureste de México, Quintana Roo, es una región única en el mundo, diversa en cuanto a destinos y atractivos turísticos: Mar azul, playas de arena blanca, selva tropical, zonas arqueológicas, cenotes, ríos subterráneos, islas, lagunas, cultura Maya viva e historia. 14 destinos turísticos: Holbox, Isla Mujeres, Costa Mujeres, Cancún, la Riviera Maya, que comprende a Puerto Morelos, Playa del Carmen y Tulum, Isla Cozumel, Maya Ka’an así como la Grand Costa Maya integrada por Mahahual, Bacalar y Chetumal.",
             "urlImg": "Qroo_Xcaret282_2.webp",
             "actions": {
                 "button": {
                     "text" : "PARA CONOCER MÁS DE QUINTANA ROO PRESIONA AQUÍ",
-                    "dir": "https://www.google.com/"
+                    "dir": "https://www.caribemexicano.travel/"
                 }
             },
             "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
@@ -808,8 +808,8 @@
                     "text": "20% del territorio de Quintana Roo está protegido. Esto incluye sitios que son Áreas Naturales Protegidas, Reservas de la Biósfera, Parques Nacionales, Áreas de Protección de Flora y Fauna y Santuarios de diversas especies de animales. ¡Aquí no hay excusas para no salir a la naturaleza!"
                 }
             ],
-            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
-            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3845592.174182109!2d-90.64439106890148!3d19.735554426711545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f4ffcf0eac32695%3A0xc4f0c52a484c8d9c!2sQuintana%20Roo!5e0!3m2!1ses-419!2smx!4v1684021214206!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/3jLxQG2AbDNOa3eL5AV4N4?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE QUINTANA ROO PRESIONA AQUÍ",
@@ -817,14 +817,14 @@
         },
         {
             "id": "SanLuisPotosi",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/1gEAijlXnjc?autoplay=1",
             "titleTop": "San Luis Potosí",
             "descriptionTop": "Ubicado al centro de México, San Luis Potosí es un destino unido por los contrastes de sus cuatro regiones. Incontables atractivos turísticos desde el enigmático desierto hasta la increíble Huasteca Potosina te esperan para sorprenderte.",
             "urlImg": "SLP_realdecatorce_424.webp",
             "actions": {
                 "button": {
                     "text" : "PARA CONOCER MÁS DE SAN LUIS POTOSÍ PRESIONA AQUÍ",
-                    "dir": "https://www.google.com/"
+                    "dir": "https://visitasanluispotosi.com/"
                 }
             },
             "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
@@ -845,8 +845,8 @@
                     "text": "Las imponentes y múltiples cascadas de San Luis Potosí, como la de Tamasopo, El Salto, Minas Viejas, entre muchas otras."
                 }
             ],
-            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
-            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1892526.8016636858!2d-102.27444269316865!3d22.112954982526595!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842aa20005acfb79%3A0xed2ee29afe18257!2sSan%20Luis%2C%20S.L.P.!5e0!3m2!1ses-419!2smx!4v1684021496107!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/0xymn7NdxdlCLnDFL7ffQ1?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE SAN LUIS POTOSÍ PRESIONA AQUÍ",
@@ -854,14 +854,14 @@
         },
         {
             "id": "Sinaloa",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/MKX2Na-l-a4?autoplay=1",
             "titleTop": "Sinaloa",
             "descriptionTop": "Sinaloa, ubicado en el noroeste de México, es dueño de 650 kilómetros de litoral, lo que permite ofrecer bastas experiencias de sol y playa. Culiacán tiene mucho que ofrecer para todos los sentidos. Negocios, cultura, arte, ocio, educación y por supuesto, fiesta y diversión.",
             "urlImg": "SIN_mazatlan_playa-750.webp",
             "actions": {
                 "button": {
                     "text" : "PARA CONOCER MÁS DE SINALOA PRESIONA AQUÍ",
-                    "dir": "https://www.google.com/"
+                    "dir": "https://sinaloa.travel/"
                 }
             },
             "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
@@ -882,8 +882,8 @@
                     "text": "Las pequeñas callejuelas empedradas y paisajes paradisiacos de sus pueblos mágicos, enriquecidos por su historia minera, clima tropical, viejas iglesias y leyendas fantasmales."
                 }
             ],
-            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
-            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3710686.7360458025!2d-110.06058980487454!3d24.73657650691432!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x869f539428a74959%3A0x9c7bdf760dbe5fef!2sSinaloa!5e0!3m2!1ses-419!2smx!4v1684021652283!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/57qATI59zt97GfYpac1FoS?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE SINALOA PRESIONA AQUÍ",
@@ -891,14 +891,14 @@
         },
         {
             "id": "Sonora",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/n5xkeVm3bws?autoplay=1",
             "titleTop": "Sonora",
             "descriptionTop": "Sonora es un gran estado al norte de México, con una importante extensión territorial, la segunda más grande del país, donde puedes encontrar montañas verdes, extensos valles agrícolas, un espectacular desierto, más de 1,200 km de litoral con el increíble Mar de Cortés, y una activa frontera con Estados Unidos.",
             "urlImg": "SON_caborca_10.webp",
             "actions": {
                 "button": {
                     "text" : "PARA CONOCER MÁS DE SONORA PRESIONA AQUÍ",
-                    "dir": "https://www.google.com/"
+                    "dir": "https://visitsonora.mx/"
                 }
             },
             "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
@@ -919,8 +919,8 @@
                     "text": "Los Petroglifos de Caborca, donde podrás ver la mayor concentración de grabados prehispánicos en América Latina."
                 }
             ],
-            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
-            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7125758.782105107!2d-117.02763597053065!3d29.300691176733878!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86982969e74dd20f%3A0xcd56ff1afcbbe374!2sSonora!5e0!3m2!1ses-419!2smx!4v1684021784841!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/4xRB7oBUzyZe7dIiNf6H58?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE SONORA PRESIONA AQUÍ",
@@ -928,14 +928,14 @@
         },
         {
             "id": "Tabasco",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/noJ6i36csXQ?autoplay=1",
             "titleTop": "Tabasco",
             "descriptionTop": "Su ubicación lo convierte en la puerta de entrada al sureste mexicano y al Mundo Maya, epicentro de la industria petrolera y centro regional de entretenimiento, servicios y comunicaciones. Posee el 53% de agua de todo el país. Ocupa el primer lugar en producción de cacao y ganadería; y el segundo lugar en producción de plátano.",
             "urlImg": "TAB_Jalpa_de_Mendez8.webp",
             "actions": {
                 "button": {
                     "text" : "PARA CONOCER MÁS DE TABASCO PRESIONA AQUÍ",
-                    "dir": "https://www.google.com/"
+                    "dir": "https://visitetabasco.com/"
                 }
             },
             "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
@@ -956,8 +956,8 @@
                     "text": "La alegría, el folklor, los colores y sabores que caracterizan a la Gran Ruta Biji Yokot’an."
                 }
             ],
-            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
-            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886964.1408265596!2d-95.19981354332153!3d17.938523210589693!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85edfb5f8f78cb4f%3A0xd426cb11d9866b44!2sTabasco!5e0!3m2!1ses-419!2smx!4v1684022280766!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/1e0PFxUw2WqvP9Jp3VF2a1?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE TABASCO PRESIONA AQUÍ",
@@ -965,14 +965,14 @@
         },
         {
             "id": "Tamaulipas",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/DktNae84wVk?autoplay=1",
             "titleTop": "Tamaulipas",
             "descriptionTop": "Tamaulipas se encuentra al noreste del país. Con más de 400 kilómetros de playa y otros tantos más de fronteras. Aquí viven un sinfín de especies naturales como el jaguar, la guacamaya, el cocodrilo y el venado, así como miles de aves que se pueden observar a lo largo de todo este territorio.",
             "urlImg": "TMPS_miramar_2_20.webp",
             "actions": {
                 "button": {
                     "text" : "PARA CONOCER MÁS DE TAMAULIPAS PRESIONA AQUÍ",
-                    "dir": "https://www.google.com/"
+                    "dir": "http://www.visittam.com/"
                 }
             },
             "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
@@ -993,8 +993,8 @@
                     "text": "Ubicada en la Sierra Madre Oriental, al suroeste de Tamaulipas, la hermosa Tula es la cuna de la entidad, no es casualidad que la cuera tulteca, prenda típica de Tamaulipas, sea de este lugar."
                 }
             ],
-            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
-            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3705052.4384775567!2d-101.28520894348287!3d24.924735351966053!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x867953aedb1e2459%3A0x33859f5a35e81925!2sTamaulipas!5e0!3m2!1ses-419!2smx!4v1684022385332!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/42i0q3sQUpBO2ObG2nxySB?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE TAMAULIPAS PRESIONA AQUÍ",
@@ -1002,14 +1002,14 @@
         },
         {
             "id": "Tlaxcala",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/NQPGtGnuA9E?autoplay=1",
             "titleTop": "Tlaxcala",
             "descriptionTop": "Dentro del corazón de la República Mexicana se encuentra Tlaxcala, a solo 120 km al oriente de la Ciudad de México. Es el estado más pequeño de la República Mexicana, pero uno de los más grandes en historia y tradición. Tlaxcala, sí existe. ¡Compruébalo!",
             "urlImg": "TLX_teatro_26.webp",
             "actions": {
                 "button": {
                     "text" : "PARA CONOCER MÁS DE TLAXCALA PRESIONA AQUÍ",
-                    "dir": "https://www.google.com/"
+                    "dir": "https://www.tlaxcalasiexiste.com.mx/"
                 }
             },
             "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
@@ -1030,8 +1030,8 @@
                     "text": "Por la Huamantlada, fiesta con más de 60 años de tradición. Las calles son adornadas con tapetes de aserrín multicolores y flores."
                 }
             ],
-            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
-            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1926627.340737737!2d-99.4862495595288!3d19.41482434541632!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cfd93f1c006113%3A0x38bae25ad47cbde0!2sTlaxcala!5e0!3m2!1ses-419!2smx!4v1684022486835!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/2Au5dhEkQ16xsO05chmItl?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE TLAXCALA PRESIONA AQUÍ",
@@ -1039,7 +1039,7 @@
         },
         {
             "id": "Veracruz",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/YoNdlAk5N5Q?autoplay=1",
             "titleTop": "Veracruz",
             "descriptionTop": "Veracruz, un alargado estado mexicano que bordea el Golfo de México, tiene varias playas y la cima más alta del país, Pico de Orizaba, un volcán inactivo. Una tierra de diversidad cultural y natural está entre las 3 entidades con mayor biodiversidad del país.",
             "urlImg": "VER_catemaco104.webp",
@@ -1067,8 +1067,8 @@
                     "text": "La majestuosa belleza natural de sus playas, ríos, pozas de aguas termales."
                 }
             ],
-            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
-            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d120587.93128962361!2d-96.25871711943859!3d19.178910555291967!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85c3414245ca78c5%3A0x18a4d642e936019b!2sVeracruz%2C%20Ver.!5e0!3m2!1ses-419!2smx!4v1684022576385!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/1xVFcq3EP54qT1OKuZ6pHa?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE VERACRUZ PRESIONA AQUÍ",
@@ -1076,14 +1076,14 @@
         },
         {
             "id": "Yucatan",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/aDjSaYjccbE?autoplay=1",
             "titleTop": "Yucatán",
             "descriptionTop": "Yucatán es un estado mexicano famoso por sus playas en el golfo de México y las ruinas mayas. Ubicado al sureste del país, en este Estado puedes combinar historia, cultura, romance, gastronomía, playas y la oportunidad única de sumergirte en una comunidad del pueblo Maya.",
             "urlImg": "YUC_Cusaman_Cenotes152.webp",
             "actions": {
                 "button": {
                     "text" : "PARA CONOCER MÁS DE YUCATÁN PRESIONA AQUÍ",
-                    "dir": "https://www.google.com/"
+                    "dir": "https://yucatan.travel/"
                 }
             },
             "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
@@ -1104,8 +1104,8 @@
                     "text": "Los bosques tropicales, ojos de agua, manglares y playas de la Riviera Yucatán."
                 }
             ],
-            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
-            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3813412.5324629922!2d-91.72837164601708!3d21.03125846141055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f540ff8aad604ed%3A0xcccc217531083d0a!2zWXVjYXTDoW4!5e0!3m2!1ses-419!2smx!4v1684022688075!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/3qxRbcVFYfo0IHTiOzof1V?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE YUCATÁN PRESIONA AQUÍ",
@@ -1113,14 +1113,14 @@
         },
         {
             "id": "Zacatecas",
-            "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+            "urlVideoTop": "https://www.youtube.com/embed/v5bCqfnHHOc?autoplay=1",
             "titleTop": "Zacatecas",
             "descriptionTop": "Zacatecas se ubica al centro de México. Conocido por ser un centro minero de plata del siglo XVI. Territorio diverso y de distintas altitudes, es un Estado que brilla. Orgulloso de su historia minera, desde las entrañas de la tierra hasta la influencia de su gastronomía popular.",
             "urlImg": "ZAC_sierra de organos_2898.webp",
             "actions": {
                 "button": {
                     "text" : "PARA CONOCER MÁS DE ZACATECAS PRESIONA AQUÍ",
-                    "dir": "https://www.google.com/"
+                    "dir": "https://www.zacatecastravel.com/"
                 }
             },
             "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
@@ -1141,8 +1141,8 @@
                     "text": "Zacatecas es la ciudad con más museos per cápita en el país por lo que tendrás una gran oferta de interesantes opciones."
                 }
             ],
-            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
-            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3758930.7320455452!2d-105.18865987848196!3d23.06666422056259!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8681d1a07ec9fe6f%3A0x1c1f2dfd5e256d98!2sZacatecas!5e0!3m2!1ses-419!2smx!4v1684022913675!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/6XOFXXp91YSgCvCNawIfOw?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
             "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
             "desciptionHover": "PARA CONOCER MÁS DE ZACATECAS PRESIONA AQUÍ",

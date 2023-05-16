@@ -32,13 +32,21 @@
 }
 .tren-maya-content-img {
   width: 100%;
-  height: 270px;
+  height: auto;
   object-fit: cover;
 }
+.tren-maya-video-ctn {
+  margin-top: 32px;
+  height: 270px;
+  aspect-ratio: auto;
+  width: 100%;
+} 
 
 @media (min-width: 744px) {
   .tren-maya-content-ctn {
     padding: 156px 0;
+  }
+  .tren-maya-content-description-ctn {
     display: grid;
     grid-template-columns: 1fr 1fr;
   }
@@ -57,11 +65,16 @@
     height: 100%;
     padding: 0 15px;
   }
+  .tren-maya-video-ctn {
+    height: 370px;
+  } 
 }
 
 @media (min-width: 992px) {
   .tren-maya-content-ctn {
     padding: 172px 0;
+  }
+  .tren-maya-content-description-ctn {  
     display: grid;
     grid-template-columns: 1fr 1fr;
   }
@@ -82,10 +95,10 @@
     height: 100%;
     padding: 0 15px;
   }
-  .tren-maya-content-img {
-    height: 460px;
-  }
   .tren-maya-content-ctn-badge {
     padding: 35px;
   }
+  .tren-maya-video-ctn {
+    height: 560px;
+  } 
 }
