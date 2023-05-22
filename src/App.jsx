@@ -39,7 +39,6 @@ function App() {
           <Route path='/turismosostenible' element={<TurismoSostenible />} />
           <Route path='/bienestar' element={<Bienestar />} />
           <Route path='/turismodeaventura' element={<TurismoDeAventura />} />
-          <Route path='/vivemexico' element={<Home />} />
           <Route path='*' element={<Home />} />
         </Routes>
       </Layout>

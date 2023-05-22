@@ -70,6 +70,12 @@ const Header = () => {
         <select name="selectedFruit" className="header-select-input" onChange={(e) => changeLanguage(e)} id="selectLanguage">
           <option value="MX">🇲🇽ES</option>
           <option value="USA">🇺🇸EN</option>
+          <option value="FR">🇫🇷FR</option>
+          <option value="DE">🇩🇪DE</option>
+          {/*<option value="PT">🇵🇹PT</option>*/}
+          {/*<option value="IT">🇮🇹IT</option>*/}
+          <option value="JP">🇯🇵JP</option>
+          {/*<option value="CN">🇨🇳CN</option>*/}
         </select>
       </label>
       <nav className="nav-ctn" id="nav-ctn">

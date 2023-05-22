@@ -5,259 +5,259 @@
             "id": "Aguascalientes",
             "urlVideoTop": "https://www.youtube.com/embed/g-nm1J-WXwU?&autoplay=1",
             "titleTop": "Aguascalientes",
-            "descriptionTop": "Aguascalientes se ubica en el corazón de la República mexicana. Es conocido por ser el estado de Tierra Buena, Agua Clara, Cielo Claro y Gente Buena.",
+            "descriptionTop": "Aguascalientes is located in the heart of Mexico. Aguascalientes is a well-known state for its Good Soil, Clear Water, Clear Sky and Good People.",
             "urlImg": "AGS_aguascalientes_464.webp",
             "actions": {
                 "button": {
-                    "text" : "PARA CONOCER MÁS DE AGUASCALIENTES PRESIONA AQUÍ",
+                    "text" : "PLEASE, CLICK HERE TO KNOW MORE ABOUT AGUASCALIENTES",
                     "dir": "https://www.vivaaguascalientes.com/"
                 }
             },
-            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "titleBottom": "Find out 5 reasons why should be in your travel bucket list.",
             "descriptionBottom": [
                 {
-                    "text": "Sus Cuatro Barrios que conforman el Aguascalientes Clásico: Guadalupe, San Marcos, El Encino y La Estación."
+                    "text": "Its four quarters that shape traditional Aguascalientes: Guadalupe, San Marcos, El Encino and La Estación."
                 },
                 {
-                    "text": "Su tradición ferrocarrilera de más de 100 años."
+                    "text": "Its railway tradition is more than 100 years old."
                 },
                 {
-                    "text": "Bellos atardeceres que cobijan el Cerro del Muerto."
+                    "text": "Its beautiful sunsets that shelter el Cerro del Muerto."
                 },
                 {
-                    "text": "Manantiales de aguas termales, motivo por el que toma el Estado su nombre."
+                    "text": "Its hot springs which give the state its name: Aguascalientes."
                 },
                 {
-                    "text": "Su artesanía de deshilados."
+                    "text": "Its hand-embroidered crafts."
                 }
             ],
             "urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1893491.9893227837!2d-102.354733!3d22.040928!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8429ec143ae4d9fb%3A0x4016978679c5220!2sAguascalientes%2C%20Ags.!5e0!3m2!1ses-419!2smx!4v1683564992457!5m2!1ses-419!2smx",
             "urlSpotify": "https://open.spotify.com/embed/track/3mUTPSE6VyhKTsxiyHUJ66?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
-            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
-            "desciptionHover": "PARA CONOCER MÁS DE AGUASCALIENTES PRESIONA AQUÍ",
+            "descriptionShort": "Find out 5 reasons why should be in your travel bucket list.",
+            "desciptionHover": "PLEASE, CLICK HERE TO KNOW MORE ABOUT AGUASCALIENTES",
             "dir": "/estado"
         },
         {
             "id": "BajaCalifornia",
             "urlVideoTop": "https://www.youtube.com/embed/GLKLZeEgC24?autoplay=1",
             "titleTop": "Baja California",
-            "descriptionTop": "Cobijada por el Mar de Cortés y el Océano Pacífico, Baja California significa una experiencia especial: islas, playas, desierto, cañones, sierras y volcanes extintos acompañan el camino.",
+            "descriptionTop": "Baja California, bathed by the Sea of Cortés, also known as the Gulf of California, and the Pacific Ocean, is a special experience: islands, beaches, desert, canyons, sierras and extinct volcanoes are all part of the trip.",
             "urlImg": "BCA_rosarito_playa-952.webp",
             "actions": {
                 "button": {
-                    "text" : "PARA CONOCER MÁS DE BAJA CALIFORNIA PRESIONA AQUÍ",
+                    "text" : "PLEASE, CLICK HERE TO KNOW MORE ABOUT BAJA CALIFORNIA",
                     "dir": "https://bajacalifornia.travel/es/"
                 }
             },
-            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "titleBottom": "Find out 5 reasons why should be in your travel bucket list.",
             "descriptionBottom": [
                 {
-                    "text": "Por sus hermosas playas y sus asombrosos atardeceres, inolvidables, mágicos."
+                    "text": "The beautiful beaches and astonishing sunsets, unforgettable, magical."
                 },
                 {
-                    "text": "Por su gastronomía, que siempre se ha distinguido por la frescura de sus productos del mar."
+                    "text": "The cuisine, always distinguished by the freshness of its seafood."
                 },
                 {
-                    "text": "Por Tijuana. Su estratégica ubicación y servicios de calidad internacional, lo convierten en el lugar ideal para el Turismo de Negocios y de Salud."
+                    "text": "Tijuana; its strategic location and world-class services make it the ideal spot for business and health tourism."
                 },
                 {
-                    "text": "Por Ensenada, el municipio más grande de México. Rodeado por el Océano Pacífico y el Mar de Cortés. Su vastos paisajes, flora y fauna tanto terrestre como marina, hacen de él un atractivo destino para los amantes de la naturaleza."
+                    "text": "Ensenada, the largest municipality in all of Mexico, surrounded by the Pacific Ocean and the Sea of Cortés. Its vast landscapes, its flora and fauna, both terrestrial and aquatic, make it an attractive destination for nature lovers."
                 },
                 {
-                    "text": "Por Mexicali, conocida como la “Ciudad que capturó al sol”. Se localiza a orillas del Río Colorado y cerca de la Laguna Salada. Cuenta con la mayor oferta de comida china del país, y algunos de los mejores cortes de carne."
+                    "text": "Mexicali, known as “the City that captured the sun”, located on the shores of the Colorado river and near the Laguna Salada. It has the largest offer of Chinese food in the country and some of its best steaks."
                 }
             ],
             "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3526284.0084687793!2d-118.17094697813712!3d30.332849226145143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80d7700ca877ddd3%3A0xfca4fd9f0318de8e!2sBaja%20California!5e0!3m2!1ses-419!2smx!4v1683570123340!5m2!1ses-419!2smx",
             "urlSpotify": "https://open.spotify.com/embed/playlist/5hBLmRp1Qd73LjRoHpvcpG?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
-            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
-            "desciptionHover": "PARA CONOCER MÁS DE BAJA CALIFORNIA PRESIONA AQUÍ",
+            "descriptionShort": "Find out 5 reasons why should be in your travel bucket list.",
+            "desciptionHover": "PLEASE, CLICK HERE TO KNOW MORE ABOUT BAJA CALIFORNIA",
             "dir": "/estado"
         },
         {
             "id": "BajaCaliforniaSur",
             "urlVideoTop": "https://www.youtube.com/embed/vO_nZdwKXo0?autoplay=1",
             "titleTop": "Baja California Sur",
-            "descriptionTop": "Baja California Sur se encuentra rodeado por el Océano Pacífico y el Mar de Cortés. Es una tierra de contrastes, y en eso radica su principal atractivo. cálidas playas, esteros, manglares, oasis, Pueblos Mágicos, flora desértica, arte rupestre y más.",
+            "descriptionTop": "Baja California Sur is surrounded by the Pacific Ocean and the Sea of Cortés, also known  the Gulf of California. A region of contrasts; therein lies its main attractions. Warm beache estuaries, mangroves, oasis, Pueblos Mágicos (Magic Towns), desert flora, rock art and more.",
             "urlImg": "BCS_cabo_san_lucas_113.webp",
             "actions": {
                 "button": {
-                    "text" : "PARA CONOCER MÁS DE BAJA CALIFORNIA SUR PRESIONA AQUÍ",
+                    "text" : "PLEASE, CLICK HERE TO KNOW MORE ABOUT BAJA CALIFORNIA SUR",
                     "dir": "https://visitbajasur.travel/es/"
                 }
             },
-            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "titleBottom": "Find out 5 reasons why should be in your travel bucket list.",
             "descriptionBottom": [
                 {
-                    "text": "Paisajes únicos para disfrutar con la familia, pareja o amistades. Playas y cielos que nunca olvidarás."
+                    "text": "Its unique landscapes to be enjoyed with family, partners and friends. Unforgettable beaches and skies."
                 },
                 {
-                    "text": "Su gastronomía: langosta, lenguado, callos, almejas y camarones son algunas de las variedades que en esplendidas recetas podrás degustar aquí."
+                    "text": "The cuisine: lobster, sole, scallops, clams and shrimp are some of the varieties of seafood you can taste here."
                 },
                 {
-                    "text": "Infraestructura hotelera y restaurantera, de talla internacional ideal para el turismo de negocios."
+                    "text": "World-class hotels and restaurants, perfect for business tourism."
                 },
                 {
-                    "text": "Turismo familiar, de aventura, negocios, todo lo que busques y necesites."
+                    "text": "Family, adventure and business tourism, and everything you might need."
                 },
                 {
-                    "text": "Los Cabos, un paraíso de mar azul que las estrellas de Hollywood no dejan de visitar. Un corredor turístico de más de 35 km donde podrás encontrar los mejores hoteles, restaurantes y toda clase de actividades divertidas para todos."
+                    "text": "Los Cabos, a blue-sea paradise, a favorite for Hollywood stars. A tourist corridor of nearly 22 miles where you can find the best hotels, restaurants and all kinds of fun activities for everyone."
                 }
             ],
             "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3690264.392816474!2d-114.9588129607235!3d25.41238054228561!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86afd339b5a21ec9%3A0x71dfb33aa9a75918!2sBaja%20California%20Sur!5e0!3m2!1ses-419!2smx!4v1683570336851!5m2!1ses-419!2smx",
             "urlSpotify": "https://open.spotify.com/embed/playlist/5hBLmRp1Qd73LjRoHpvcpG?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
-            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
-            "desciptionHover": "PARA CONOCER MÁS DE BAJA CALIFORNIA SUR PRESIONA AQUÍ",
+            "descriptionShort": "Find out 5 reasons why should be in your travel bucket list.",
+            "desciptionHover": "PLEASE, CLICK HERE TO KNOW MORE ABOUT BAJA CALIFORNIA SUR",
             "dir": "/estado"
         },
         {
             "id": "Campeche",
             "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
             "titleTop": "Campeche",
-            "descriptionTop": "Campeche se ubica al sureste de México, es un estado con un enorme tesoro, sus edificaciones y su historia constituyen una riqueza cultural que nos da identidad.",
+            "descriptionTop": "Campeche is located in the southeast of Mexico, it is a state with an amazing value, its buildings and history represent a cultural wealth that identifies us.",
             "urlImg": "CAM_calakmul53.webp",
             "actions": {
                 "button": {
-                    "text" : "PARA CONOCER MÁS DE CAMPECHE PRESIONA AQUÍ",
+                    "text" : "PLEASE, CLICK HERE TO KNOW MORE ABOUT CAMPECHE",
                     "dir": "https://www.google.com/"
                 }
             },
-            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "titleBottom": "Find out 5 reasons why should be in your travel bucket list.",
             "descriptionBottom": [
                 {
-                    "text": "Sus playas son únicas, familia, pareja o amigos la pasarán muy bien y nunca olvidarán sus atardeceres."
+                    "text": "Its beaches are unique: family, couples or friends will have a great time and will never forget its sunsets."
                 },
                 {
-                    "text": "Tiene una de las mayores ofertas arqueológicas de México, siendo la Antigua Ciudad Maya y Bosques Tropicales protegidos de Calakmul, Patrimonio Mixto de la Humanidad por la UNESCO."
+                    "text": "It has one of the largest archaeological collections in Mexico,with the Ancient Mayan City and Protected Tropical Forests of Calakmul designated both by UNESCO as Mixed World Heritage."
                 },
                 {
-                    "text": "Su capital, San Francisco de Campeche, es una ciudad fortificada reconocida por la UNESCO como patrimonio de la humanidad."
+                    "text": "Its capital, San Francisco de Campeche is a fortified city recognized by UNESCO as a World Heritage."
                 },
                 {
-                    "text": "Cuenta con una gran variedad de productos del mar, que son aprovechados en su cocina. Panuchos, empanadas, tamales, tacos y el famoso pan de cazón, son algunas de sus joyas."
+                    "text": "It has a great variety of seafood products, which are used in its cuisine. Panuchos, empanadas, tamales, tacos and the famous pan de cazón (dogfish bread) are some of its culinary jewels."
                 },
                 {
-                    "text": "¿Buscas donde casarte? En Campeche tendrás una boda inolvidable, de película."
+                    "text": "Looking for a place to get married? In Campeche you will have an unforgettable, movie-like wedding."
                 }
             ],
             "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
             "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
-            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
-            "desciptionHover": "PARA CONOCER MÁS DE CAMPECHE PRESIONA AQUÍ",
+            "descriptionShort": "Find out 5 reasons why should be in your travel bucket list.",
+            "desciptionHover": "PLEASE, CLICK HERE TO KNOW MORE ABOUT CAMPECHE",
             "dir": "/estado"
         },
         {
             "id": "Chiapas",
             "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
             "titleTop": "Chiapas",
-            "descriptionTop": "Chiapas es una tierra de sensaciones: es sentir el olor profundo del café, es paladear la dulzura de un mango ataúlfo, es ver una parvada de guacamayas en la selva, es oír el interminable correr del agua o palpar la delicadeza de un textil tradicional.",
+            "descriptionTop": "Chiapas is a land of sensations: it means feeling the deep smell of coffee, tasting the sweetness of an ‘Ataúlfo’ mango, seeing a flock of macaws in the jungle, hearing the endless sound of running water or touching the finesse of the traditional textiles.",
             "urlImg": "CHIS_yaxchilan_95.webp",
             "actions": {
                 "button": {
-                    "text" : "PARA CONOCER MÁS DE CHIAPAS PRESIONA AQUÍ",
+                    "text" : "PLEASE, CLICK HERE TO KNOW MORE ABOUT CHIAPAS",
                     "dir": "https://www.google.com/"
                 }
             },
-            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "titleBottom": "Find out 5 reasons why should be in your travel bucket list.",
             "descriptionBottom": [
                 {
-                    "text": "Chiapas es uno de los estados de México con mayor diversidad cultural, es cuna de etnias indígenas como los tzotziles, zoques, chamulas, tzeltales y lacandones."
+                    "text": "Chiapas is one of the states in Mexico with the greatest cultural diversity; it is the cradle of indigenous ethnic groups such as Tzotzil, Zoque, Chamulas, Tzeltal and Lacandon."
                 },
                 {
-                    "text": "Es uno de los tres estados con mayor biodiversidad del país, junto con Oaxaca y Veracruz."
+                    "text": "It is one of the three states with the widest biodiversity in the country, along with Oaxaca and Veracruz."
                 },
                 {
-                    "text": "Tuxtla Gutiérrez, su origen se sitúa en un poblado zoque llamado Coyatoc (lugar del conejo o los conejos), nombre que los pueblos de lengua nahua tradujeron como Tochtlan."
+                    "text": "Tuxtla Gutierrez, its origin is located in a small zoque village called Coyatoc (place of the rabbit or the rabbits), name that the Nahua-speaking peoples translated as Tochtlan."
                 },
                 {
-                    "text": "San Cristóbal de las Casas, este bello Pueblo Mágico, es una ciudad colorida que goza de un clima templado y rebosante cultura."
+                    "text": "San Cristobal de las Casas, this beautiful Pueblo Mágico (Magical Town), is a colorful city that has a mild weather and which is brimming with culture."
                 },
                 {
-                    "text": "Comitán de Domínguez, Pueblo Mágico heredero de antiguos asentamientos indígenas, fue fundado por los dominicos poco después de la llegada de los españoles a la región."
+                    "text": "Comitan de Domiguez, Pueblo Mágico heir to ancient indigenous settlements, was founded by the Dominicans a little bit after the arrival of the Spaniards to the region."
                 }
             ],
             "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
             "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
-            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
-            "desciptionHover": "PARA CONOCER MÁS DE CHIAPAS PRESIONA AQUÍ",
+            "descriptionShort": "Find out 5 reasons why should be in your travel bucket list.",
+            "desciptionHover": "PLEASE, CLICK HERE TO KNOW MORE ABOUT CHIAPAS",
             "dir": "/estado"
         },
         {
             "id": "Chihuahua",
             "urlVideoTop": "https://www.youtube.com/embed/2XtTWy50hjc?autoplay=1",
             "titleTop": "Chihuahua",
-            "descriptionTop": "Ubicado al norte, Chihuahua es el Estado más grande de la República Mexicana, para darnos una idea de su magnitud, Inglaterra podría caber dentro de él. Es impresionante la diversidad de ecosistemas, de gastronomía y cultura que alberga esta imponente entidad.",
+            "descriptionTop": "Located up north, Chihuahua is Mexico’s largest state. To picture how big it is, England would easily fit within the state’s boundaries. The immense variety of ecosystems, gastronomy and culture that is found there is remarkable.",
             "urlImg": "CHIH_creel47.webp",
             "actions": {
                 "button": {
-                    "text" : "PARA CONOCER MÁS DE CHIHUAHUA PRESIONA AQUÍ",
+                    "text" : "PLEASE, CLICK HERE TO KNOW MORE ABOUT CHIHUAHUA",
                     "dir": "https://visitachihuahua.com/"
                 }
             },
-            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "titleBottom": "Find out 5 reasons why should be in your travel bucket list.",
             "descriptionBottom": [
                 {
-                    "text": "Un recorrido en El Chepe, un tren que cruza túneles y algunos de los paisajes montañosos más bellos de México."
+                    "text": "Chepe is a train ride that runs across tunnels and through some of the most beautiful mountain sides across the entire nation."
                 },
                 {
-                    "text": "Entre sus platillos tradicionales se encuentra el chile colorado con carne seca, la machaca con huevo, el chile con asadero, chile pasado con carne o con queso, tortillas de harina, la tradicional carne asada al carbón o los cortes de carne tipo americano, así como la deliciosa discada."
+                    "text": "Among the most traditional dishes of its cuisine, there is chile colorado made with beef jerky, machaca con huevo (scrambled eggs with jerky chew), asadero cheese with chili pepper, chile pasado (roasted and dried California chili) with beef or cheese, flour tortillas, the famous charbroiled grilled steak, the American style fine steak cuts, or the delicious discada (ground beef with ham, bacon, bologna, and chorizo fried in a cast iron disc cooker)."
                 },
                 {
-                    "text": "En los pueblos de Bacajípare y Huetosachi, tendrás la oportunidad de preparar y compartir una comida con la comunidad, así como recorrer sus senderos."
+                    "text": "In the native towns of Bacajípare and Huetosachi, you’ll have the opportunity to cook and share a meal with the community and explore the pathways of the towns."
                 },
                 {
-                    "text": "Creel, este Pueblo Mágico es un destino lleno de historia y tradición. Sus alrededores abundantes en pinos y encinos despiertan el espíritu aventurero."
+                    "text": "Creel, labeled a Pueblo mágico (Magical Town), is a destination full of history and tradition. Its surroundings, crowded with pine and oak trees, awake anyone’s spirit of adventure."
                 },
                 {
-                    "text": "Casas grandes, este Pueblo Mágico del Estado de Chihuahua obtiene su nombre por la proximidad que tiene con el sitio arqueológico de Paquimé; en 1535, Alvar Núñez Cabeza de Vaca registra en sus memorias que hacia el norte había “pueblos de mucha gente y casas muy grandes”."
+                    "text": "Casas Grandes, another Pueblo mágico in the State of Chihuahua, got its name (Large Houses) because of its proximity to the archeological site of Paquimé. In 1535, Alvar Núñez Cabeza de Vaca recorded in his memoirs that, up north, there were “largely populated villages and really large houses”."
                 }
             ],
             "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7169267.155057151!2d-111.33806860448709!3d28.671132722547366!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86ea449d5d484033%3A0xb7f1a7a706dd1d7b!2sChihuahua%2C%20Chih.!5e0!3m2!1ses-419!2smx!4v1684020195953!5m2!1ses-419!2smx",
             "urlSpotify": "https://open.spotify.com/embed/playlist/4L5pHmiC38UtKVz6Eh3EUe?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
-            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
-            "desciptionHover": "PARA CONOCER MÁS DE CHIHUAHUA PRESIONA AQUÍ",
+            "descriptionShort": "Find out 5 reasons why should be in your travel bucket list.",
+            "desciptionHover": "PLEASE, CLICK HERE TO KNOW MORE ABOUT CHIHUAHUA",
             "dir": "/estado"
         },
         {
             "id": "Coahuila",
             "urlVideoTop": "https://www.youtube.com/embed/B2MN00vAz7A?autoplay=1",
             "titleTop": "Coahuila",
-            "descriptionTop": "Coahuila es fuerte por sus municipios icónicos, por sus más de 23 vitivinícolas, por su gran riqueza paleontológica, su inigualable gastronomía y por sus siete Pueblos Mágicos, entre otros.",
+            "descriptionTop": "Coahuila is strong for its iconic municipalities, its over 23 wineries, its paleontological richness, its unrivaled gastronomy, and for its seven Pueblos Mágicos (Magical Towns), among other reasons.",
             "urlImg": "COAH_2_dunas_bilbao_22.webp",
             "actions": {
                 "button": {
-                    "text" : "PARA CONOCER MÁS DE COAHUILA PRESIONA AQUÍ",
+                    "text" : "PLEASE, CLICK HERE TO KNOW MORE ABOUT COAHUILA",
                     "dir": "https://hazturismoencoahuila.mx/"
                 }
             },
-            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "titleBottom": "Find out 5 reasons why should be in your travel bucket list.",
             "descriptionBottom": [
                 {
-                    "text": "Sus paisajes asombrosos, de ensueño, entre los que se encuentran municipios, ciudades y Pueblos Mágicos que nunca olvidarás."
+                    "text": "Its sublime, chimeric landscapes, among which are municipalities, cities and Pueblos Mágicos (Magical Towns) that you will never forget."
                 },
                 {
-                    "text": "El arte culinario tradicional Coahuilense representa un manjar para los amantes de la carne. Carnes rojas, jugosas y de finos cortes forman parte de su oferta, la cual se basa principalmente en la carne de cabrito, res y ternera, sin dejar atrás las deliciosas carnitas y chicharrones de puerco."
+                    "text": "Coahuila&#39;s traditional culinary art represents a feast for all meat lovers. Juicy, thinly sliced red meats comprise its offer based primarily on lamb, beef and veal, without forgetting about its delicious pork chicharrones and carnitas."
                 },
                 {
-                    "text": "Por su riqueza cultural, de la que destacan los grupos étnicos de Coahuila, destacando los Mascogos y Kikapús."
+                    "text": "For its cultural richness, out of which stand out Coahuila&#39;s ethnic groups, particularly the Kickapoos and the Mascogos."
                 },
                 {
-                    "text": "La ruta de los vinos, la cual incluye dos pueblos mágicos y una serie de maravillas naturales que ofrece el estado de Coahuila. Además de tener la oportunidad de degustar los mejores vinos que se producen en la región."
+                    "text": "Its wine route, which includes two Pueblos Mágicos and a series of natural wonders offered by the state of Coahuila, affording the opportunity to taste the very best wines produced in the region."
                 },
                 {
-                    "text": "Conocer el Pueblo Mágico de Arteaga, uno de sus principales atractivos dentro de la enorme Sierra de Arteaga, que ha dado al municipio el sobrenombre de “La Suiza de México”."
+                    "text": "To know Arteaga, a Pueblo Mágico which is one of the main attractions within the enormous Sierra Arteaga, which has endowed the municipality with the nickname of “Mexican Switzerland”."
                 }
             ],
             "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3634211.9932014607!2d-104.54166938217044!3d27.186632026650457!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x868872bda68e1e29%3A0x64009ad714cd7a39!2sCoahuila%20de%20Zaragoza!5e0!3m2!1ses-419!2smx!4v1683577952331!5m2!1ses-419!2smx",
             "urlSpotify": "https://open.spotify.com/embed/playlist/4s1i0CJ2n3C5LCtuvwmCEg?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
-            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
-            "desciptionHover": "PARA CONOCER MÁS DE COAHUILA PRESIONA AQUÍ",
+            "descriptionShort": "Find out 5 reasons why should be in your travel bucket list.",
+            "desciptionHover": "PLEASE, CLICK HERE TO KNOW MORE ABOUT COAHUILA",
             "dir": "/estado"
         },
         {
@@ -268,11 +268,11 @@
             "urlImg": "COL_manzanillo_57.webp",
             "actions": {
                 "button": {
-                    "text" : "PARA CONOCER MÁS DE COLIMA PRESIONA AQUÍ",
+                    "text" : "PLEASE, CLICK HERE TO KNOW MORE ABOUT COLIMA",
                     "dir": "https://turismo.col.gob.mx/"
                 }
             },
-            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "titleBottom": "Find out 5 reasons why should be in your travel bucket list.",
             "descriptionBottom": [
                 {
                     "text": "Disfruta mágicos atardeceres, tanto en la montaña como en la playa."
@@ -293,267 +293,267 @@
             "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60271.55528058169!2d-103.76980724936448!3d19.24004309147311!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842545523455a217%3A0xb6b497fc5af555e6!2sColima%2C%20Col.!5e0!3m2!1ses-419!2smx!4v1683578149738!5m2!1ses-419!2smx",
             "urlSpotify": "https://open.spotify.com/embed/playlist/4zNvTHKW4UCpARzea4OaTb?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
-            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
-            "desciptionHover": "PARA CONOCER MÁS DE COLIMA PRESIONA AQUÍ",
+            "descriptionShort": "Find out 5 reasons why should be in your travel bucket list.",
+            "desciptionHover": "PLEASE, CLICK HERE TO KNOW MORE ABOUT COLIMA",
             "dir": "/estado"
         },
         {
             "id": "Durango",
             "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
             "titleTop": "Durango",
-            "descriptionTop": "Durango es un estado para disfrutar, explorar, vivir y está considerado la reserva forestal más importante de México. Su arquitectura única y colonial son fuente de grandes historias, leyendas y cultura, además de una larga tradición cinematográfica.",
+            "descriptionTop": "Durango is a state to be enjoyed, explored and experienced, and it is considered the major forest reserve in Mexico. Its unique colonial architecture is the source of great stories, legends and culture, as well as a long-standing film tradition.",
             "urlImg": "DGO_Cd_Durango_34.webp",
             "actions": {
                 "button": {
-                    "text" : "PARA CONOCER MÁS DE DURANGO PRESIONA AQUÍ",
+                    "text" : "PLEASE, CLICK HERE TO KNOW MORE ABOUT DURANGO",
                     "dir": "http://visitdurango.mx/#!/"
                 }
             },
-            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "titleBottom": "Find out 5 reasons why should be in your travel bucket list.",
             "descriptionBottom": [
                 {
-                    "text": "Entre las tradiciones y costumbres de Durango más arraigadas están: el Carnaval celebrado entre febrero y marzo, los días previos al miércoles de ceniza. Incluye disfraces, bailes y desfiles."
+                    "text": "Among Durango’s most deeply rooted traditions and customs we can find: the Carnival, celebrated between February and March, the days before Ash Wednesday, as well as costumes, dances, and parades."
                 },
                 {
-                    "text": "Su portentosa gastronomía, donde destacan el caldillo, carnitas de chivo, barbacoa de olla, tamales de chile colorado, torrejas con miel de maguey entre muchos otro más."
+                    "text": "Its delightful gastronomy includes outstanding dishes like caldillo (beef soup), carnitas de chivo (braised goat), barbacoa de olla (slow roasted lamb), tamales de chile colorado (chilli tamales), torrejas with maguey syrup, among many others."
                 },
                 {
-                    "text": "Mapimí, el primer Pueblo Mágico de Durango. Pertenece al “Camino Real de Tierra Adentro” en la lista de la UNESCO desde el 2010."
+                    "text": "Mapimi is Durango’s first Pueblo Mágico. It belongs to the &quot;Camino Real de Tierra Adentro&quot; (Royal Inland Road, also known as Silver Route), which was inscribed on the UNESCO World Heritage list since 2010."
                 },
                 {
-                    "text": "Nombre de Dios, el pueblo más antiguo del estado, fundado como villa de españoles en 1563 (sobre lo que antes había sido una misión franciscana)."
+                    "text": "Nombre de Dios, the oldest town in the state, was founded as a Spanish village in 1563 on what used to be a Franciscan mission."
                 },
                 {
-                    "text": "La zona del silencio es un lugar lleno de misterio y leyendas. Un desierto donde las señales de radio se pierden y tu brújula deja de funcionar."
+                    "text": "The Silent Zone is a place full of mystery and legends. A desert where radio signals are lost and compasses stop working."
                 }
             ],
             "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d58307.79812547615!2d-104.68892432215172!3d24.022692792116143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x869bb7a518bcdf73%3A0xbfdd8ea63a6c4ad4!2sDurango%2C%20Dgo.!5e0!3m2!1ses-419!2smx!4v1683578320871!5m2!1ses-419!2smx",
             "urlSpotify": "https://open.spotify.com/embed/playlist/41U1BZKUs84ZFqyQXl70F3?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
-            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
-            "desciptionHover": "PARA CONOCER MÁS DE DURANGO PRESIONA AQUÍ",
+            "descriptionShort": "Find out 5 reasons why should be in your travel bucket list.",
+            "desciptionHover": "PLEASE, CLICK HERE TO KNOW MORE ABOUT DURANGO",
             "dir": "/estado"
         },
         {
             "id": "EstadoDeMexico",
             "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
             "titleTop": "Estado de México",
-            "descriptionTop": "Ubicado en el corazón del país, el estado ofrece una amplia oferta de destinos y atractivos como sus 10 Pueblos Mágicos, 23 Pueblos con Encanto y cuatro sitios declarados Patrimonio de la Humanidad por la UNESCO.",
+            "descriptionTop": "Located in the heart of the country, this state offers a wide variety of destinations and attractions such as its ten Pueblos Mágicos (Magical Towns), 23 Pueblos con Encanto (Enchanting Towns) and four sites declared by UNESCO as World Heritage Sites.",
             "urlImg": "MEX_hda_flores_t_12.webp",
             "actions": {
                 "button": {
-                    "text" : "PARA CONOCER MÁS DE ESTADO DE MÉXICO PRESIONA AQUÍ",
+                    "text" : "PLEASE, CLICK HERE TO KNOW MORE ABOUT ESTADO DE MÉXICO",
                     "dir": "https://www.google.com/"
                 }
             },
-            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "titleBottom": "Find out 5 reasons why should be in your travel bucket list.",
             "descriptionBottom": [
                 {
-                    "text": "Por su riqueza cultura, es tierra de los pueblos Mazahua, Otomí, Matlazinca, Tlahuica y Nahua, que heredaron su cultura y tradiciones."
+                    "text": "Due to its cultural wealth, it is the land of the Mazahua, Otomí, Matlazinca, Tlahuica, and Nahua, which inherited their culture and traditions."
                 },
                 {
-                    "text": "Algunos platos típicos del Estado de México son los mixiotes, los tlacoyos, las quesadillas de hongos, los tamales o el guajolote en salsa verde o en pipián."
+                    "text": "Some traditional State of Mexico dishes are mixiotes, tlacoyos, mushroom quesadillas, tamales, and turkey in green or pipián sauce."
                 },
                 {
-                    "text": "¿Te gustaría conocer un lugar lleno de hermosos paisajes, clima cálido y con un gran legado prehispánico? Entonces Malinalco te encantará."
+                    "text": "Would you like to visit a place filled with beautiful landscapes, warm climate and a great pre-Hispanic legacy? Then you will love Malinalco!"
                 },
                 {
-                    "text": "Los amplios y bellos espacios abiertos del Estado son lugar perfecto para el glamping, la combinación entre glamour + camping."
+                    "text": "The vast and beautiful outdoor spaces of the State of Mexico are the perfect place for glamping, the combination of glamour + camping."
                 },
                 {
-                    "text": "En Metepec, convergen la modernidad y la tradición, este municipio alberga una de las piezas artesanales más representativas para todos los mexicanos: el Árbol de la Vida."
+                    "text": "Modernity and tradition converge in Metepec, this municipality houses one of the handcrafted pieces that are more representative for Mexicans: The Tree of Life."
                 }
             ],
             "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
             "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
-            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
-            "desciptionHover": "PARA CONOCER MÁS DE ESTADO DE MÉXICO PRESIONA AQUÍ",
+            "descriptionShort": "Find out 5 reasons why should be in your travel bucket list.",
+            "desciptionHover": "PLEASE, CLICK HERE TO KNOW MORE ABOUT ESTADO DE MÉXICO",
             "dir": "/estado"
         },
         {
             "id": "Guanajuato",
             "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
             "titleTop": "Guanajuato",
-            "descriptionTop": "Guanajuato es el destino turístico colonial más importante de México debido a la diversidad de sus atractivos, como sus seis Pueblos Mágicos, dos Ciudades Patrimonio y cinco zonas arqueológicas.",
+            "descriptionTop": "Guanajuato is the most important colonial travel destination in Mexico due to the diversity of its attractions, such as its six Pueblos Mágicos (Magical Towns), two Heritage Cities, and five archaeological sites.",
             "urlImg": "GTO_guanajuato_338.webp",
             "actions": {
                 "button": {
-                    "text" : "PARA CONOCER MÁS DE GUANAJUATO PRESIONA AQUÍ",
+                    "text" : "PLEASE, CLICK HERE TO KNOW MORE ABOUT GUANAJUATO",
                     "dir": "https://www.google.com/"
                 }
             },
-            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "titleBottom": "Find out 5 reasons why should be in your travel bucket list.",
             "descriptionBottom": [
                 {
-                    "text": "Este estado es sinónimo de arte y cultura, sede del prestigioso Festival Internacional de Cine de Guanajuato y el Cervantino."
+                    "text": "Guanajuato is a synonym of art and culture. It is the venue of prestigious events such as the Guanajuato International Film Festival and the Cervantino."
                 },
                 {
-                    "text": "Gastronomía preparada con ingredientes endémicos que brindan sabores únicos a cada platillo."
+                    "text": "Its cuisine is prepared with endemic ingredients that provide unique flavors to each dish."
                 },
                 {
-                    "text": "Dolores Hidalgo, el primer pueblo mágico del estado es el origen de grandes historias para México, aquí inicio el movimiento de independencia nacional y es el lugar de nacimiento del más grande compositor de música popular en México: José Alfredo Jiménez."
+                    "text": "Dolores Hidalgo is the first Pueblo Mágico in Guanajuato. It is the cradle of some of the most significant stories of Mexico, namely the Mexican independence movement. Dolores Hidalgo is also the birthplace of José Alfredo Jiménez, the greatest composer of popular music in this country."
                 },
                 {
-                    "text": "Es un estado donde encuentras la ruta de la plata y visitar minas antiguas."
+                    "text": "In Guanajuato you can find the Silver Route and visit old mines."
                 },
                 {
-                    "text": "El estado de Guanajuato es el destino ideal cuando buscas la combinación entre negocios y placer, complementando una reunión o un congreso con opciones para el entretenimiento y la relajación."
+                    "text": "Guanajuato is the perfect destination to combine business and leisure activities. A place to relax and have fun after attending a meeting or a conference."
                 }
             ],
             "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
             "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
-            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
-            "desciptionHover": "PARA CONOCER MÁS DE GUANAJUATO PRESIONA AQUÍ",
+            "descriptionShort": "Find out 5 reasons why should be in your travel bucket list.",
+            "desciptionHover": "PLEASE, CLICK HERE TO KNOW MORE ABOUT GUANAJUATO",
             "dir": "/estado"
         },
         {
             "id": "Guerrero",
             "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
             "titleTop": "Guerrero",
-            "descriptionTop": "Guerrero es un estado ubicado al sur de México, cuenta con una gran oferta turística que incluye paradisiacas playas, imponentes montañas y paisajes de ensueño. Una tierra brava, bella y sorprendente.",
+            "descriptionTop": "Guerrero, a state located in Southern Mexico, offers great tourist attractions that encompass heavenly beaches, formidable mountains and enchanting landscapes. A brave beautiful land full of surprises.",
             "urlImg": "GRO_acapulco_1317.webp",
             "actions": {
                 "button": {
-                    "text" : "PARA CONOCER MÁS DE GUERRERO PRESIONA AQUÍ",
+                    "text" : "PLEASE, CLICK HERE TO KNOW MORE ABOUT GUERRERO",
                     "dir": "https://www.google.com/"
                 }
             },
-            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "titleBottom": "Find out 5 reasons why should be in your travel bucket list.",
             "descriptionBottom": [
                 {
-                    "text": "Acapulco es un clásico destino de playa, con una oferta de 20 mil habitaciones de hotel y una gran variedad gastronómica y de actividades recreativas; ideal para un viaje en familia."
+                    "text": "Acapulco is a classic beach destination with 20 thousand hotel rooms, a rich cuisine and a wide array of recreational activities, making it the perfect family trip."
                 },
                 {
-                    "text": "Ixtapa, Zihuatanejo, es un binomio conformado por un tradicional pueblito de pescadores con hermosas playas y mucho sabor mexicano, sumado a una zona de desarrollo con grandes hoteles resort y muchas actividades relacionadas con la naturaleza."
+                    "text": "Ixtapa Zihuatanejo is a dichotomy made up of a traditional fishing town with gorgeous beaches filled with Mexican zest and a developing area with great resorts and many outdoor activities."
                 },
                 {
-                    "text": "Taxco de Alarcón, es un brillante y hermoso Pueblo Mágico famoso por la plata que se produce y comercializa desde hace varias décadas."
+                    "text": "Taxco de Alarcón is a glowing beautiful “Pueblo Mágico” (Magical Town), long-time famous for its silver production and commerce."
                 },
                 {
-                    "text": "Una gastronomía que comprende recetas prehispánicas, no dejes de probar el mole rojo, verde, clemole, huaxmole, las tortillas, memelas, chalupas, y los portentosos pozoles blanco, verde."
+                    "text": "A gastronomy that encompasses pre-Hispanic recipes; the red and green moles, the clemole, the huaxmole, its tortillas, memelas, chalupas and wondrous white and green pozoles are a must try."
                 },
                 {
-                    "text": "Guerrero ha logrado fama internacional gracias a su gran cantidad de manufacturas artesanales, que son reconocidas por sus particularidades étnicas y su incomparable belleza."
+                    "text": "Guerrero has been internationally acclaimed because of its many handicrafts recognized by their varied ethnic features and unparalleled beauty."
                 }
             ],
             "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
             "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
-            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
-            "desciptionHover": "PARA CONOCER MÁS DE GUERRERO PRESIONA AQUÍ",
+            "descriptionShort": "Find out 5 reasons why should be in your travel bucket list.",
+            "desciptionHover": "PLEASE, CLICK HERE TO KNOW MORE ABOUT GUERRERO",
             "dir": "/estado"
         },
         {
             "id": "Hidalgo",
             "urlVideoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
             "titleTop": "Hidalgo",
-            "descriptionTop": "Conventos, haciendas, minas, aventura, cultura y tradición, constituyen el acervo turístico hidalguense, el ambiente que se respira transmite el valor de las culturas milenarias asentadas en sus tierras.",
+            "descriptionTop": "Monasteries, Haciendas –traditional Mexican ranches-, mines, adventure, culture and tradition are the tourism heritage of Hidalgo. The atmosphere conveys the essence of the millenary cultures settled in its lands.",
             "urlImg": "Hgo_tula_003.webp",
             "actions": {
                 "button": {
-                    "text" : "PARA CONOCER MÁS DE HIDALGO PRESIONA AQUÍ",
+                    "text" : "PLEASE, CLICK HERE TO KNOW MORE ABOUT HIDALGO",
                     "dir": "https://www.google.com/"
                 }
             },
-            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "titleBottom": "Find out 5 reasons why should be in your travel bucket list.",
             "descriptionBottom": [
                 {
-                    "text": "Te sorprenderá su gastronomía, es vasta y riquísima, desde una de las mejores barbacoas del país hasta escamoles y chinicuiles."
+                    "text": "You will be amazed by its vast, delicious traditional dishes, from one of the best barbacoas in the country to escamoles - ant eggs- and chinicuiles -small worms-."
                 },
                 {
-                    "text": "Probar la bebida de los dioses: el pulque, una bebida alcohólica de origen prehispánico que se obtiene de las pencas del maguey."
+                    "text": "Try the drink of the gods: pulque. It is a pre-Hispanic alcoholic drink that is made from the maguey stalks."
                 },
                 {
-                    "text": "Zempoala es conocido por sus hermosas haciendas pulqueras. Este municipio además tiene la distinción de tener el nombramiento de Pueblo con Sabor, ganado por su excelente gastronomía típica."
+                    "text": "Zempoala is well-known for its beautiful Pulque Haciendas. This town has also received the Town with Flavour award due to its outstanding traditional cuisine."
                 },
                 {
-                    "text": "Mineral del chico, primera área natural protegida de México, considerada actualmente la meca del turismo de aventura."
+                    "text": "Mineral del Chico was the first natural protected park in Mexico. Nowadays, it is the Mecca of adventure tourism."
                 },
                 {
-                    "text": "Entre las riquezas de Hidalgo hay diversidad de escenarios históricos, culturales, arquitectónicos y naturales que han servido de locaciones para producciones fílmicas."
+                    "text": "Among the jewels of Hidalgo, there are plenty of historic sites, cultural places, architectural ensembles and natural spaces that have been selected for film shootings."
                 }
             ],
             "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
             "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
-            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
-            "desciptionHover": "PARA CONOCER MÁS DE HIDALGO PRESIONA AQUÍ",
+            "descriptionShort": "Find out 5 reasons why should be in your travel bucket list.",
+            "desciptionHover": "PLEASE, CLICK HERE TO KNOW MORE ABOUT HIDALGO",
             "dir": "/estado"
         },
         {
             "id": "Jalisco",
             "urlVideoTop": "https://www.youtube.com/embed/N7MmjzREtig?autoplay=1",
             "titleTop": "Jalisco",
-            "descriptionTop": "Ubicado al occidente de México se encuentra Jalisco, tierra del mariachi y el tequila, dos de los embajadores más representativos de México en el mundo., Se dice que cada uno de sus 125 municipios es una pieza valiosísima de su maravilloso mosaico.",
+            "descriptionTop": "Located in western Mexico we can find Jalisco, the land of mariachi and tequila, two of the greatest ambassadors of Mexico in the world. It said that each one of its 125 municipalities are an invaluable piece of its wonderful patchwork.",
             "urlImg": "JAL_charros_179.webp",
             "actions": {
                 "button": {
-                    "text" : "PARA CONOCER MÁS DE JALISCO PRESIONA AQUÍ",
+                    "text" : "PLEASE, CLICK HERE TO KNOW MORE ABOUT JALISCO",
                     "dir": "https://visitjalisco.mx/"
                 }
             },
-            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "titleBottom": "Find out 5 reasons why should be in your travel bucket list.",
             "descriptionBottom": [
                 {
-                    "text": "Guadalajara, su capital, es una ciudad que combina tradición y modernidad a la perfección."
+                    "text": "Guadalajara, its capital, is a city that perfectly blends tradition and modernity."
                 },
                 {
-                    "text": "Su gastronomía te deleitará, entre sus muchos platillos destacan la carne en su jugo, torta ahogada, barbacoa, pozole tapatío y mucho más."
+                    "text": "Its cuisine will delight you; among its numerous dishes some stand out, such as beef in broth, sloppy carnitas sandwich, barbacoa, pozole tapatío and many more."
                 },
                 {
-                    "text": "El sol, la arena y la infinidad de actividades ecoturísticas que ofrecen, sus destinos son motivos suficientes para que te des un chapuzón en las costas más hermosas del país."
+                    "text": "The sun, sand, and countless ecotourism activities that its destinations have to offer, are enough reasons for you to dive in the country’s most beautiful shores."
                 },
                 {
-                    "text": "Puerto Vallarta tiene el encanto natural de sus playas abrazadas por la Sierra Madre."
+                    "text": "Puerto Vallarta has the natural charm of its beaches, surrounded by the Sierra Madre."
                 },
                 {
-                    "text": "Es la tierra origen del Tequila, destilado del agave, una de las bebidas alcohólicas más consumidas del planeta, y un referente cultural de nuestro país."
+                    "text": "It is the homeland of tequila, distilled from the agave; this is one of the most consumed alcoholic beverages around the world, and a cultural icon of our country."
                 }
             ],
             "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1909231.479256641!2d-104.9222329384955!3d20.83300941682906!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x841f40ebd4624e6f%3A0xa0feb0a35a1b4a53!2sJalisco!5e0!3m2!1ses-419!2smx!4v1683578423258!5m2!1ses-419!2smx",
             "urlSpotify": "https://open.spotify.com/embed/playlist/5ApmWMTZktBXbvPeD5UdXl?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
-            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
-            "desciptionHover": "PARA CONOCER MÁS DE JALISCO PRESIONA AQUÍ",
+            "descriptionShort": "Find out 5 reasons why should be in your travel bucket list.",
+            "desciptionHover": "PLEASE, CLICK HERE TO KNOW MORE ABOUT JALISCO",
             "dir": "/estado"
         },
         {
             "id": "Michoacan",
             "urlVideoTop": "https://www.youtube.com/embed/nbfvea4Bt0k?autoplay=1",
             "titleTop": "Michoacán",
-            "descriptionTop": "Michoacán se localiza en el centro occidente de la República Mexicana. Las ciudades más grandes del estado son su capital Morelia, Pátzcuaro y Uruapan, unidas al mundo gracias a una amplia infraestructura de comunicación como aeropuertos, transporte terrestre y operadoras de turismo receptivo, que facilitan llegar desde cualquier parte del mundo.",
+            "descriptionTop": "Michoacán is situated in the west-central part of México. The largest cities of the state are Morelia - its capital-, Pátzcuaro and Uruapan; they are all connected to the world thanks to an extensive communications infrastructure such as airports, land transport and receptive tourist operators. Therefore, Michoacán is readily accessible from all parts of the world.",
             "urlImg": "MICH_patzcuaro_63.webp",
             "actions": {
                 "button": {
-                    "text" : "PARA CONOCER MÁS DE MICHOACÁN PRESIONA AQUÍ",
+                    "text" : "PLEASE, CLICK HERE TO KNOW MORE ABOUT MICHOACÁN",
                     "dir": "https://michoacan.travel/"
                 }
             },
-            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "titleBottom": "Find out 5 reasons why should be in your travel bucket list.",
             "descriptionBottom": [
                 {
-                    "text": "En Michoacán los ritos en torno a la muerte son más coloridos, sobre todo en las regiones de Pátzcuaro, Tzintzuntzan, Janitizio, Jarácuaro, Ihuatzio y Tzurumútaro."
+                    "text": "Death rites are more colourful in Michoacán, especially in the regions of Pátzcuaro, Tzintzuntzan, Janitizio, Jarácuaro, Ihuatzio and Tzurumútaro."
                 },
                 {
-                    "text": "Es uno de los estados más ricos en lagos, bosques y otras bellezas naturales, por ejemplo, los Santuarios de la Mariposa Monarca, el Volcán Paricutín, el Parque Nacional Eduardo Ruiz, el Parque Nacional Lago de Camécuaro, etc."
+                    "text": "Michoacán is one of the most abundant states in terms of lakes, forests and other natural wonders, for example, the Monarch Butterfly Sanctuaries, the Paricutín Volcano, the Eduardo Ruíz National Park, the Camecuaro Lake National Park, etc."
                 },
                 {
-                    "text": "Su gastronomía, es tan amplia como deliciosa, donde destacan las korundas o tamal de ceniza. Se trata de una masa de maíz que se prepara con tequesquite, manteca de cerdo y levadura, a la cual también se le agrega un poco de ceniza."
+                    "text": "Its cuisine is as vast as it is delicious, where the korundas or tamal de ceniza (ash tamales) stand out. It is corn dough prepared with tequesquite, lard and yeast, to which a little bit of ash is also added."
                 },
                 {
-                    "text": "Seis santuarios donde puedes visitar a las mariposas monarcas, esta especie ofrece uno de los más extraordinarios espectáculos de la naturaleza."
+                    "text": "Six sanctuaries where you can visit the monarch butterflies which offer one of the most awe-inspiring sights of nature."
                 },
                 {
-                    "text": "Conocer la Costa Sierra a donde llegan para reproducirse diversas especies de tortugas marinas, o los diversos balnearios de aguas frías o termales."
+                    "text": "Visit the Costa Sierra, where different species of sea turtles come here to nest and hatch, or chill out in the diverse spas with cold or hot springs."
                 }
             ],
             "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1929744.9946309759!2d-103.21985596445734!3d19.150024291328236!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842a5f3e1eb35cb7%3A0x3bc7650cf34be0d4!2sMichoac%C3%A1n!5e0!3m2!1ses-419!2smx!4v1683578604854!5m2!1ses-419!2smx",
             "urlSpotify": "https://open.spotify.com/embed/playlist/2yaOANtCx9FabUjU7tx998?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
-            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
-            "desciptionHover": "PARA CONOCER MÁS DE MICHOACÁN PRESIONA AQUÍ",
+            "descriptionShort": "Find out 5 reasons why should be in your travel bucket list.",
+            "desciptionHover": "PLEASE, CLICK HERE TO KNOW MORE ABOUT MICHOACÁN",
             "dir": "/estado"
         },
         {
@@ -564,11 +564,11 @@
             "urlImg": "MOR_axochiapan_t_164.webp",
             "actions": {
                 "button": {
-                    "text" : "PARA CONOCER MÁS DE MORELOS PRESIONA AQUÍ",
+                    "text" : "PLEASE, CLICK HERE TO KNOW MORE ABOUT MORELOS",
                     "dir": "https://visitmorelos.mx/"
                 }
             },
-            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "titleBottom": "Find out 5 reasons why should be in your travel bucket list.",
             "descriptionBottom": [
                 {
                     "text": "Morelos es tradición, es historia viva, conoce su pasado a través de haciendas y museos, conoce la tierra del General Emiliano Zapata."
@@ -589,45 +589,45 @@
             "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d483646.40127353213!2d-99.39332388044409!3d18.731748998143765!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cddfae25f6fe47%3A0x975f8225a169dd0f!2sMorelos!5e0!3m2!1ses-419!2smx!4v1683578712156!5m2!1ses-419!2smx",
             "urlSpotify": "https://open.spotify.com/embed/playlist/2yaOANtCx9FabUjU7tx998?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
-            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
-            "desciptionHover": "PARA CONOCER MÁS DE MORELOS PRESIONA AQUÍ",
+            "descriptionShort": "Find out 5 reasons why should be in your travel bucket list.",
+            "desciptionHover": "PLEASE, CLICK HERE TO KNOW MORE ABOUT MORELOS",
             "dir": "/estado"
         },
         {
             "id": "Nayarit",
             "urlVideoTop": "https://www.youtube.com/embed/vSV--a4sQa8?autoplay=1",
             "titleTop": "Nayarit",
-            "descriptionTop": "Nayarit se ubica en el noreste del territorio mexicano. Este mágico lugar cuenta con una gran diversidad, desde lagunas, selvas, mar y hasta una de las cadenas montañosas más extensas del país.",
+            "descriptionTop": "Nayarit is located in the northeast of Mexico. This exquisite place has great diversity, from lagoons, jungles, and sea, to even one of the most extensive mountain ranges in the country.",
             "urlImg": "NAY_RinconDeGuayabitos_Playas_0529.webp",
             "actions": {
                 "button": {
-                    "text" : "PARA CONOCER MÁS DE NAYARIT PRESIONA AQUÍ",
+                    "text" : "PLEASE, CLICK HERE TO KNOW MORE ABOUT NAYARIT",
                     "dir": "https://descubrevallenayarit.com/"
                 }
             },
-            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "titleBottom": "Find out 5 reasons why should be in your travel bucket list.",
             "descriptionBottom": [
                 {
-                    "text": "Todas sus rutas están pensadas para que vivas al máximo una experiencia multisensorial con lo mejor del Estado."
+                    "text": "All its routes are designed for the visitor to live a multi-sensory experience with the top attractions of the state."
                 },
                 {
-                    "text": "Conocer su capital: Tepic, parada obligada. Su nombre es de origen náhuatl, que significa “lugar de piedras macizas”."
+                    "text": "Visiting its capital city, Tepic, is a must. Its name means “place of solid stones” and comes from Nahuatl (the indigenous language most widely spoken in Mexico)."
                 },
                 {
-                    "text": "Nayarit tiene platillos típicos donde los ingredientes principales provienen del mar, tal es el caso del tiburón, cazón, pargo, camarón y ostión, ¿te gustaría probarlos?"
+                    "text": "Nayarit has typical dishes whose main ingredients come from the sea, such as shark, dogfish, snapper, shrimp, and oyster. Would you like to try them?"
                 },
                 {
-                    "text": "El municipio de Compostela se localiza en la costa sur del estado. Ciudad famosa por sus artesanías elaboradas a base de la hoja del tabaco, su parroquia de Santo Domingo de apóstol y visitar Punta Custodia."
+                    "text": "Compostela Municipality is located on the state&#39;s southern coast. It is famous for its handicrafts from tobacco leaves, and for Santo Domingo de Apostol parish; you can also visit Punta Custodia."
                 },
                 {
-                    "text": "El Pueblo Mágico de Jala se encuentra a las faldas del volcán El Ceboruco, en el que se encuentra un valle donde se puede practicar ciclismo, senderismo, observación de flora y campismo."
+                    "text": "Jala is a Pueblo Mágico (Magical Town) located on the slopes of El Ceboruco volcano, and surrounded by a valley where visitors can practice cycling, hiking, flora observation, and camping."
                 }
             ],
             "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1896187.0215287085!2d-106.5235616027901!3d21.838616787901028!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8420a89ce63edb47%3A0xc2c8f5a28694d239!2sNayarit!5e0!3m2!1ses-419!2smx!4v1683578829322!5m2!1ses-419!2smx",
             "urlSpotify": "https://open.spotify.com/embed/playlist/4t6rePG9VrNLRrGhHO9ibz?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
-            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
-            "desciptionHover": "PARA CONOCER MÁS DE NAYARIT PRESIONA AQUÍ",
+            "descriptionShort": "Find out 5 reasons why should be in your travel bucket list.",
+            "desciptionHover": "PLEASE, CLICK HERE TO KNOW MORE ABOUT NAYARIT",
             "dir": "/estado"
         },
         {
@@ -638,11 +638,11 @@
             "urlImg": "NL_Villa_Santiago398.webp",
             "actions": {
                 "button": {
-                    "text" : "PARA CONOCER MÁS DE NUEVO LEÓN PRESIONA AQUÍ",
+                    "text" : "PLEASE, CLICK HERE TO KNOW MORE ABOUT NUEVO LEÓN",
                     "dir": "https://nuevoleon.travel/"
                 }
             },
-            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "titleBottom": "Find out 5 reasons why should be in your travel bucket list.",
             "descriptionBottom": [
                 {
                     "text": "Monterrey, su capital, como área metropolitana es la tercera ciudad más grande de México, decorada con sus impresionantes edificios y novedosos centros comerciales, donde alta cocina tradicional te deleitará con sus sabores únicos."
@@ -663,8 +663,8 @@
             "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1844172.8377582757!2d-101.13338097076416!3d25.475011940013584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86629584a2a5b05d%3A0x701df442c36cbbc6!2sNuevo%20Le%C3%B3n!5e0!3m2!1ses-419!2smx!4v1683578947759!5m2!1ses-419!2smx",
             "urlSpotify": "https://open.spotify.com/embed/playlist/75BAwr4oD63XJP93w3wq8m?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
-            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
-            "desciptionHover": "PARA CONOCER MÁS DE NUEVO LEÓN PRESIONA AQUÍ",
+            "descriptionShort": "Find out 5 reasons why should be in your travel bucket list.",
+            "desciptionHover": "PLEASE, CLICK HERE TO KNOW MORE ABOUT NUEVO LEÓN",
             "dir": "/estado"
         },
         {
@@ -675,11 +675,11 @@
             "urlImg": "OAX_Hierve_el_agua3023.webp",
             "actions": {
                 "button": {
-                    "text" : "PARA CONOCER MÁS DE OAXACA PRESIONA AQUÍ",
+                    "text" : "PLEASE, CLICK HERE TO KNOW MORE ABOUT OAXACA",
                     "dir": "http://www.oaxaca.travel/index.php/es/"
                 }
             },
-            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "titleBottom": "Find out 5 reasons why should be in your travel bucket list.",
             "descriptionBottom": [
                 {
                     "text": "Su capital, Oaxaca de Juárez, es Patrimonio de la Humanidad, un lugar único en el mundo por su belleza tradicional."
@@ -700,8 +700,8 @@
             "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d603021.2045554055!2d-96.97536878788152!3d16.800457801053078!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85c72249df26d9b1%3A0xac88a77657dffc3b!2sOaxaca%20de%20Ju%C3%A1rez%2C%20Oax.!5e0!3m2!1ses-419!2smx!4v1684020627840!5m2!1ses-419!2smx",
             "urlSpotify": "https://open.spotify.com/embed/playlist/06kfpfp3bsE54c0r0GjoJv?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
-            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
-            "desciptionHover": "PARA CONOCER MÁS DE OAXACA PRESIONA AQUÍ",
+            "descriptionShort": "Find out 5 reasons why should be in your travel bucket list.",
+            "desciptionHover": "PLEASE, CLICK HERE TO KNOW MORE ABOUT OAXACA",
             "dir": "/estado"
         },
         {
@@ -712,11 +712,11 @@
             "urlImg": "PUE_catedral_42.webp",
             "actions": {
                 "button": {
-                    "text" : "PARA CONOCER MÁS DE PUEBLA PRESIONA AQUÍ",
+                    "text" : "PLEASE, CLICK HERE TO KNOW MORE ABOUT PUEBLA",
                     "dir": "https://www.visitpuebla.mx/es/"
                 }
             },
-            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "titleBottom": "Find out 5 reasons why should be in your travel bucket list.",
             "descriptionBottom": [
                 {
                     "text": "El Centro Histórico de la capital poblana, construido con cúpulas, torres, campanas, talavera, ladrillo y argamasas blancas, ha sido declarado desde 1987 como Patrimonio Cultural de la Humanidad por la UNESCO."
@@ -737,8 +737,8 @@
             "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d967742.7146243165!2d-98.88511791946453!3d18.652999658222356!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cfc0bd5ebc7a3b%3A0x48a6461de494ad95!2sPuebla%2C%20Pue.!5e0!3m2!1ses-419!2smx!4v1684020864980!5m2!1ses-419!2smx",
             "urlSpotify": "https://open.spotify.com/embed/playlist/0Ahe1HuCdpwmXe2qFlt7xc?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
-            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
-            "desciptionHover": "PARA CONOCER MÁS DE PUEBLA PRESIONA AQUÍ",
+            "descriptionShort": "Find out 5 reasons why should be in your travel bucket list.",
+            "desciptionHover": "PLEASE, CLICK HERE TO KNOW MORE ABOUT PUEBLA",
             "dir": "/estado"
         },
         {
@@ -749,11 +749,11 @@
             "urlImg": "QRO_sierra_gorda_422.webp",
             "actions": {
                 "button": {
-                    "text" : "PARA CONOCER MÁS DE QUERÉTARO PRESIONA AQUÍ",
+                    "text" : "PLEASE, CLICK HERE TO KNOW MORE ABOUT QUERÉTARO",
                     "dir": "https://queretaro.travel/"
                 }
             },
-            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "titleBottom": "Find out 5 reasons why should be in your travel bucket list.",
             "descriptionBottom": [
                 {
                     "text": "Querétaro es uno de los estados con más Pueblos Mágicos en el país."
@@ -774,8 +774,8 @@
             "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d954043.2427950689!2d-100.70136887210424!3d20.923122726456526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d35b8fdc5b9255%3A0x97b094aa561b832f!2sSantiago%20de%20Quer%C3%A9taro%2C%20Qro.!5e0!3m2!1ses-419!2smx!4v1684021053247!5m2!1ses-419!2smx",
             "urlSpotify": "https://open.spotify.com/embed/track/5xQPBd7Gs4IIhUgqytSqvQ?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
-            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
-            "desciptionHover": "PARA CONOCER MÁS DE QUERÉTARO PRESIONA AQUÍ",
+            "descriptionShort": "Find out 5 reasons why should be in your travel bucket list.",
+            "desciptionHover": "PLEASE, CLICK HERE TO KNOW MORE ABOUT QUERÉTARO",
             "dir": "/estado"
         },
         {
@@ -786,11 +786,11 @@
             "urlImg": "Qroo_Xcaret282_2.webp",
             "actions": {
                 "button": {
-                    "text" : "PARA CONOCER MÁS DE QUINTANA ROO PRESIONA AQUÍ",
+                    "text" : "PLEASE, CLICK HERE TO KNOW MORE ABOUT QUINTANA ROO",
                     "dir": "https://www.caribemexicano.travel/"
                 }
             },
-            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "titleBottom": "Find out 5 reasons why should be in your travel bucket list.",
             "descriptionBottom": [
                 {
                     "text": "El Caribe Mexicano es un paraíso natural repleto de aventuras donde podrás olvidarte de la rutina y conectar con la flora y fauna de la región."
@@ -811,8 +811,8 @@
             "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3845592.174182109!2d-90.64439106890148!3d19.735554426711545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f4ffcf0eac32695%3A0xc4f0c52a484c8d9c!2sQuintana%20Roo!5e0!3m2!1ses-419!2smx!4v1684021214206!5m2!1ses-419!2smx",
             "urlSpotify": "https://open.spotify.com/embed/track/3jLxQG2AbDNOa3eL5AV4N4?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
-            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
-            "desciptionHover": "PARA CONOCER MÁS DE QUINTANA ROO PRESIONA AQUÍ",
+            "descriptionShort": "Find out 5 reasons why should be in your travel bucket list.",
+            "desciptionHover": "PLEASE, CLICK HERE TO KNOW MORE ABOUT QUINTANA ROO",
             "dir": "/estado"
         },
         {
@@ -823,11 +823,11 @@
             "urlImg": "SLP_realdecatorce_424.webp",
             "actions": {
                 "button": {
-                    "text" : "PARA CONOCER MÁS DE SAN LUIS POTOSÍ PRESIONA AQUÍ",
+                    "text" : "PLEASE, CLICK HERE TO KNOW MORE ABOUT SAN LUIS POTOSÍ",
                     "dir": "https://visitasanluispotosi.com/"
                 }
             },
-            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "titleBottom": "Find out 5 reasons why should be in your travel bucket list.",
             "descriptionBottom": [
                 {
                     "text": "Vuela en bicicleta a una altura de 250 metros de altura en el bello pueblo mágico de Xilitla."
@@ -848,45 +848,45 @@
             "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1892526.8016636858!2d-102.27444269316865!3d22.112954982526595!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842aa20005acfb79%3A0xed2ee29afe18257!2sSan%20Luis%2C%20S.L.P.!5e0!3m2!1ses-419!2smx!4v1684021496107!5m2!1ses-419!2smx",
             "urlSpotify": "https://open.spotify.com/embed/track/0xymn7NdxdlCLnDFL7ffQ1?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
-            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
-            "desciptionHover": "PARA CONOCER MÁS DE SAN LUIS POTOSÍ PRESIONA AQUÍ",
+            "descriptionShort": "Find out 5 reasons why should be in your travel bucket list.",
+            "desciptionHover": "PLEASE, CLICK HERE TO KNOW MORE ABOUT SAN LUIS POTOSÍ",
             "dir": "/estado"
         },
         {
             "id": "Sinaloa",
             "urlVideoTop": "https://www.youtube.com/embed/MKX2Na-l-a4?autoplay=1",
             "titleTop": "Sinaloa",
-            "descriptionTop": "Sinaloa, ubicado en el noroeste de México, es dueño de 650 kilómetros de litoral, lo que permite ofrecer bastas experiencias de sol y playa. Culiacán tiene mucho que ofrecer para todos los sentidos. Negocios, cultura, arte, ocio, educación y por supuesto, fiesta y diversión.",
+            "descriptionTop": "Sinaloa, located in northwestern Mexico, owns 650 kilometers of coastline, which makes possible to offer vast experiences of sun and beach. Culiacan is a great gift for all senses: Business, culture, art, leisure, education, and, of course, partying and fun.",
             "urlImg": "SIN_mazatlan_playa-750.webp",
             "actions": {
                 "button": {
-                    "text" : "PARA CONOCER MÁS DE SINALOA PRESIONA AQUÍ",
+                    "text" : "PLEASE, CLICK HERE TO KNOW MORE ABOUT SINALOA",
                     "dir": "https://sinaloa.travel/"
                 }
             },
-            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "titleBottom": "Find out 5 reasons why should be in your travel bucket list.",
             "descriptionBottom": [
                 {
-                    "text": "Sus principales centros turísticos son Mazatlán, Culiacán y Los Mochis."
+                    "text": "Its main touristic centers are Mazatlan, Culiacan, and Los Mochis."
                 },
                 {
-                    "text": "Su deliciosa gastronomía, principalmente basada en productos del mar y los cortes de carne."
+                    "text": "Its delicious gastronomy is mainly based on seafood and beef cuts."
                 },
                 {
-                    "text": "Cuenta con 4 Pueblos Mágicos: El Rosario, Cosalá, Mocorito y El Fuerte, además cuenta con salidas del único tren turístico en México, la ruta Chepe Express rumbo a las majestuosas Barrancas del Cobre."
+                    "text": "It has four Pueblos Mágicos (Magical Towns): El Rosario, Cosala, Mocorito, and El Fuerte. It also has departures of the one-of-a-kind tourist train in Mexico, the Chepe Express, which goes to the majestic Copper Canyon."
                 },
                 {
-                    "text": "Mazatlán es el puerto colonial con más historia en la costa del Pacífico mexicano, además de un destino turístico popular y hermoso."
+                    "text": "Mazatlan is the most historic colonial port on the Mexican Pacific Coast, as well as a popular and beautiful tourist destination."
                 },
                 {
-                    "text": "Las pequeñas callejuelas empedradas y paisajes paradisiacos de sus pueblos mágicos, enriquecidos por su historia minera, clima tropical, viejas iglesias y leyendas fantasmales."
+                    "text": "The small cobblestone streets and paradisiacal landscapes of its magical towns, embellished by its mining history, tropical climate, old churches, and ghost legends."
                 }
             ],
             "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3710686.7360458025!2d-110.06058980487454!3d24.73657650691432!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x869f539428a74959%3A0x9c7bdf760dbe5fef!2sSinaloa!5e0!3m2!1ses-419!2smx!4v1684021652283!5m2!1ses-419!2smx",
             "urlSpotify": "https://open.spotify.com/embed/track/57qATI59zt97GfYpac1FoS?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
-            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
-            "desciptionHover": "PARA CONOCER MÁS DE SINALOA PRESIONA AQUÍ",
+            "descriptionShort": "Find out 5 reasons why should be in your travel bucket list.",
+            "desciptionHover": "PLEASE, CLICK HERE TO KNOW MORE ABOUT SINALOA",
             "dir": "/estado"
         },
         {
@@ -897,11 +897,11 @@
             "urlImg": "SON_caborca_10.webp",
             "actions": {
                 "button": {
-                    "text" : "PARA CONOCER MÁS DE SONORA PRESIONA AQUÍ",
+                    "text" : "PLEASE, CLICK HERE TO KNOW MORE ABOUT SONORA",
                     "dir": "https://visitsonora.mx/"
                 }
             },
-            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "titleBottom": "Find out 5 reasons why should be in your travel bucket list.",
             "descriptionBottom": [
                 {
                     "text": "Tiene la mejor vista oceánica del mundo desde el Mirador de San Carlos."
@@ -922,82 +922,82 @@
             "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7125758.782105107!2d-117.02763597053065!3d29.300691176733878!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86982969e74dd20f%3A0xcd56ff1afcbbe374!2sSonora!5e0!3m2!1ses-419!2smx!4v1684021784841!5m2!1ses-419!2smx",
             "urlSpotify": "https://open.spotify.com/embed/playlist/4xRB7oBUzyZe7dIiNf6H58?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
-            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
-            "desciptionHover": "PARA CONOCER MÁS DE SONORA PRESIONA AQUÍ",
+            "descriptionShort": "Find out 5 reasons why should be in your travel bucket list.",
+            "desciptionHover": "PLEASE, CLICK HERE TO KNOW MORE ABOUT SONORA",
             "dir": "/estado"
         },
         {
             "id": "Tabasco",
             "urlVideoTop": "https://www.youtube.com/embed/noJ6i36csXQ?autoplay=1",
             "titleTop": "Tabasco",
-            "descriptionTop": "Su ubicación lo convierte en la puerta de entrada al sureste mexicano y al Mundo Maya, epicentro de la industria petrolera y centro regional de entretenimiento, servicios y comunicaciones. Posee el 53% de agua de todo el país. Ocupa el primer lugar en producción de cacao y ganadería; y el segundo lugar en producción de plátano.",
+            "descriptionTop": "Its location makes it an entrance gate to the Mexican southeast and the Mayan world, the epicenter of the oil industry, and a regional center for entertainment, services and communications. It holds 53% of the entire water reserve in the whole country. It holds first place in cacao and livestock farming and second in the production of bananas.",
             "urlImg": "TAB_Jalpa_de_Mendez8.webp",
             "actions": {
                 "button": {
-                    "text" : "PARA CONOCER MÁS DE TABASCO PRESIONA AQUÍ",
+                    "text" : "PLEASE, CLICK HERE TO KNOW MORE ABOUT TABASCO",
                     "dir": "https://visitetabasco.com/"
                 }
             },
-            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "titleBottom": "Find out 5 reasons why should be in your travel bucket list.",
             "descriptionBottom": [
                 {
-                    "text": "Su paisaje irreverentemente verde y tropical, surcado por ríos, y ocupado por extensas lagunas, numerosas zonas de pantanos y hermosas playas."
+                    "text": "Its irreverently green and tropical landscape, traversed by rivers and filled with large lagoons, numerous swamp zones and beautiful beaches."
                 },
                 {
-                    "text": "Su gastronomía tan rica en sabor, pero sobre todo en historia y tradiciones provenientes de sus raíces indígenas y españolas."
+                    "text": "Its tasty gastronomy, rich in flavor but above all, in history due to its indigenous and Spanish roots."
                 },
                 {
-                    "text": "Es un paraíso para la pesca deportiva, el avistamiento de aves, ecoturismo y turismo de aventura, entre otras actividades."
+                    "text": "It is a paradise for recreational fishing, bird watching, ecotourism, adventure tourism, among other activities."
                 },
                 {
-                    "text": "La exuberante naturaleza de sus ríos, lagunas e imponente vegetación de la Gran Ruta Villahermosa."
+                    "text": "The exhuberant nature of its rivers, lagoons and the imposing vegetation of the Gran Ruta Villahermosa."
                 },
                 {
-                    "text": "La alegría, el folklor, los colores y sabores que caracterizan a la Gran Ruta Biji Yokot’an."
+                    "text": "The joy, the folklore, the colors and the flavors that define the Gran Ruta Biji Yocot’an."
                 }
             ],
             "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886964.1408265596!2d-95.19981354332153!3d17.938523210589693!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85edfb5f8f78cb4f%3A0xd426cb11d9866b44!2sTabasco!5e0!3m2!1ses-419!2smx!4v1684022280766!5m2!1ses-419!2smx",
             "urlSpotify": "https://open.spotify.com/embed/playlist/1e0PFxUw2WqvP9Jp3VF2a1?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
-            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
-            "desciptionHover": "PARA CONOCER MÁS DE TABASCO PRESIONA AQUÍ",
+            "descriptionShort": "Find out 5 reasons why should be in your travel bucket list.",
+            "desciptionHover": "PLEASE, CLICK HERE TO KNOW MORE ABOUT TABASCO",
             "dir": "/estado"
         },
         {
             "id": "Tamaulipas",
             "urlVideoTop": "https://www.youtube.com/embed/DktNae84wVk?autoplay=1",
             "titleTop": "Tamaulipas",
-            "descriptionTop": "Tamaulipas se encuentra al noreste del país. Con más de 400 kilómetros de playa y otros tantos más de fronteras. Aquí viven un sinfín de especies naturales como el jaguar, la guacamaya, el cocodrilo y el venado, así como miles de aves que se pueden observar a lo largo de todo este territorio.",
+            "descriptionTop": "Tamaulipas is located in the country’s northeast. With more than 400 kilometers of beaches and some others of borderlands. A myriad natural species live here, like the jaguar, macaw, crocodile and deer, as well as thousands of birds that can be seen all along this territory.",
             "urlImg": "TMPS_miramar_2_20.webp",
             "actions": {
                 "button": {
-                    "text" : "PARA CONOCER MÁS DE TAMAULIPAS PRESIONA AQUÍ",
+                    "text" : "PLEASE, CLICK HERE TO KNOW MORE ABOUT TAMAULIPAS",
                     "dir": "http://www.visittam.com/"
                 }
             },
-            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "titleBottom": "Find out 5 reasons why should be in your travel bucket list.",
             "descriptionBottom": [
                 {
-                    "text": "Ciudad Victoria es una ciudad bellísima, rebosante de cultura y actividades por realizar."
+                    "text": "Ciudad Victoria is a beautiful city, brimful with culture and activities to be done."
                 },
                 {
-                    "text": "Los sabores de la comida tamaulipeca conquistarán tu paladar con langostinos, jaibas y ceviches; enchiladas tultecas y deliciosas nieves con frutos regionales."
+                    "text": "The flavors of Tamaulipas gastronomy will charm your palate with prawns, crabs and ceviches; enchiladas tultecas and delicious regional fruit sorbets."
                 },
                 {
-                    "text": "El estado goza de tener cinco hermosas playas que cuentan con gran infraestructura hotelera para ti y tu familia: playa Bagdad, Carbonera, Barra del Tordo, La Pesca o Miramar."
+                    "text": "The state enjoys having five lovely beaches that possess a complete hotel infrastructure for you and your family: Bagdad Beach, Carbonera, Barra del Tordo, La Pesca or Miramar."
                 },
                 {
-                    "text": "El Pueblo Mágico de Mier, en las calles de este bello pueblo tamaulipeco podrás respirar el ambiente de los antiguos pueblos coloniales que surgieron en lo que fue llamado el Nuevo Santander durante el siglo XVIII."
+                    "text": "The Pueblo Mágico (Magical Town) of Mier. In the streets of this fine Tamaulipas town, you will breathe the atmosphere of the ancient colonial villages that developed during the 18th Century in what was called Nuevo Santander."
                 },
                 {
-                    "text": "Ubicada en la Sierra Madre Oriental, al suroeste de Tamaulipas, la hermosa Tula es la cuna de la entidad, no es casualidad que la cuera tulteca, prenda típica de Tamaulipas, sea de este lugar."
+                    "text": "Located in the Sierra Madre Oriental, in southwest Tamaulipas, beautiful Tula is the state’s birthplace. It is no coincidence that the cuera tulteca, traditional costume of Tamaulipas, comes from this place."
                 }
             ],
             "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3705052.4384775567!2d-101.28520894348287!3d24.924735351966053!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x867953aedb1e2459%3A0x33859f5a35e81925!2sTamaulipas!5e0!3m2!1ses-419!2smx!4v1684022385332!5m2!1ses-419!2smx",
             "urlSpotify": "https://open.spotify.com/embed/playlist/42i0q3sQUpBO2ObG2nxySB?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
-            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
-            "desciptionHover": "PARA CONOCER MÁS DE TAMAULIPAS PRESIONA AQUÍ",
+            "descriptionShort": "Find out 5 reasons why should be in your travel bucket list.",
+            "desciptionHover": "PLEASE, CLICK HERE TO KNOW MORE ABOUT TAMAULIPAS",
             "dir": "/estado"
         },
         {
@@ -1008,11 +1008,11 @@
             "urlImg": "TLX_teatro_26.webp",
             "actions": {
                 "button": {
-                    "text" : "PARA CONOCER MÁS DE TLAXCALA PRESIONA AQUÍ",
+                    "text" : "PLEASE, CLICK HERE TO KNOW MORE ABOUT TLAXCALA",
                     "dir": "https://www.tlaxcalasiexiste.com.mx/"
                 }
             },
-            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "titleBottom": "Find out 5 reasons why should be in your travel bucket list.",
             "descriptionBottom": [
                 {
                     "text": "Te enamorarás de los murales que describen la historia del pueblo tlaxcalteca."
@@ -1033,8 +1033,8 @@
             "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1926627.340737737!2d-99.4862495595288!3d19.41482434541632!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cfd93f1c006113%3A0x38bae25ad47cbde0!2sTlaxcala!5e0!3m2!1ses-419!2smx!4v1684022486835!5m2!1ses-419!2smx",
             "urlSpotify": "https://open.spotify.com/embed/track/2Au5dhEkQ16xsO05chmItl?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
-            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
-            "desciptionHover": "PARA CONOCER MÁS DE TLAXCALA PRESIONA AQUÍ",
+            "descriptionShort": "Find out 5 reasons why should be in your travel bucket list.",
+            "desciptionHover": "PLEASE, CLICK HERE TO KNOW MORE ABOUT TLAXCALA",
             "dir": "/estado"
         },
         {
@@ -1045,11 +1045,11 @@
             "urlImg": "VER_catemaco104.webp",
             "actions": {
                 "button": {
-                    "text" : "PARA CONOCER MÁS DE VERACRUZ PRESIONA AQUÍ",
+                    "text" : "PLEASE, CLICK HERE TO KNOW MORE ABOUT VERACRUZ",
                     "dir": "https://www.google.com/"
                 }
             },
-            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "titleBottom": "Find out 5 reasons why should be in your travel bucket list.",
             "descriptionBottom": [
                 {
                     "text": "Es el estado más bello y cálido del Golfo de México, de verdad te enamorarás."
@@ -1070,8 +1070,8 @@
             "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d120587.93128962361!2d-96.25871711943859!3d19.178910555291967!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85c3414245ca78c5%3A0x18a4d642e936019b!2sVeracruz%2C%20Ver.!5e0!3m2!1ses-419!2smx!4v1684022576385!5m2!1ses-419!2smx",
             "urlSpotify": "https://open.spotify.com/embed/playlist/1xVFcq3EP54qT1OKuZ6pHa?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
-            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
-            "desciptionHover": "PARA CONOCER MÁS DE VERACRUZ PRESIONA AQUÍ",
+            "descriptionShort": "Find out 5 reasons why should be in your travel bucket list.",
+            "desciptionHover": "PLEASE, CLICK HERE TO KNOW MORE ABOUT VERACRUZ",
             "dir": "/estado"
         },
         {
@@ -1082,11 +1082,11 @@
             "urlImg": "YUC_Cusaman_Cenotes152.webp",
             "actions": {
                 "button": {
-                    "text" : "PARA CONOCER MÁS DE YUCATÁN PRESIONA AQUÍ",
+                    "text" : "PLEASE, CLICK HERE TO KNOW MORE ABOUT YUCATÁN",
                     "dir": "https://yucatan.travel/"
                 }
             },
-            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "titleBottom": "Find out 5 reasons why should be in your travel bucket list.",
             "descriptionBottom": [
                 {
                     "text": "La cultura, historia, diversión y deliciosa gastronomía de la ciudad capital de Mérida."
@@ -1107,8 +1107,8 @@
             "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3813412.5324629922!2d-91.72837164601708!3d21.03125846141055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f540ff8aad604ed%3A0xcccc217531083d0a!2zWXVjYXTDoW4!5e0!3m2!1ses-419!2smx!4v1684022688075!5m2!1ses-419!2smx",
             "urlSpotify": "https://open.spotify.com/embed/playlist/3qxRbcVFYfo0IHTiOzof1V?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
-            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
-            "desciptionHover": "PARA CONOCER MÁS DE YUCATÁN PRESIONA AQUÍ",
+            "descriptionShort": "Find out 5 reasons why should be in your travel bucket list.",
+            "desciptionHover": "PLEASE, CLICK HERE TO KNOW MORE ABOUT YUCATÁN",
             "dir": "/estado"
         },
         {
@@ -1119,11 +1119,11 @@
             "urlImg": "ZAC_sierra de organos_2898.webp",
             "actions": {
                 "button": {
-                    "text" : "PARA CONOCER MÁS DE ZACATECAS PRESIONA AQUÍ",
+                    "text" : "PLEASE, CLICK HERE TO KNOW MORE ABOUT ZACATECAS",
                     "dir": "https://www.zacatecastravel.com/"
                 }
             },
-            "titleBottom": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
+            "titleBottom": "Find out 5 reasons why should be in your travel bucket list.",
             "descriptionBottom": [
                 {
                     "text": "Es un estado deslumbrante, colorido y generoso, donde vivirás experiencias extravagantes y contemplativas."
@@ -1144,8 +1144,8 @@
             "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3758930.7320455452!2d-105.18865987848196!3d23.06666422056259!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8681d1a07ec9fe6f%3A0x1c1f2dfd5e256d98!2sZacatecas!5e0!3m2!1ses-419!2smx!4v1684022913675!5m2!1ses-419!2smx",
             "urlSpotify": "https://open.spotify.com/embed/playlist/6XOFXXp91YSgCvCNawIfOw?utm_source=generator",
             "urlVideoBottom": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
-            "descriptionShort": "Conoce 5 motivos por el que debe estar en tu lista de viajero.",
-            "desciptionHover": "PARA CONOCER MÁS DE ZACATECAS PRESIONA AQUÍ",
+            "descriptionShort": "Find out 5 reasons why should be in your travel bucket list.",
+            "desciptionHover": "PLEASE, CLICK HERE TO KNOW MORE ABOUT ZACATECAS",
             "dir": "/estado"
         }
     ]
