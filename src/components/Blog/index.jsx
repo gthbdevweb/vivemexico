@@ -3,6 +3,10 @@ import { Context } from '../../Context';
 import Share from '../Share';
 import dataEs from '../../assets/data/blog/es/index.json';
 import dataEn from '../../assets/data/blog/en/index.json';
+import dataDe from '../../assets/data/blog/de/index.json';
+import dataFr from '../../assets/data/blog/fr/index.json';
+import dataJp from '../../assets/data/blog/jp/index.json';
+import dataPt from '../../assets/data/blog/pt/index.json';
 import './style.css';
 
 const Blog = () => {
@@ -12,6 +16,10 @@ const Blog = () => {
   useEffect(() => {
     isLanguage === 'MX' ? setLanguage(dataEs)
     : isLanguage === 'USA' ? setLanguage(dataEn)
+    : isLanguage === 'DE' ? setLanguage(dataDe)
+    : isLanguage === 'FR' ? setLanguage(dataFr)
+    : isLanguage === 'JP' ? setLanguage(dataJp)
+    : isLanguage === 'PT' ? setLanguage(dataPt)
     : setLanguage(dataEs);
   }, [isLanguage]);
 

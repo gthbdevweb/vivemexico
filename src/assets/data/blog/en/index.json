@@ -105,20 +105,20 @@
         },
         {
             "id": 3,
-            "title": "10 ACTIVIDADES QUE PUEDES REALIZAR EN COZUMEL",
-            "shortDescription": "En el Caribe Mexicano se encuentra uno de los paraísos insulares más preciados de México, Cozumel, cuya riqueza natural se combina a la perfección con el legado de la Cultura Maya y su moderna infraestructura para recibir al turismo, como su aeropuerto internacional, su zona hotelera y el muelle apto para recibir cruceros de gran tamaño.",
+            "title": "10 ACTIVITIES YOU CAN DO IN COZUMEL",
+            "shortDescription": "In the Mexican Caribbean lies Cozumel, one of Mexico's most prized island paradises. Its abundance of natural resources merges perfectly with both the Mayan Culture legacy and modern infrastructure —such as its international airport, its hotel area and a dock suitable for large cruise ships— to receive tourism.",
             "description": [
                 {
-                    "text": "En el Caribe Mexicano se encuentra uno de los paraísos insulares más preciados de México, Cozumel, cuya riqueza natural se combina a la perfección con el legado de la Cultura Maya y su moderna infraestructura para recibir al turismo, como su aeropuerto internacional, su zona hotelera y el muelle apto para recibir cruceros de gran tamaño."
+                    "text": "In the Mexican Caribbean lies Cozumel, one of Mexico's most prized island paradises. Its abundance of natural resources merges perfectly with both the Mayan Culture legacy and modern infrastructure —such as its international airport, its hotel area and a dock suitable for large cruise ships— to receive tourism."
                 },
                 {
-                    "text": "También conocida como la Isla de las Golondrinas, Cozumel, Quintana Roo es el sitio perfecto para contemplar la extensa flora y fauna marina, ya que se ubica en la segunda barrera de coral más grande del mundo."
+                    "text": "Cozumel, Quintana Roo, also known as the Island of the Swallows, is an ideal place for marine flora and fauna observation, since it is located on the second-largest barrier reef in the world."
                 },
                 {
-                    "text": "Rodeado por las aguas turquesa del mar Caribe, más de la mitad del territorio de este destino es Área Natural Protegida, lo que ayuda a la conservación y la práctica de un turismo responsable para deleite de los visitantes que llegan, ya sea a través de embarcaciones, o por vía aérea."
+                    "text": "Surrounded by the turquoise waters of the Caribbean Sea, more than half its territory is a Protected Natural Area intended for conservation and the practice of responsible tourism to please visitors who arrive either by boat or by air."
                 },
                 {
-                    "text": "Aunque una opción muy recurrente es tomar un ferry desde Playa del Carmen para hacer una visita a Cozumel, esta isla cuenta con una variada gama de actividades, por lo que bien vale la pena tener una estancia de algunos días, para disfrutarla al máximo."
+                    "text": "It is a very common option to take a ferry from Playa del Carmen to visit Cozumel. However, this island has a wide range of activities, so it is well worth a stay of a few days to enjoy it to the fullest."
                 }
             ],
             "urlImg": "cozumel-0.wep.jpg",
@@ -128,87 +128,87 @@
             "shareTT": "",
             "actions": {
                 "button": {
-                    "text" : "Ir al blog",
+                    "text" : "Go to the blog",
                     "dir": "/blog"
                 }
             }
         },
         {
             "id": 4,
-            "title": "ACTIVIDADES OBLIGADAS PARA REALIZAR EN COZUMEL",
-            "shortDescription": "Al ser uno de los principales sitios de entrada a este destino insular, lo más recomendable es conocer su muelle y el centro de San Miguel de Cozumel, en donde se encuentra la cabecera municipal, y cuenta con parte de los sitios históricos y culturales, además de restaurantes, tiendas de artesanías y recuerdos, entre otros establecimientos. Además, podrás admirar los modernos murales que le dan a la visita un toque muy pintoresco y agradable, ideal para tomarse unas buenas fotos.",
+            "title": "MUST-DO ACTIVITIES IN COZUMEL",
+            "shortDescription": "Since the pier is one of the main entrance sites to this insular destination, it is recommended to visit it, as well as downtown San Miguel de Cozumel. The municipal capital, and part of the historical and cultural sites are located here, as well as restaurants, handicraft and souvenir stores, among other establishments. In addition, you can admire the modern murals that give it a very picturesque and pleasant touch, and which are ideal for taking some nice pictures.",
             "description": [
                 {
                     "list": [
                         {
-                            "title": "VISITAR EL MUELLE Y EL CENTRO DE SAN MIGUEL DE COZUMEL",
+                            "title": "VISIT THE PIER AND THE CENTER OF SAN MIGUEL DE COZUMEL",
                             "description": [
                                 {
-                                    "text": "Al ser uno de los principales sitios de entrada a este destino insular, lo más recomendable es conocer su muelle y el centro de San Miguel de Cozumel, en donde se encuentra la cabecera municipal, y cuenta con parte de los sitios históricos y culturales, además de restaurantes, tiendas de artesanías y recuerdos, entre otros establecimientos. Además, podrás admirar los modernos murales que le dan a la visita un toque muy pintoresco y agradable, ideal para tomarse unas buenas fotos."
+                                    "text": "Since the pier is one of the main entrance sites to this insular destination, it is recommended to visit it, as well as downtown San Miguel de Cozumel. The municipal capital, and part of the historical and cultural sites are located here, as well as restaurants, handicraft and souvenir stores, among other establishments. In addition, you can admire the modern murals that give it a very picturesque and pleasant touch, and which are ideal for taking some nice pictures."
                                 }
                             ]
                         },
                         {
-                            "title": "PRACTICAR BUCEO Y ESNÓRQUEL",
+                            "title": "DIVING AND SNORKELING",
                             "description": [
                                 {
-                                    "text": "Por su privilegiada ubicación geográfica, la mejor manera de disfrutar las maravillas naturales de Cozumel, es mediante la práctica de buceo. Ya sea para expertos o principiantes, en las diferentes áreas de la isla se encuentran prestadores de servicio que ayudarán al visitante a aprender esta actividad. Pero si lo prefieres, también es posible hacer solo esnórquel y ver los tesoros naturales que esconden las profundidades de esta zona del mar Caribe."
+                                    "text": "Thanks to its privileged geographic location, scuba diving is the best way to enjoy the natural wonders of Cozumel. Whether you are an expert or beginner, there are service providers in different areas of the island that will help you. Although, if you prefer snorkeling, it is also possible to just snorkel and see the natural treasures hidden in the depths of this area of the Caribbean Sea."
                                 }
                             ]
                         },
                         {
-                            "title": "VIAJAR A PUNTA SUR",
+                            "title": "TRAVEL TO PUNTA SUR",
                             "description": [
                                 {
-                                    "text": "Como su nombre lo india, en el extremo ‘inferior’ de Cozumel se encuentra Punta Sur, una gran área natural que lo mismo tiene amplias extensiones de vegetación, manglares y arrecifes, que un impresionante faro y el Museo de la Navegación, donde se resguarda el paso de la historia de los mayas y los navegantes de esta zona del Caribe mexicano, y hasta vestigios de esta impresionante cultura."
+                                    "text": "As its name suggests, at the &#39;lower&#39; end of Cozumel is Punta Sur. It is a large natural area with wide expanses of vegetation, mangroves and reefs, as well as an impressive lighthouse and the Navigation Museum. This museum preserves the history of the navigators of this area of the Mexican Caribbean, as well as Mayan history, and even vestiges of this impressive culture."
                                 }
                             ]
                         },
                         {
-                            "title": "RECORRER LA ZONA ARQUEOLÓGICA DE SAN GERVASIO",
+                            "title": "VISIT THE ARCHAEOLOGICAL SITE OF SAN GERVASIO",
                             "description": [
                                 {
-                                    "text": "Para los mayas, Ixchel es la diosa de la fertilidad, el parto, la medicina y las artes, y esta zona arqueológica de Cozumel está dedicada a esta deidad. Aunque esta área resguarda los principales vestigios de veneración, a lo largo de Cozumel hay distintas manifestaciones que dan fe del culto que se le rendía; incluso se sabe que anteriormente, todas las mujeres debían visitar alguna vez la isla."
+                                    "text": "This archaeological site in Cozumel is dedicated to Ixchel, the Mayans goddess of fertility, childbirth, medicine, and the arts. Although this area holds the main vestiges of veneration, throughout Cozumel, there are different manifestations of worship to this deity. It is known that in the past, all women had to visit the island at some point."
                                 }
                             ]
                         },
                         {
-                            "title": "APRECIAR LA LLEGADA DE LA TRAVESÍA SAGRADA MAYA",
+                            "title": "APPRECIATING THE ARRIVAL OF THE SACRED MAYAN JOURNEY",
                             "description": [
                                 {
-                                    "text": "Ya que hablamos de Ixchel, también es importante hablar de uno de los eventos más significativos de Cozumel, la Travesía Sagrada Maya, que actualmente es una recreación del recorrido que hacen los canoeros que parten desde la zona continental en Playa del Carmen, para rendir tributo a esta diosa, con el propósito de pedir por la fertilidad de la tierra y agradecer por lo recibido."
+                                    "text": "Regarding Ixchel, it is also important to talk about one of the most significant events of Cozumel, the Sacred Mayan Journey. Nowadays, it is a recreation of the journey made by canoeists starting from the mainland in Playa del Carmen in order to pay tribute to this goddess. The journey is intended as a request for fertility of the land and to show her gratitude for the blessings received."
                                 }
                             ]
                         },
                         {
-                            "title": "DISFRUTAR DEL PARQUE NACIONAL CHANKANAAB",
+                            "title": "ENJOY THE CHANKANAAB NATIONAL PARK",
                             "description": [
                                 {
-                                    "text": "Historia, naturaleza y diversión se concentran en un solo sitio, el Parque Chankanaab, ya declarado nacional en cuyo interior, además de poder realizar actividades como esnórquel, buceo y hasta nado con delfines, o simplemente relajarse en su club de playa; además, cuenta con un museo, por lo que es uno de los mejores sitios para todo tipo de viajeros."
+                                    "text": "History, nature, and fun in one place. The Chankanaab Park, already declared a national park, is a place where you can do activities such as snorkeling, diving, and even swimming with dolphins, or just relax at the beach club. It also features a museum, making it one of the best places for all types of travelers."
                                 }
                             ]
                         },
                         {
-                            "title": "DESCANSAR EN EL CEDRAL",
+                            "title": "RELAX AT EL CEDRAL",
                             "description": [
                                 {
-                                    "text": "Si Cozumel es el destino perfecto para quien busca tranquilidad y relajación, El Cedral es el rincón perfecto dentro de la isla. Este pequeño pueblito tiene un encanto particular, y es testigo del paso de la historia desde el auge de la Cultura Maya hasta nuestros días. También es sede de la segunda festividad más importante del destino: La Fiesta del Cedral, el día de la Santa Cruz."
+                                    "text": "If Cozumel is the perfect destination for those seeking tranquility and relaxation, El Cedral is the perfect spot on the island. This small town has a particular charm, and has witnessed the passage of history from the rise of the Mayan culture to the present day. It is also home to the second most important festival of the destination: La Fiesta del Cedral, the day of the Holy Cross."
                                 }
                             ]
                         },
                         {
-                            "title": "REALIZAR ACTIVIDADES ACUÁTICAS",
+                            "title": "WATER ACTIVITIES",
                             "description": [
                                 {
-                                    "text": "Si el buceo y el esnórquel son algunas de las actividades más recurrentes en Cozumel, existe una gama más amplia para disfrutar de sus playas. A lo largo de la costa, encontrarás opciones para practicar paddleboard, jet ski, kayak, siempre con el apoyo de expertos en la materia que te brindarán toda la confianza."
+                                    "text": "Diving and snorkeling are some of the most popular activities in Cozumel, so there is a wider range of options to enjoy its beaches. Along the coast, you will find experts in paddleboarding, jet skiing or kayaking who will help you enjoy these activities with confidence."
                                 }
                             ]
                         },
                         {
-                            "title": "VISITA A LA ISLA DE LA PASIÓN",
+                            "title": "VISIT TO PASSION ISLAND",
                             "description": [
                                 {
-                                    "text": "Hacia el norte de Cozumel se encuentra un pequeño lugar llamado Isla Pasión, con una extensión de solo un kilómetro aquí encontramos manglar, arrecife y selva, y en donde se pueden hacer tours para disfrutar de su tranquila y relajante playa, hasta actividades un poco más de adrenalina. Además, por sus características, también se ha convertido en un bello destino para realizar bodas."
+                                    "text": "North of Cozumel, there is a small place called Isla Pasión. It is one kilometer long, but it has mangroves, reefs, and a jungle, and you can visit it to enjoy its quiet and relaxing beach or practice activities that offer a little more adrenaline. In addition, due to its characteristics, it has also become a beautiful destination for weddings."
                                 }
                             ]
                         },
@@ -216,7 +216,7 @@
                             "title": "EL CIELO",
                             "description": [
                                 {
-                                    "text": "Al sur de Cozumel, en el fondo del mar con la arena blanca que caracteriza el mar Caribe, encontramos el auténtico cielo marino. Su nombre se debe a los cientos de estrellas de mar que reposan en una amplia extensión, por lo que no podría recibir otro nombre más que El Cielo, pero dentro del mar. Disfrutar este atractivo es ideal mediante el buceo o esnórquel, y es una más de las visitas que ningún turista puede dejar pasar por alto al viajar a Cozumel."
+                                    "text": "South of Cozumel, at the bottom of the sea with the white sand characteristic of the Caribbean Sea, you can find the authentic marine sky, a placed called El Cielo (“the Sky”). Its name comes from the hundreds of starfish that rest on a wide extension, making this place look like a starry sky, but under the sea. This place is best enjoyed through scuba diving or snorkeling, and it is definitely a must-do when traveling to Cozumel."
                                 }
                             ]
                         }
@@ -230,7 +230,7 @@
             "shareTT": "",
             "actions": {
                 "button": {
-                    "text" : "Ir al blog",
+                    "text" : "Go to the blog",
                     "dir": "/blog"
                 }
             }

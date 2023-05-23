@@ -72,7 +72,7 @@ const Header = () => {
           <option value="USA">🇺🇸EN</option>
           <option value="FR">🇫🇷FR</option>
           <option value="DE">🇩🇪DE</option>
-          {/*<option value="PT">🇵🇹PT</option>*/}
+          <option value="PT">🇵🇹PT</option>
           {/*<option value="IT">🇮🇹IT</option>*/}
           <option value="JP">🇯🇵JP</option>
           {/*<option value="CN">🇨🇳CN</option>*/}
