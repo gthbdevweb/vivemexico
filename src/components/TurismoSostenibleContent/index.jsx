@@ -3,6 +3,10 @@ import { LazyLoadImage } from 'react-lazy-load-image-component';
 import { Context } from '../../Context';
 import dataEs from '../../assets/data/turismoSostenible/es/index.json';
 import dataEn from '../../assets/data/turismoSostenible/en/index.json';
+import dataFr from '../../assets/data/turismoSostenible/fr/index.json';
+import dataDe from '../../assets/data/turismoSostenible/de/index.json';
+import dataJp from '../../assets/data/turismoSostenible/jp/index.json';
+import dataPt from '../../assets/data/turismoSostenible/pt/index.json';
 import Share from '../Share';
 import './style.css';
 
@@ -13,6 +17,10 @@ const TurismoSostenibleContent = () => {
   useEffect(() => (
     isLanguage === 'MX' ? setLanguage(dataEs)
     : isLanguage === 'USA' ? setLanguage(dataEn)
+    : isLanguage === 'FR' ? setLanguage(dataFr)
+    : isLanguage === 'DE' ? setLanguage(dataDe)
+    : isLanguage === 'JP' ? setLanguage(dataJp)
+    : isLanguage === 'PT' ? setLanguage(dataPt)
     : setLanguage(dataEs)
   ), [isLanguage]);
 

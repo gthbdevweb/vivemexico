@@ -2,6 +2,9 @@ import React, { useState, useEffect, useContext} from 'react';
 import { Context } from '../../Context';
 import dataEs from '../../assets/data/events/es/index.json';
 import dataEn from '../../assets/data/events/en/index.json';
+import dataFr from '../../assets/data/events/fr/index.json';
+import dataJp from '../../assets/data/events/jp/index.json';
+import dataPt from '../../assets/data/events/pt/index.json';
 import './style.css';
 
 const VideoEvents = () => {
@@ -11,6 +14,9 @@ const VideoEvents = () => {
   useEffect(() => {
     isLanguage === 'MX' ? setLanguage(dataEs)
     : isLanguage === 'USA' ? setLanguage(dataEn)
+    : isLanguage === 'FR' ? setLanguage(dataFr)
+    : isLanguage === 'JP' ? setLanguage(dataJp)
+    : isLanguage === 'PT' ? setLanguage(dataPt)
     : setLanguage(dataEs);
   }, [isLanguage]);
 

@@ -1,0 +1,91 @@
+{
+    "videoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+    "title": "プエブロ・マヒコ",
+    "urlImgTop": "slide1.webp",
+    "descriptionTop": "プエブロ・マヒコとは、多くの場合、我々の国にとって重要な出来事が起きた村々であり、伝統と歴史、シンボルや伝説に満ちています。国家としてのアイデンティティーの代表格であり、来訪者を魅了する魔法の場所です。訪れることはメキシコの魅力を発見できるチャンスです。プエブロ・マヒコという企画は、魅力的で多彩、その上国内、国外の観光客にとって新たな国の代表となるか、国内の村々が集団的空想に加盟できるかを見直して貢献するものです。今現在、メキシコでは132の町村がプエブロ・マヒコとして指定され、アルファベット順に下記リストから閲覧できます。",
+    "subtitle": "Subtítulo",
+    "texShowMore": "Ver más",
+    "textShowLess": "Ver menos",
+    "towns": [
+        {
+            "urlImg": "slide1.webp",
+            "title": "Título",
+            "id": 1
+        },
+        {
+            "urlImg": "slide2.jpg",
+            "title": "Título",
+            "id": 2
+        },
+        {
+            "urlImg": "slide1.webp",
+            "title": "Título",
+            "id": 3
+        },
+        {
+            "urlImg": "slide2.jpg",
+            "title": "Título",
+            "id": 4
+        },
+        {
+            "urlImg": "slide1.webp",
+            "title": "Título",
+            "id": 5
+        },
+        {
+            "urlImg": "slide2.jpg",
+            "title": "Título",
+            "id": 6
+        },
+        {
+            "urlImg": "slide1.webp",
+            "title": "Título",
+            "id": 7
+        },
+        {
+            "urlImg": "slide2.jpg",
+            "title": "Título",
+            "id": 8
+        },
+        {
+            "urlImg": "slide1.webp",
+            "title": "Título",
+            "id": 9
+        },
+        {
+            "urlImg": "slide2.jpg",
+            "title": "Título",
+            "id": 10
+        },
+        {
+            "urlImg": "slide1.webp",
+            "title": "Título",
+            "id": 11
+        },
+        {
+            "urlImg": "slide2.jpg",
+            "title": "Título",
+            "id": 12
+        },
+        {
+            "urlImg": "slide1.webp",
+            "title": "Título",
+            "id": 13
+        },
+        {
+            "urlImg": "slide2.jpg",
+            "title": "Título",
+            "id": 14
+        },
+        {
+            "urlImg": "slide1.webp",
+            "title": "Título",
+            "id": 15
+        },
+        {
+            "urlImg": "slide2.jpg",
+            "title": "Título",
+            "id": 16
+        }
+    ]
+}

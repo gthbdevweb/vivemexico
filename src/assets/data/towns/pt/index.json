@@ -1,0 +1,91 @@
+{
+    "videoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+    "title": "Pueblos mágicos",
+    "urlImgTop": "slide1.webp",
+    "descriptionTop": "Os Pueblos Mágicos são lugares repletos de símbolos e lendas, povoados com tradição e história que têm sido incontáveis vezes cenários de fatos transcendentais para o México. São lugares representativos da nossa identidade nacional com uma magia que cativa os visitantes. Percorrer os Pueblos Mágicos fará você descobrir o encanto do México. O Programa Pueblos Mágicos contribui para o reconhecimento de um conjunto de povos mexicanos que fazem parte do imaginário coletivo da nação e que representam alternativas atraentes e diversas para os visitantes nacionais e estrangeiros. Na atualidade, há, no México, 132 Pueblos Mágicos.",
+    "subtitle": "Subtítulo",
+    "texShowMore": "Ver más",
+    "textShowLess": "Ver menos",
+    "towns": [
+        {
+            "urlImg": "slide1.webp",
+            "title": "Título",
+            "id": 1
+        },
+        {
+            "urlImg": "slide2.jpg",
+            "title": "Título",
+            "id": 2
+        },
+        {
+            "urlImg": "slide1.webp",
+            "title": "Título",
+            "id": 3
+        },
+        {
+            "urlImg": "slide2.jpg",
+            "title": "Título",
+            "id": 4
+        },
+        {
+            "urlImg": "slide1.webp",
+            "title": "Título",
+            "id": 5
+        },
+        {
+            "urlImg": "slide2.jpg",
+            "title": "Título",
+            "id": 6
+        },
+        {
+            "urlImg": "slide1.webp",
+            "title": "Título",
+            "id": 7
+        },
+        {
+            "urlImg": "slide2.jpg",
+            "title": "Título",
+            "id": 8
+        },
+        {
+            "urlImg": "slide1.webp",
+            "title": "Título",
+            "id": 9
+        },
+        {
+            "urlImg": "slide2.jpg",
+            "title": "Título",
+            "id": 10
+        },
+        {
+            "urlImg": "slide1.webp",
+            "title": "Título",
+            "id": 11
+        },
+        {
+            "urlImg": "slide2.jpg",
+            "title": "Título",
+            "id": 12
+        },
+        {
+            "urlImg": "slide1.webp",
+            "title": "Título",
+            "id": 13
+        },
+        {
+            "urlImg": "slide2.jpg",
+            "title": "Título",
+            "id": 14
+        },
+        {
+            "urlImg": "slide1.webp",
+            "title": "Título",
+            "id": 15
+        },
+        {
+            "urlImg": "slide2.jpg",
+            "title": "Título",
+            "id": 16
+        }
+    ]
+}

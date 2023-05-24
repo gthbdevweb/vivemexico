@@ -2,6 +2,10 @@ import React, { useState, useEffect, useContext} from 'react';
 import { Context } from '../../Context';
 import dataEs from '../../assets/data/towns/es/index.json';
 import dataEn from '../../assets/data/towns/en/index.json';
+import dataFr from '../../assets/data/towns/fr/index.json';
+import dataDe from '../../assets/data/towns/de/index.json';
+import dataJp from '../../assets/data/towns/jp/index.json';
+import dataPt from '../../assets/data/towns/pt/index.json';
 import './style.css';
 
 const HeaderTowns = () => {
@@ -11,6 +15,10 @@ const HeaderTowns = () => {
   useEffect(() => (
   isLanguage === 'MX' ? setLanguage(dataEs)
     : isLanguage === 'USA' ? setLanguage(dataEn)
+    : isLanguage === 'FR' ? setLanguage(dataFr)
+    : isLanguage === 'DE' ? setLanguage(dataDe)
+    : isLanguage === 'JP' ? setLanguage(dataJp)
+    : isLanguage === 'PT' ? setLanguage(dataPt)
     : setLanguage(dataEs)
   ), [isLanguage]);
 

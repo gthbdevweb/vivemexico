@@ -3,6 +3,10 @@ import { LazyLoadImage } from 'react-lazy-load-image-component';
 import { Context } from '../../Context';
 import dataEs from '../../assets/data/description/es/index.json';
 import dataEn from '../../assets/data/description/en/index.json';
+import dataDe from '../../assets/data/description/de/index.json';
+import dataFr from '../../assets/data/description/fr/index.json';
+import dataPt from '../../assets/data/description/pt/index.json';
+import dataJp from '../../assets/data/description/jp/index.json';
 import Share from '../Share';
 import './style.css';
 
@@ -13,6 +17,10 @@ const Description = () => {
   useEffect(() => (
     isLanguage === 'MX' ? setLanguage(dataEs)
     : isLanguage === 'USA' ? setLanguage(dataEn)
+    : isLanguage === 'DE' ? setLanguage(dataDe)
+    : isLanguage === 'FR' ? setLanguage(dataFr)
+    : isLanguage === 'PT' ? setLanguage(dataPt)
+    : isLanguage === 'JP' ? setLanguage(dataJp)
     : setLanguage(dataEs)
   ), [isLanguage]);
 

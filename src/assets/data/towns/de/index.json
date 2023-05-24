@@ -1,0 +1,91 @@
+{
+    "videoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+    "title": "Magische Stätte",
+    "urlImgTop": "slide1.webp",
+    "descriptionTop": "Pueblo Mágico (Magische Stätte) ist die Bezeichnung und Auszeichnung eines wunderschönen Ortes voller Symbolik und Legenden, Tradition und Geschichte, und Schauplatz wichtiger Meilensteine unseres Landes. Sie sind repräsentative Sitze nationaler Identität und mit einer Anmut ausgestattet, die die Besucher*innen in ihren Bann zieht. Entdecke Mexikos Zauber! Die Initiative der Pueblos Mágicos trägt zur Verteidigung und Aufwertung einiger Ortschaften des Landes bei, die Teil des imaginären Kollektivs der Nation sowie attraktive und vielfältige Alternativen für in- und ausländische Besucher*innen darstellen. Derzeit gibt es insgesamt 132 Pueblos Mágicos.",
+    "subtitle": "Subtítulo",
+    "texShowMore": "Ver más",
+    "textShowLess": "Ver menos",
+    "towns": [
+        {
+            "urlImg": "slide1.webp",
+            "title": "Título",
+            "id": 1
+        },
+        {
+            "urlImg": "slide2.jpg",
+            "title": "Título",
+            "id": 2
+        },
+        {
+            "urlImg": "slide1.webp",
+            "title": "Título",
+            "id": 3
+        },
+        {
+            "urlImg": "slide2.jpg",
+            "title": "Título",
+            "id": 4
+        },
+        {
+            "urlImg": "slide1.webp",
+            "title": "Título",
+            "id": 5
+        },
+        {
+            "urlImg": "slide2.jpg",
+            "title": "Título",
+            "id": 6
+        },
+        {
+            "urlImg": "slide1.webp",
+            "title": "Título",
+            "id": 7
+        },
+        {
+            "urlImg": "slide2.jpg",
+            "title": "Título",
+            "id": 8
+        },
+        {
+            "urlImg": "slide1.webp",
+            "title": "Título",
+            "id": 9
+        },
+        {
+            "urlImg": "slide2.jpg",
+            "title": "Título",
+            "id": 10
+        },
+        {
+            "urlImg": "slide1.webp",
+            "title": "Título",
+            "id": 11
+        },
+        {
+            "urlImg": "slide2.jpg",
+            "title": "Título",
+            "id": 12
+        },
+        {
+            "urlImg": "slide1.webp",
+            "title": "Título",
+            "id": 13
+        },
+        {
+            "urlImg": "slide2.jpg",
+            "title": "Título",
+            "id": 14
+        },
+        {
+            "urlImg": "slide1.webp",
+            "title": "Título",
+            "id": 15
+        },
+        {
+            "urlImg": "slide2.jpg",
+            "title": "Título",
+            "id": 16
+        }
+    ]
+}
