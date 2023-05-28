@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/vivemexico/static/css/main.b1d00429.css",
-    "main.js": "/vivemexico/static/js/main.7497967c.js",
+    "main.css": "/vivemexico/static/css/main.0da3c9fa.css",
+    "main.js": "/vivemexico/static/js/main.f2a99990.js",
     "static/js/787.e8efe789.chunk.js": "/vivemexico/static/js/787.e8efe789.chunk.js",
     "static/media/GRO_acapulco_1317.webp": "/vivemexico/static/media/GRO_acapulco_1317.682ec4d5fa18a2ed9987.webp",
     "static/media/COAH_2_dunas_bilbao_22.webp": "/vivemexico/static/media/COAH_2_dunas_bilbao_22.d068f2fe28a65eb1b51a.webp",
@@ -46,6 +46,7 @@
     "static/media/sea-cozumel.webp": "/vivemexico/static/media/sea-cozumel.44d6954b151ae99e882a.webp",
     "static/media/esferas2.webp": "/vivemexico/static/media/esferas2.b900c4382a617bd4c325.webp",
     "static/media/f1evento.webp": "/vivemexico/static/media/f1evento.118f3490112eaf790ddd.webp",
+    "static/media/bg.png": "/vivemexico/static/media/bg.8efe68831b66dae5acdf.png",
     "static/media/blog.webp": "/vivemexico/static/media/blog.bbcd838f443103179710.webp",
     "static/media/cozumel-0.wep.jpg": "/vivemexico/static/media/cozumel-0.wep.597c6290d151ef1792c0.jpg",
     "static/media/blogesfera.webp": "/vivemexico/static/media/blogesfera.c3cf2087a0ac9a1ff54e.webp",
@@ -56,12 +57,12 @@
     "static/media/trenMaya.webp": "/vivemexico/static/media/trenMaya.8a170d5399bb93e9d337.webp",
     "static/media/logo.png": "/vivemexico/static/media/logo.077d6f371a73310c9868.png",
     "index.html": "/vivemexico/index.html",
-    "main.b1d00429.css.map": "/vivemexico/static/css/main.b1d00429.css.map",
-    "main.7497967c.js.map": "/vivemexico/static/js/main.7497967c.js.map",
+    "main.0da3c9fa.css.map": "/vivemexico/static/css/main.0da3c9fa.css.map",
+    "main.f2a99990.js.map": "/vivemexico/static/js/main.f2a99990.js.map",
     "787.e8efe789.chunk.js.map": "/vivemexico/static/js/787.e8efe789.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1d00429.css",
-    "static/js/main.7497967c.js"
+    "static/css/main.0da3c9fa.css",
+    "static/js/main.f2a99990.js"
   ]
 }
