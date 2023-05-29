@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/vivemexico/static/css/main.1c34ddc3.css",
+    "main.css": "/vivemexico/static/css/main.5c9b5efb.css",
     "main.js": "/vivemexico/static/js/main.f2a99990.js",
     "static/js/787.e8efe789.chunk.js": "/vivemexico/static/js/787.e8efe789.chunk.js",
     "static/media/GRO_acapulco_1317.webp": "/vivemexico/static/media/GRO_acapulco_1317.682ec4d5fa18a2ed9987.webp",
@@ -14,7 +14,6 @@
     "static/media/TAB_Jalpa_de_Mendez8.webp": "/vivemexico/static/media/TAB_Jalpa_de_Mendez8.98a65d3862bc8f43b121.webp",
     "static/media/DGO_Cd_Durango_34.webp": "/vivemexico/static/media/DGO_Cd_Durango_34.4872491563cdfe317734.webp",
     "static/media/YUC_Cusaman_Cenotes152.webp": "/vivemexico/static/media/YUC_Cusaman_Cenotes152.95cb4cc74e2601b72964.webp",
-    "static/media/bg.png": "/vivemexico/static/media/bg.7a5bbf876d1e60b5fc4e.png",
     "static/media/AGS_aguascalientes_227.webp": "/vivemexico/static/media/AGS_aguascalientes_227.38f26d4fbfb35aec94f2.webp",
     "static/media/YUC_Hacienda_Ochil139.webp": "/vivemexico/static/media/YUC_Hacienda_Ochil139.9556e3f448a2f7abb738.webp",
     "static/media/VER_catemaco104.webp": "/vivemexico/static/media/VER_catemaco104.cc4629b651b2a92b56f9.webp",
@@ -29,6 +28,7 @@
     "static/media/PUE_cuetzalan_163.webp": "/vivemexico/static/media/PUE_cuetzalan_163.40a8af7eb1a6ee282758.webp",
     "static/media/SIN_mazatlan_playa-750.webp": "/vivemexico/static/media/SIN_mazatlan_playa-750.d96550b7b4c24e84422a.webp",
     "static/media/DF_Bellas_artes_04.webp": "/vivemexico/static/media/DF_Bellas_artes_04.94c8e060123130cdc5d2.webp",
+    "static/media/bg.png": "/vivemexico/static/media/bg.a13b9284b57c26f19f70.png",
     "static/media/NAY_sanblas_playas_98.webp": "/vivemexico/static/media/NAY_sanblas_playas_98.4e8a3b24770086d7fbc5.webp",
     "static/media/MOR_axochiapan_t_164.webp": "/vivemexico/static/media/MOR_axochiapan_t_164.3491fa2cadfe72aa0019.webp",
     "static/media/YUC_Valladolid18-2.webp": "/vivemexico/static/media/YUC_Valladolid18-2.560a864c989e808cfb33.webp",
@@ -57,12 +57,12 @@
     "static/media/trenMaya.webp": "/vivemexico/static/media/trenMaya.8a170d5399bb93e9d337.webp",
     "static/media/logo.png": "/vivemexico/static/media/logo.077d6f371a73310c9868.png",
     "index.html": "/vivemexico/index.html",
-    "main.1c34ddc3.css.map": "/vivemexico/static/css/main.1c34ddc3.css.map",
+    "main.5c9b5efb.css.map": "/vivemexico/static/css/main.5c9b5efb.css.map",
     "main.f2a99990.js.map": "/vivemexico/static/js/main.f2a99990.js.map",
     "787.e8efe789.chunk.js.map": "/vivemexico/static/js/787.e8efe789.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c34ddc3.css",
+    "static/css/main.5c9b5efb.css",
     "static/js/main.f2a99990.js"
   ]
 }
