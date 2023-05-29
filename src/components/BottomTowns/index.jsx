@@ -1,5 +1,4 @@
 import React, { useState, useEffect, useContext} from 'react';
-import { LazyLoadImage } from 'react-lazy-load-image-component';
 import { Context } from '../../Context';
 import dataEs from '../../assets/data/towns/es/index.json';
 import dataEn from '../../assets/data/towns/en/index.json';
@@ -28,7 +27,7 @@ const BottomTowns = () => {
       <div className="towns-bottom-img-ctn">
         <img
          className="towns-bottom-img"
-         src={require(`../../assets/img/towns/slide1.webp`)}
+         src={require(`../../assets/img/towns/Tlaxcala_Portada.webp`)}
          alt={language?.title}
        />
       </div>

@@ -1,6 +1,10 @@
 .sol-y-playa-cards-content-ctn {
   padding: 0 0 70px 0;
   background-color: #eee;
+  background-image: url('../../assets/img/layout/bg.png');
+  background-repeat: repeat-y;
+  background-size: 100% auto;
+  background-position: center;
 }
 .sol-y-playa-cards-content-card-ctn {
   margin: 0 20px;

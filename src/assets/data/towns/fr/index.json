@@ -1,5 +1,5 @@
 {
-    "videoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+    "videoTop": "https://www.youtube.com/embed/RXnihWaAL9Q?rel=0;&autoplay=1",
     "title": "Ville Magique",
     "urlImgTop": "slide1.webp",
     "descriptionTop": "Un Pueblo Mágico (Ville Magique) est un lieu chargé de symboles et de légendes, habité de tradition et d'histoire qui ont souvent été le lieu d'événements transcendants pour notre pays ; ce sont des lieux représentatifs de notre identité nationale, dont la magie captive les visiteurs. Les visiter, c'est découvrir le charme du Mexique. Le programme des Pueblos Mágicos contribue à revaloriser un groupe de villages du pays qui font partie de l'imaginaire collectif de la nation et qui représentent des alternatives attrayantes et variées pour les visiteurs nationaux et étrangers. Actuellement, il y a 132 Pueblos Mágicos au Mexique.",
@@ -8,84 +8,69 @@
     "textShowLess": "Ver menos",
     "towns": [
         {
-            "urlImg": "slide1.webp",
-            "title": "Título",
+            "urlVideo": "https://www.youtube.com/embed/z4EPuUpf6Qs",
+            "title": "TEQUILA",
             "id": 1
         },
         {
-            "urlImg": "slide2.jpg",
-            "title": "Título",
+            "urlVideo": "https://www.youtube.com/embed/eNn83mXHwg0",
+            "title": "SAN CRISTOBAL DE LAS CASAS - CHIAPAS",
             "id": 2
         },
         {
-            "urlImg": "slide1.webp",
-            "title": "Título",
+            "urlVideo": "https://www.youtube.com/embed/VRFTsB1ASxE",
+            "title": "PARACHO - MICHOACÁN",
             "id": 3
         },
         {
-            "urlImg": "slide2.jpg",
-            "title": "Título",
+            "urlVideo": "https://www.youtube.com/embed/bRpeilRty0c",
+            "title": "MÚZQUIZ - COAHUILA",
             "id": 4
         },
         {
-            "urlImg": "slide1.webp",
-            "title": "Título",
+            "urlVideo": "https://www.youtube.com/embed/Orm6xaA2boY",
+            "title": "MINERAL DEL CHICO - HIDALGO",
             "id": 5
         },
         {
-            "urlImg": "slide2.jpg",
-            "title": "Título",
+            "urlVideo": "https://www.youtube.com/embed/YctE9pnGFbY",
+            "title": "MEXCALTITÁN - NAYARIT",
             "id": 6
         },
         {
-            "urlImg": "slide1.webp",
-            "title": "Título",
+            "urlVideo": "https://www.youtube.com/embed/d74Cquz4I0A",
+            "title": "IZAMAL - YUCATÁN",
             "id": 7
         },
         {
-            "urlImg": "slide2.jpg",
-            "title": "Título",
+            "urlVideo": "https://www.youtube.com/embed/mQTU_qiDFYo",
+            "title": "CREEL - CHIHUAHUA",
             "id": 8
         },
         {
-            "urlImg": "slide1.webp",
-            "title": "Título",
+            "urlVideo": "https://www.youtube.com/embed/b28ltsYTv64",
+            "title": "BACALAR - QUINTANA ROO",
             "id": 9
         },
         {
-            "urlImg": "slide2.jpg",
-            "title": "Título",
+            "urlVideo": "https://www.youtube.com/embed/NVcGteckl6g",
+            "title": "CRONISTAS",
             "id": 10
         },
         {
-            "urlImg": "slide1.webp",
-            "title": "Título",
+            "urlVideo": "https://www.youtube.com/embed/5Z2Qy1i-M0M",
+            "title": "AULAS ETNOGRÁFICAS",
             "id": 11
         },
         {
-            "urlImg": "slide2.jpg",
-            "title": "Título",
+            "urlVideo": "https://www.youtube.com/embed/wwjBVvMUZKc",
+            "title": "RAÍCES MÁGICAS",
             "id": 12
         },
         {
-            "urlImg": "slide1.webp",
-            "title": "Título",
+            "urlVideo": "https://www.youtube.com/embed/RXnihWaAL9Q",
+            "title": "PUEBLOS MÁGICOS",
             "id": 13
-        },
-        {
-            "urlImg": "slide2.jpg",
-            "title": "Título",
-            "id": 14
-        },
-        {
-            "urlImg": "slide1.webp",
-            "title": "Título",
-            "id": 15
-        },
-        {
-            "urlImg": "slide2.jpg",
-            "title": "Título",
-            "id": 16
         }
     ]
 }

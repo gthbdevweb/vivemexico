@@ -1,5 +1,9 @@
 .eventos-header-ctn {
   padding-top: 140px;
+  background-image: url('../../assets/img/layout/bg.png');
+  background-repeat: repeat-y;
+  background-size: 100% auto;
+  background-position: center;
 }
 .eventos-header-text-title {
   text-align: center;
@@ -13,6 +17,7 @@
   text-align: center;
   font-size: 14px;
   padding: 20px;
+  margin: 0;
 }
 
 @media (min-width: 992px)  {

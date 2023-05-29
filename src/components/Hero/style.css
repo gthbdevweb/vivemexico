@@ -6,6 +6,19 @@
   animation-name: hero-reveal;
   animation-duration: 1s;
 }
+.carousel-brand {
+  background: #fda700;
+  height: 28px;
+}
+.carousel-brand-text {
+  margin: 0;
+  padding: 0;
+  font-weight: 700;
+  font-size: 14px;
+  padding: 3px 15px;
+  color: #140e01;
+  text-align: center;
+}
 .hero-carousel-img {
   height: 50vh;
   width: 100vw;
@@ -42,6 +55,9 @@
   .hero-ctn {
     margin-top: 80px;
     padding: 0;
+  }
+  .carousel-brand-text {
+    font-size: 16px;
   }
   .hero-carousel-img {
     height: 60vh;

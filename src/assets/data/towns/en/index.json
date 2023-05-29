@@ -1,5 +1,5 @@
 {
-    "videoTop": "https://www.youtube.com/embed/EjNe5EJ1cAQ?rel=0;&autoplay=1",
+    "videoTop": "https://www.youtube.com/embed/RXnihWaAL9Q?rel=0;&autoplay=1",
     "title": "Magic Towns",
     "urlImgTop": "slide1.webp",
     "descriptionTop": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, delectus voluptatem. Blanditiis perspiciatis modi doloremque neque maiores odio id sapiente omnis beatae mollitia corrupti ab dolorum, iure quis animi voluptatibus fugit recusandae, ipsam repellendus! Mollitia inventore soluta possimus perferendis explicabo harum magni hic necessitatibus voluptas provident nisi itaque, tempore a quia fugit laudantium voluptatum eum! Tempora ab ut natus, mollitia quam ad perspiciatis odio obcaecati inventore quasi aliquid corporis hic magni magnam. Aliquam nisi dolorem, animi architecto deserunt ad in. Unde mollitia neque vitae?",
@@ -8,84 +8,69 @@
     "textShowLess": "Show less",
     "towns": [
         {
-            "urlImg": "slide1.webp",
-            "title": "Title",
+            "urlVideo": "https://www.youtube.com/embed/z4EPuUpf6Qs",
+            "title": "TEQUILA",
             "id": 1
         },
         {
-            "urlImg": "slide2.jpg",
-            "title": "Title",
+            "urlVideo": "https://www.youtube.com/embed/eNn83mXHwg0",
+            "title": "SAN CRISTOBAL DE LAS CASAS - CHIAPAS",
             "id": 2
         },
         {
-            "urlImg": "slide1.webp",
-            "title": "Title",
+            "urlVideo": "https://www.youtube.com/embed/VRFTsB1ASxE",
+            "title": "PARACHO - MICHOACÁN",
             "id": 3
         },
         {
-            "urlImg": "slide2.jpg",
-            "title": "Title",
+            "urlVideo": "https://www.youtube.com/embed/bRpeilRty0c",
+            "title": "MÚZQUIZ - COAHUILA",
             "id": 4
         },
         {
-            "urlImg": "slide1.webp",
-            "title": "Title",
+            "urlVideo": "https://www.youtube.com/embed/Orm6xaA2boY",
+            "title": "MINERAL DEL CHICO - HIDALGO",
             "id": 5
         },
         {
-            "urlImg": "slide2.jpg",
-            "title": "Title",
+            "urlVideo": "https://www.youtube.com/embed/YctE9pnGFbY",
+            "title": "MEXCALTITÁN - NAYARIT",
             "id": 6
         },
         {
-            "urlImg": "slide1.webp",
-            "title": "Title",
+            "urlVideo": "https://www.youtube.com/embed/d74Cquz4I0A",
+            "title": "IZAMAL - YUCATÁN",
             "id": 7
         },
         {
-            "urlImg": "slide2.jpg",
-            "title": "Title",
+            "urlVideo": "https://www.youtube.com/embed/mQTU_qiDFYo",
+            "title": "CREEL - CHIHUAHUA",
             "id": 8
         },
         {
-            "urlImg": "slide1.webp",
-            "title": "Title",
+            "urlVideo": "https://www.youtube.com/embed/b28ltsYTv64",
+            "title": "BACALAR - QUINTANA ROO",
             "id": 9
         },
         {
-            "urlImg": "slide2.jpg",
-            "title": "Title",
+            "urlVideo": "https://www.youtube.com/embed/NVcGteckl6g",
+            "title": "CRONISTAS",
             "id": 10
         },
         {
-            "urlImg": "slide1.webp",
-            "title": "Title",
+            "urlVideo": "https://www.youtube.com/embed/5Z2Qy1i-M0M",
+            "title": "AULAS ETNOGRÁFICAS",
             "id": 11
         },
         {
-            "urlImg": "slide2.jpg",
-            "title": "Title",
+            "urlVideo": "https://www.youtube.com/embed/wwjBVvMUZKc",
+            "title": "RAÍCES MÁGICAS",
             "id": 12
         },
         {
-            "urlImg": "slide1.webp",
-            "title": "Title",
+            "urlVideo": "https://www.youtube.com/embed/RXnihWaAL9Q",
+            "title": "PUEBLOS MÁGICOS",
             "id": 13
-        },
-        {
-            "urlImg": "slide2.jpg",
-            "title": "Title",
-            "id": 14
-        },
-        {
-            "urlImg": "slide1.webp",
-            "title": "Title",
-            "id": 15
-        },
-        {
-            "urlImg": "slide2.jpg",
-            "title": "Title",
-            "id": 16
         }
     ]
 }

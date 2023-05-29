@@ -23,5 +23,8 @@
             "text" : "Vámos allá",
             "dir": "/estado/Puebla"
         }
+    },
+    "brand": {
+        "text": "México, de los países más visitados."
     }
 }

@@ -48,10 +48,17 @@ const Benefits = () => {
   const getTowns = () => (
     languajeLimit?.map((town, index) => (
       <div className="towns-benefits-card-ctn" key={index}>
-        <img
+        <iframe
           className="towns-benefits-card-img"
-          src={require(`../../assets/img/towns/${town.urlImg}`)}
-          alt={town.title}
+          width="100%" 
+          height="100%" 
+          src={`${town?.urlVideo}?rel=0;&autoplay=0`} 
+          title={town.title}
+          allowfullscreen
+          style={{ border: 0 }}
+          allowFullScreen=""
+          loading="lazy"
+          referrerPolicy="no-referrer-when-downgrade"
         />
         <h4 className="towns-benefits-card-text-title">{town.title}</h4>
       </div>

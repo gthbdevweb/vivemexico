@@ -1,6 +1,10 @@
 .towns-bottom-ctn {
   background-color: #eee;
   padding: 60px 20px;
+  background-image: url('../../assets/img/layout/bg.png');
+  background-repeat: repeat-y;
+  background-size: 100% auto;
+  background-position: center;
 }
 .towns-bottom-img-ctn {
   width: 100%;

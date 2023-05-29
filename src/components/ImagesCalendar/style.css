@@ -1,6 +1,10 @@
 .calendar-images-ctn {
   background-color: #fff;
   padding: 20px;
+  background-image: url('../../assets/img/layout/bg.png');
+  background-repeat: repeat-y;
+  background-size: 100% auto;
+  background-position: center;
 }
 .caldendar-images-card-ctn {
   padding: 30px;

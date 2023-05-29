@@ -1,6 +1,10 @@
 .state-known-ctn {
   display: block;
   padding: 42px 0;
+  background-image: url('../../assets/img/layout/bg.png');
+  background-repeat: repeat-y;
+  background-size: 100% auto;
+  background-position: center;
 }
 .state-known-text-ctn {
   padding: 20px 20px 40px 20px;

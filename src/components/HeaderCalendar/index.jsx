@@ -25,7 +25,7 @@ const HeaderCalendar = () => {
     <section className="calendar-header-ctn">
       <div className="calendar-header-text-ctn">
         <h1 className="calendar-header-text-title">{language?.title}</h1>
-        <h3 className="calendar-header-text-subtitle">{language?.subtitle}</h3>
+        {/*<h3 className="calendar-header-text-subtitle">{language?.subtitle}</h3>*/}
       </div>
       <div className="calendar-header-calendar-ctn">
         <div className="calendar-header-calendar-img-ctn">
@@ -36,9 +36,9 @@ const HeaderCalendar = () => {
           <Calendar calendarEvents={calendarEvents} monthView={true}/>
         </div>
       </div>
-      <div className="calendar-header-text-desc-ctn">
+      {/*<div className="calendar-header-text-desc-ctn">
         <p className="calendar-header-text-desc">{language?.description}</p>
-      </div>
+      </div>*/}
     </section>
   )
 };

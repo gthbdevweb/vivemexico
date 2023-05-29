@@ -11,10 +11,10 @@ const Calendar = () => {
     <div className="main-content">
       <Rss />
       <HeaderCalendar />
-      <LazyLoadComponent>
+      {/*<LazyLoadComponent>
         <ImagesCalendar />
         <VideoCalendar />
-      </LazyLoadComponent>
+      </LazyLoadComponent>*/}
     </div>
   )
 };

@@ -1,20 +1,16 @@
 {
     "carousel": [
         {
-            "url": "slide1.webp",
-            "id": "slide1"
+            "url": "PUE_catedral_42.webp",
+            "id": "Puebla catedral"
         },
         {
-            "url": "slide2.jpg",
-            "id": "slide2"
+            "url": "PUE_cuetzalan_163.webp",
+            "id": "Puebla Cuetzalan"
         }, 
         {
-            "url": "slide1.webp",
-            "id": "slide3"
-        }, 
-        {
-            "url": "slide2.jpg",
-            "id": "slide4"
+            "url": "PUE_cholula_9.webp",
+            "id": "Puebla Cholula"
         }
     ],
     "content": {
@@ -27,5 +23,8 @@
             "text" : "Go!",
             "dir": "/"
         }
+    },
+    "brand": {
+        "text": "México, de los países más visitados."
     }
 }

@@ -17,6 +17,14 @@ const Hero = () => {
     : setLanguage(dataEs)
   ), [isLanguage]);
 
+  const heroBrand = () => (
+    <div className='carousel-brand'>
+      <p className='carousel-brand-text'>
+        {language?.brand?.text}
+      </p>
+    </div>
+  );
+
   const carouselItem = () => (
     language?.carousel?.map((lang, index) => (
       <div className={`carousel-item ${index === 0 ? 'active' : ''}`} key={index}>
@@ -30,7 +38,6 @@ const Hero = () => {
   );
 
   const carousel = () => (
-    
     <div id="heroCarousel" className="carousel slide" data-bs-ride="carousel">
       <div className="carousel-inner">
         {carouselItem()}
@@ -59,6 +66,7 @@ const Hero = () => {
 
   return (
     <section className="hero-ctn">
+      {heroBrand()}
       {carousel()}
       {hero()}
     </section>

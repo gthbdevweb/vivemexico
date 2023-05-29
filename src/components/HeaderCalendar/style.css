@@ -1,6 +1,10 @@
 .calendar-header-ctn {
   background-color: #eee;
   padding: 80px 0;
+  background-image: url('../../assets/img/layout/bg.png');
+  background-repeat: repeat-y;
+  background-size: 100% auto;
+  background-position: center;
 }
 .calendar-header-text-ctn {
   margin-top: 80px;
