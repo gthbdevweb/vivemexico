@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/vivemexico/static/css/main.5c9b5efb.css",
+    "main.css": "/vivemexico/static/css/main.93a7041e.css",
     "main.js": "/vivemexico/static/js/main.f2a99990.js",
     "static/js/787.e8efe789.chunk.js": "/vivemexico/static/js/787.e8efe789.chunk.js",
     "static/media/GRO_acapulco_1317.webp": "/vivemexico/static/media/GRO_acapulco_1317.682ec4d5fa18a2ed9987.webp",
@@ -57,12 +57,12 @@
     "static/media/trenMaya.webp": "/vivemexico/static/media/trenMaya.8a170d5399bb93e9d337.webp",
     "static/media/logo.png": "/vivemexico/static/media/logo.077d6f371a73310c9868.png",
     "index.html": "/vivemexico/index.html",
-    "main.5c9b5efb.css.map": "/vivemexico/static/css/main.5c9b5efb.css.map",
+    "main.93a7041e.css.map": "/vivemexico/static/css/main.93a7041e.css.map",
     "main.f2a99990.js.map": "/vivemexico/static/js/main.f2a99990.js.map",
     "787.e8efe789.chunk.js.map": "/vivemexico/static/js/787.e8efe789.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c9b5efb.css",
+    "static/css/main.93a7041e.css",
     "static/js/main.f2a99990.js"
   ]
 }
