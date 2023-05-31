@@ -7,6 +7,7 @@ import dataEn from '../../assets/data/states/en/index.json';
 import dataFr from '../../assets/data/states/fr/index.json';
 import dataDe from '../../assets/data/states/de/index.json';
 import dataJp from '../../assets/data/states/jp/index.json';
+import dataCn from '../../assets/data/states/cn/index.json';
 import './style.css';
 
 const MapState = () => {
@@ -23,6 +24,7 @@ const MapState = () => {
     : isLanguage === 'FR' ? setLanguage(dataFr)
     : isLanguage === 'DE' ? setLanguage(dataDe)
     : isLanguage === 'JP' ? setLanguage(dataJp)
+    : isLanguage === 'CN' ? setLanguage(dataCn)
     : setLanguage(dataEs);
   }, [isLanguage]);
 

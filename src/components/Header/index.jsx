@@ -75,7 +75,7 @@ const Header = () => {
           <option value="PT">🇵🇹PT</option>
           {/*<option value="IT">🇮🇹IT</option>*/}
           <option value="JP">🇯🇵JP</option>
-          {/*<option value="CN">🇨🇳CN</option>*/}
+          <option value="CN">🇨🇳CN</option>
         </select>
       </label>
       <nav className="nav-ctn" id="nav-ctn">
