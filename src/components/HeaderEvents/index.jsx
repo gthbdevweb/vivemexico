@@ -5,6 +5,7 @@ import dataEn from '../../assets/data/events/en/index.json';
 import dataFr from '../../assets/data/events/fr/index.json';
 import dataJp from '../../assets/data/events/jp/index.json';
 import dataPt from '../../assets/data/events/pt/index.json';
+import dataCn from '../../assets/data/events/cn/index.json';
 import './style.css';
 
 const HeaderEvents = () => {
@@ -17,6 +18,7 @@ const HeaderEvents = () => {
     : isLanguage === 'FR' ? setLanguage(dataFr)
     : isLanguage === 'JP' ? setLanguage(dataJp)
     : isLanguage === 'PT' ? setLanguage(dataPt)
+    : isLanguage === 'CN' ? setLanguage(dataCn)
     : setLanguage(dataEs);
   }, [isLanguage]);
 

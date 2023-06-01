@@ -7,6 +7,7 @@ import dataDe from '../../assets/data/description/de/index.json';
 import dataFr from '../../assets/data/description/fr/index.json';
 import dataPt from '../../assets/data/description/pt/index.json';
 import dataJp from '../../assets/data/description/jp/index.json';
+import dataCn from '../../assets/data/description/cn/index.json';
 import Share from '../Share';
 import './style.css';
 
@@ -21,6 +22,7 @@ const Description = () => {
     : isLanguage === 'FR' ? setLanguage(dataFr)
     : isLanguage === 'PT' ? setLanguage(dataPt)
     : isLanguage === 'JP' ? setLanguage(dataJp)
+    : isLanguage === 'CN' ? setLanguage(dataCn)
     : setLanguage(dataEs)
   ), [isLanguage]);
 

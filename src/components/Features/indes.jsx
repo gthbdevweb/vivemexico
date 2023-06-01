@@ -7,6 +7,7 @@ import dataDe from '../../assets/data/blog/de/index.json';
 import dataFr from '../../assets/data/blog/fr/index.json';
 import dataJp from '../../assets/data/blog/jp/index.json';
 import dataPt from '../../assets/data/blog/pt/index.json';
+import dataCn from '../../assets/data/blog/cn/index.json';
 import Share from '../Share';
 import './style.css';
 
@@ -21,6 +22,7 @@ const Features = () => {
     : isLanguage === 'FR' ? setLanguage(dataFr)
     : isLanguage === 'JP' ? setLanguage(dataJp)
     : isLanguage === 'PT' ? setLanguage(dataPt)
+    : isLanguage === 'CN' ? setLanguage(dataCn)
     : setLanguage(dataEs)
   ), [isLanguage]);
 

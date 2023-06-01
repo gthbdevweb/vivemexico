@@ -7,6 +7,7 @@ import dataFr from '../../assets/data/rutasGastronomicas/fr/index.json';
 import dataDe from '../../assets/data/rutasGastronomicas/de/index.json';
 import dataJp from '../../assets/data/rutasGastronomicas/jp/index.json';
 import dataPt from '../../assets/data/rutasGastronomicas/pt/index.json';
+import dataCn from '../../assets/data/rutasGastronomicas/cn/index.json';
 import Share from '../Share';
 import './style.css';
 
@@ -21,6 +22,7 @@ const RutasGastronomicasContent = () => {
     : isLanguage === 'DE' ? setLanguage(dataDe)
     : isLanguage === 'JP' ? setLanguage(dataJp)
     : isLanguage === 'PT' ? setLanguage(dataPt)
+    : isLanguage === 'CN' ? setLanguage(dataCn)
     : setLanguage(dataEs)
   ), [isLanguage]);
 

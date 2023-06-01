@@ -6,6 +6,7 @@ import dataFr from '../../assets/data/towns/fr/index.json';
 import dataDe from '../../assets/data/towns/de/index.json';
 import dataJp from '../../assets/data/towns/jp/index.json';
 import dataPt from '../../assets/data/towns/pt/index.json';
+import dataCn from '../../assets/data/towns/cn/index.json';
 import './style.css';
 
 const BottomTowns = () => {
@@ -19,6 +20,7 @@ const BottomTowns = () => {
     : isLanguage === 'DE' ? setLanguage(dataDe)
     : isLanguage === 'JP' ? setLanguage(dataJp)
     : isLanguage === 'PT' ? setLanguage(dataPt)
+    : isLanguage === 'CN' ? setLanguage(dataCn)
     : setLanguage(dataEs)
   }, [isLanguage]);
 

@@ -7,6 +7,7 @@ import dataFr from '../../assets/data/solYPlaya/fr/index.json';
 import dataDe from '../../assets/data/solYPlaya/de/index.json';
 import dataJp from '../../assets/data/solYPlaya/jp/index.json';
 import dataPt from '../../assets/data/solYPlaya/pt/index.json';
+import dataCn from '../../assets/data/solYPlaya/cn/index.json';
 import './style.css';
 
 const SolYPlayaCardsContent = () => {
@@ -20,6 +21,7 @@ const SolYPlayaCardsContent = () => {
     : isLanguage === 'DE' ? setLanguage(dataDe)
     : isLanguage === 'JP' ? setLanguage(dataJp)
     : isLanguage === 'PT' ? setLanguage(dataPt)
+    : isLanguage === 'CN' ? setLanguage(dataCn)
     : setLanguage(dataEs)
   ), [isLanguage]);
 

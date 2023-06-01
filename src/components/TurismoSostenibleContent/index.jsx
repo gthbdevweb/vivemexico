@@ -7,6 +7,7 @@ import dataFr from '../../assets/data/turismoSostenible/fr/index.json';
 import dataDe from '../../assets/data/turismoSostenible/de/index.json';
 import dataJp from '../../assets/data/turismoSostenible/jp/index.json';
 import dataPt from '../../assets/data/turismoSostenible/pt/index.json';
+import dataCn from '../../assets/data/turismoSostenible/cn/index.json';
 import Share from '../Share';
 import './style.css';
 
@@ -21,6 +22,7 @@ const TurismoSostenibleContent = () => {
     : isLanguage === 'DE' ? setLanguage(dataDe)
     : isLanguage === 'JP' ? setLanguage(dataJp)
     : isLanguage === 'PT' ? setLanguage(dataPt)
+    : isLanguage === 'CN' ? setLanguage(dataCn)
     : setLanguage(dataEs)
   ), [isLanguage]);
 

@@ -7,6 +7,7 @@ import dataFr from '../../assets/data/turismoDeAventura/fr/index.json';
 import dataDe from '../../assets/data/turismoDeAventura/de/index.json';
 import dataJp from '../../assets/data/turismoDeAventura/jp/index.json';
 import dataPt from '../../assets/data/turismoDeAventura/pt/index.json';
+import dataCn from '../../assets/data/turismoDeAventura/cn/index.json';
 import Share from '../Share';
 import './style.css';
 
@@ -21,6 +22,7 @@ const TurismoDeAventuraContent = () => {
     : isLanguage === 'DE' ? setLanguage(dataDe)
     : isLanguage === 'JP' ? setLanguage(dataJp)
     : isLanguage === 'PT' ? setLanguage(dataPt)
+    : isLanguage === 'CN' ? setLanguage(dataCn)
     : setLanguage(dataEs)
   ), [isLanguage]);
 

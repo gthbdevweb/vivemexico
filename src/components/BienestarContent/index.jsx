@@ -7,6 +7,7 @@ import dataFr from '../../assets/data/bienestar/fr/index.json';
 import dataDe from '../../assets/data/bienestar/de/index.json';
 import dataJp from '../../assets/data/bienestar/jp/index.json';
 import dataPt from '../../assets/data/bienestar/pt/index.json';
+import dataCn from '../../assets/data/bienestar/cn/index.json';
 import Share from '../Share';
 import './style.css';
 
@@ -21,6 +22,7 @@ const BienestarContent = () => {
     : isLanguage === 'DE' ? setLanguage(dataDe)
     : isLanguage === 'JP' ? setLanguage(dataJp)
     : isLanguage === 'PT' ? setLanguage(dataPt)
+    : isLanguage === 'CN' ? setLanguage(dataCn)
     : setLanguage(dataEs)
   ), [isLanguage]);
 
