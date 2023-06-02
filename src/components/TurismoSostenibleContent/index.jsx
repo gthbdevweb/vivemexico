@@ -35,7 +35,7 @@ const TurismoSostenibleContent = () => {
       <div className="turismo-sostenible-content-ctn-img">
         <LazyLoadImage
           className="turismo-sostenible-content-img"
-          src={require(`../../assets/img/description/NAY_sanblas_playas_98.webp`)} 
+          src={require(`../../assets/img/turismoSostenible/BCS_tiburonballena.webp`)} 
           alt={language?.title}
         />
       </div>

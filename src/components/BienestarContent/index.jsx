@@ -35,7 +35,7 @@ const BienestarContent = () => {
       <div className="bienestar-content-ctn-img">
         <LazyLoadImage
           className="bienestar-content-img"
-          src={require(`../../assets/img/description/NAY_sanblas_playas_98.webp`)} 
+          src={require(`../../assets/img/bienestar/MOR_Tepoztlan_HotelDosPiedras_LGBT-33.webp`)} 
           alt={language?.title}
         />
       </div>

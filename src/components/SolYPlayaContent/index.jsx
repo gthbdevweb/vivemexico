@@ -35,7 +35,7 @@ const SolYPlayaContent = () => {
       <div className="sol-y-playa-content-ctn-img">
         <LazyLoadImage
           className="sol-y-playa-content-img"
-          src={require(`../../assets/img/description/NAY_sanblas_playas_98.webp`)} 
+          src={require(`../../assets/img/solYPlaya/Qroo_cancun_playa108.webp`)} 
           alt={language?.title}
         />
       </div>

@@ -35,7 +35,7 @@ const RutasGastronomicasContent = () => {
       <div className="rutas-gastronomicas-content-ctn-img">
         <LazyLoadImage
           className="rutas-gastronomicas-content-img"
-          src={require(`../../assets/img/description/NAY_sanblas_playas_98.webp`)} 
+          src={require(`../../assets/img/rutasGastronomicas/Dgo_Ciudad_Durango421.webp`)} 
           alt={language?.title}
         />
       </div>
